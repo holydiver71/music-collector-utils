@@ -1,0 +1,72 @@
+{
+  "formats": [
+    {
+      "id": 1,
+      "name": "10 inch Vinyl"
+    },
+    {
+      "id": 2,
+      "name": "12 inch Vinyl"
+    },
+    {
+      "id": 3,
+      "name": "7 inch Vinyl"
+    },
+    {
+      "id": 4,
+      "name": "All Media"
+    },
+    {
+      "id": 5,
+      "name": "Blu-Ray"
+    },
+    {
+      "id": 6,
+      "name": "Box Set"
+    },
+    {
+      "id": 7,
+      "name": "Cassette"
+    },
+    {
+      "id": 8,
+      "name": "CD"
+    },
+    {
+      "id": 9,
+      "name": "CD ROM"
+    },
+    {
+      "id": 10,
+      "name": "CD Single"
+    },
+    {
+      "id": 11,
+      "name": "CDr"
+    },
+    {
+      "id": 12,
+      "name": "DVD"
+    },
+    {
+      "id": 13,
+      "name": "EP"
+    },
+    {
+      "id": 14,
+      "name": "Flexi-disc"
+    },
+    {
+      "id": 15,
+      "name": "LP"
+    },
+    {
+      "id": 16,
+      "name": "VCD"
+    },
+    {
+      "id": 17,
+      "name": "Vinyl"
+    }
+  ]
+}

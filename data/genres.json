@@ -1,0 +1,816 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "name": "Acid Jazz"
+    },
+    {
+      "id": 2,
+      "name": "Acoustic"
+    },
+    {
+      "id": 3,
+      "name": "Alt-Folk"
+    },
+    {
+      "id": 4,
+      "name": "Alt. Rock"
+    },
+    {
+      "id": 5,
+      "name": "Alt.Rock"
+    },
+    {
+      "id": 6,
+      "name": "Alternative"
+    },
+    {
+      "id": 7,
+      "name": "Alternative - General"
+    },
+    {
+      "id": 8,
+      "name": "Alternative - Rock"
+    },
+    {
+      "id": 9,
+      "name": "Alternative Metal"
+    },
+    {
+      "id": 10,
+      "name": "Alternative Pop/Rock"
+    },
+    {
+      "id": 11,
+      "name": "Alternative Rock"
+    },
+    {
+      "id": 12,
+      "name": "Ambient"
+    },
+    {
+      "id": 13,
+      "name": "Ambient Alternative"
+    },
+    {
+      "id": 14,
+      "name": "American Rock"
+    },
+    {
+      "id": 15,
+      "name": "AOR"
+    },
+    {
+      "id": 16,
+      "name": "Arena Rock"
+    },
+    {
+      "id": 17,
+      "name": "Art Rock"
+    },
+    {
+      "id": 18,
+      "name": "Avantgarde"
+    },
+    {
+      "id": 19,
+      "name": "Big Beat"
+    },
+    {
+      "id": 20,
+      "name": "Black Metal"
+    },
+    {
+      "id": 21,
+      "name": "Blackened Speed Metal"
+    },
+    {
+      "id": 22,
+      "name": "Blues"
+    },
+    {
+      "id": 23,
+      "name": "Blues Rock"
+    },
+    {
+      "id": 24,
+      "name": "Breakbeat"
+    },
+    {
+      "id": 25,
+      "name": "Breaks"
+    },
+    {
+      "id": 26,
+      "name": "Brit Pop"
+    },
+    {
+      "id": 27,
+      "name": "British Pop"
+    },
+    {
+      "id": 28,
+      "name": "British Rock"
+    },
+    {
+      "id": 29,
+      "name": "BritPop"
+    },
+    {
+      "id": 30,
+      "name": "Canada"
+    },
+    {
+      "id": 31,
+      "name": "Children\u0027s"
+    },
+    {
+      "id": 32,
+      "name": "Chiptune"
+    },
+    {
+      "id": 33,
+      "name": "Christian Metal"
+    },
+    {
+      "id": 34,
+      "name": "Classic Rock"
+    },
+    {
+      "id": 35,
+      "name": "Club Dance"
+    },
+    {
+      "id": 36,
+      "name": "compilation"
+    },
+    {
+      "id": 37,
+      "name": "Contemporary Folk"
+    },
+    {
+      "id": 38,
+      "name": "Country Rock"
+    },
+    {
+      "id": 39,
+      "name": "Creation Records"
+    },
+    {
+      "id": 40,
+      "name": "Dance Pop"
+    },
+    {
+      "id": 41,
+      "name": "Death Doom"
+    },
+    {
+      "id": 42,
+      "name": "Death Metal"
+    },
+    {
+      "id": 43,
+      "name": "Desert Rock"
+    },
+    {
+      "id": 44,
+      "name": "Dialogue"
+    },
+    {
+      "id": 45,
+      "name": "Doom Metal"
+    },
+    {
+      "id": 46,
+      "name": "Downtempo"
+    },
+    {
+      "id": 47,
+      "name": "Dub"
+    },
+    {
+      "id": 48,
+      "name": "Electronic"
+    },
+    {
+      "id": 49,
+      "name": "Electronic Music"
+    },
+    {
+      "id": 50,
+      "name": "electronica"
+    },
+    {
+      "id": 51,
+      "name": "Emo"
+    },
+    {
+      "id": 52,
+      "name": "Epic Metal"
+    },
+    {
+      "id": 53,
+      "name": "Experimental"
+    },
+    {
+      "id": 54,
+      "name": "Folk"
+    },
+    {
+      "id": 55,
+      "name": "Folk Rock"
+    },
+    {
+      "id": 56,
+      "name": "Folk-Rock"
+    },
+    {
+      "id": 57,
+      "name": "Folk, World, \u0026 Country"
+    },
+    {
+      "id": 58,
+      "name": "Folk/Rock"
+    },
+    {
+      "id": 59,
+      "name": "Folkrock"
+    },
+    {
+      "id": 60,
+      "name": "Free Improvisation"
+    },
+    {
+      "id": 61,
+      "name": "Fun Punk"
+    },
+    {
+      "id": 62,
+      "name": "Funk"
+    },
+    {
+      "id": 63,
+      "name": "Funk / Soul"
+    },
+    {
+      "id": 64,
+      "name": "Funk Metal"
+    },
+    {
+      "id": 65,
+      "name": "Gangsta"
+    },
+    {
+      "id": 66,
+      "name": "Garage Rock"
+    },
+    {
+      "id": 67,
+      "name": "General Alternative"
+    },
+    {
+      "id": 68,
+      "name": "General Metal"
+    },
+    {
+      "id": 69,
+      "name": "General Pop"
+    },
+    {
+      "id": 70,
+      "name": "General Punk"
+    },
+    {
+      "id": 71,
+      "name": "General Rock"
+    },
+    {
+      "id": 72,
+      "name": "General Techno"
+    },
+    {
+      "id": 73,
+      "name": "Glam"
+    },
+    {
+      "id": 74,
+      "name": "Goth Rock"
+    },
+    {
+      "id": 75,
+      "name": "Grindcore"
+    },
+    {
+      "id": 76,
+      "name": "Grock"
+    },
+    {
+      "id": 77,
+      "name": "Groove Metal"
+    },
+    {
+      "id": 78,
+      "name": "Grunge"
+    },
+    {
+      "id": 79,
+      "name": "Hair Metal"
+    },
+    {
+      "id": 80,
+      "name": "Hard Rock"
+    },
+    {
+      "id": 81,
+      "name": "Hard-rock"
+    },
+    {
+      "id": 82,
+      "name": "Hardcore"
+    },
+    {
+      "id": 83,
+      "name": "Hardcore Techno"
+    },
+    {
+      "id": 84,
+      "name": "Heavy Metal"
+    },
+    {
+      "id": 85,
+      "name": "Hip Hop"
+    },
+    {
+      "id": 86,
+      "name": "Horror Metal"
+    },
+    {
+      "id": 87,
+      "name": "House"
+    },
+    {
+      "id": 88,
+      "name": "IDM"
+    },
+    {
+      "id": 89,
+      "name": "Illbient"
+    },
+    {
+      "id": 90,
+      "name": "Indie"
+    },
+    {
+      "id": 91,
+      "name": "Indie Pop"
+    },
+    {
+      "id": 92,
+      "name": "Indie Pop/Rock"
+    },
+    {
+      "id": 93,
+      "name": "Indie Punk"
+    },
+    {
+      "id": 94,
+      "name": "Indie Rock"
+    },
+    {
+      "id": 95,
+      "name": "indie-rock"
+    },
+    {
+      "id": 96,
+      "name": "Industrial"
+    },
+    {
+      "id": 97,
+      "name": "Industrial Metal"
+    },
+    {
+      "id": 98,
+      "name": "Interview"
+    },
+    {
+      "id": 99,
+      "name": "Jazz"
+    },
+    {
+      "id": 100,
+      "name": "Jazz-Rock"
+    },
+    {
+      "id": 101,
+      "name": "Leftfield"
+    },
+    {
+      "id": 102,
+      "name": "Lo-Fi"
+    },
+    {
+      "id": 103,
+      "name": "Lo-Fi/Garage"
+    },
+    {
+      "id": 104,
+      "name": "Lounge"
+    },
+    {
+      "id": 105,
+      "name": "Male singer"
+    },
+    {
+      "id": 106,
+      "name": "Melodic Death Metal"
+    },
+    {
+      "id": 107,
+      "name": "Melodic Metal"
+    },
+    {
+      "id": 108,
+      "name": "Metal"
+    },
+    {
+      "id": 109,
+      "name": "Metalcore"
+    },
+    {
+      "id": 110,
+      "name": "Misc"
+    },
+    {
+      "id": 111,
+      "name": "Mod"
+    },
+    {
+      "id": 112,
+      "name": "Musical"
+    },
+    {
+      "id": 113,
+      "name": "New Wave"
+    },
+    {
+      "id": 114,
+      "name": "Newage"
+    },
+    {
+      "id": 115,
+      "name": "Noise"
+    },
+    {
+      "id": 116,
+      "name": "Non-Music"
+    },
+    {
+      "id": 117,
+      "name": "Novelty"
+    },
+    {
+      "id": 118,
+      "name": "Nu Metal"
+    },
+    {
+      "id": 119,
+      "name": "NWOBHM"
+    },
+    {
+      "id": 120,
+      "name": "nwoNWOBHM"
+    },
+    {
+      "id": 121,
+      "name": "NWOTHM"
+    },
+    {
+      "id": 122,
+      "name": "Other"
+    },
+    {
+      "id": 123,
+      "name": "Parody"
+    },
+    {
+      "id": 124,
+      "name": "Pop"
+    },
+    {
+      "id": 125,
+      "name": "Pop - General"
+    },
+    {
+      "id": 126,
+      "name": "Pop - Rock"
+    },
+    {
+      "id": 127,
+      "name": "Pop / Rock"
+    },
+    {
+      "id": 128,
+      "name": "Pop Punk"
+    },
+    {
+      "id": 129,
+      "name": "Pop Rap"
+    },
+    {
+      "id": 130,
+      "name": "Pop Rock"
+    },
+    {
+      "id": 131,
+      "name": "Pop Vocals"
+    },
+    {
+      "id": 132,
+      "name": "Pop-Punk"
+    },
+    {
+      "id": 133,
+      "name": "Pop-Rock"
+    },
+    {
+      "id": 134,
+      "name": "Pop/Rock"
+    },
+    {
+      "id": 135,
+      "name": "Popular"
+    },
+    {
+      "id": 136,
+      "name": "Post Grunge"
+    },
+    {
+      "id": 137,
+      "name": "Post-Hardcore"
+    },
+    {
+      "id": 138,
+      "name": "Post-Punk"
+    },
+    {
+      "id": 139,
+      "name": "Power Metal"
+    },
+    {
+      "id": 140,
+      "name": "Power Pop"
+    },
+    {
+      "id": 141,
+      "name": "Prog Rock"
+    },
+    {
+      "id": 142,
+      "name": "Progressive Metal"
+    },
+    {
+      "id": 143,
+      "name": "Progressive Power Metal"
+    },
+    {
+      "id": 144,
+      "name": "Progressive Rock"
+    },
+    {
+      "id": 145,
+      "name": "Psychedelic Rock"
+    },
+    {
+      "id": 146,
+      "name": "Psychobilly"
+    },
+    {
+      "id": 147,
+      "name": "Punk"
+    },
+    {
+      "id": 148,
+      "name": "Punk Blues"
+    },
+    {
+      "id": 149,
+      "name": "Punk Dub"
+    },
+    {
+      "id": 150,
+      "name": "Punk Rock"
+    },
+    {
+      "id": 151,
+      "name": "Punk-Rock"
+    },
+    {
+      "id": 152,
+      "name": "PunkRock"
+    },
+    {
+      "id": 153,
+      "name": "r"
+    },
+    {
+      "id": 154,
+      "name": "Reggae"
+    },
+    {
+      "id": 155,
+      "name": "Reggae-Pop"
+    },
+    {
+      "id": 156,
+      "name": "Reissue"
+    },
+    {
+      "id": 157,
+      "name": "Reissue with Bonus Tracks"
+    },
+    {
+      "id": 158,
+      "name": "Rock"
+    },
+    {
+      "id": 159,
+      "name": "Rock \u0026 Roll"
+    },
+    {
+      "id": 160,
+      "name": "rock inde"
+    },
+    {
+      "id": 161,
+      "name": "Rock, allgemein"
+    },
+    {
+      "id": 162,
+      "name": "Roots Reggae"
+    },
+    {
+      "id": 163,
+      "name": "Shoegaze"
+    },
+    {
+      "id": 164,
+      "name": "Singer / Songwriter"
+    },
+    {
+      "id": 165,
+      "name": "Singer-Songwriter"
+    },
+    {
+      "id": 166,
+      "name": "Singer/Songwriter"
+    },
+    {
+      "id": 167,
+      "name": "Ska"
+    },
+    {
+      "id": 168,
+      "name": "Ska Revival/3rd Wave"
+    },
+    {
+      "id": 169,
+      "name": "Skiffle"
+    },
+    {
+      "id": 170,
+      "name": "Sleaze Metal"
+    },
+    {
+      "id": 171,
+      "name": "Sludge Metal"
+    },
+    {
+      "id": 172,
+      "name": "Soft Rock"
+    },
+    {
+      "id": 173,
+      "name": "Soul"
+    },
+    {
+      "id": 174,
+      "name": "Soundtrack"
+    },
+    {
+      "id": 175,
+      "name": "Southern"
+    },
+    {
+      "id": 176,
+      "name": "Southern Rock"
+    },
+    {
+      "id": 177,
+      "name": "Space Rock"
+    },
+    {
+      "id": 178,
+      "name": "Speech"
+    },
+    {
+      "id": 179,
+      "name": "Speed Metal"
+    },
+    {
+      "id": 180,
+      "name": "Speed/Thrash Metal"
+    },
+    {
+      "id": 181,
+      "name": "Spoken Word"
+    },
+    {
+      "id": 182,
+      "name": "Stage \u0026 Screen"
+    },
+    {
+      "id": 183,
+      "name": "Stoner Metal"
+    },
+    {
+      "id": 184,
+      "name": "Stoner Rock"
+    },
+    {
+      "id": 185,
+      "name": "Straight Edge Punk"
+    },
+    {
+      "id": 186,
+      "name": "Surf"
+    },
+    {
+      "id": 187,
+      "name": "Symphonic Pop"
+    },
+    {
+      "id": 188,
+      "name": "Symphonic Rock"
+    },
+    {
+      "id": 189,
+      "name": "Synth Pop"
+    },
+    {
+      "id": 190,
+      "name": "Synth-pop"
+    },
+    {
+      "id": 191,
+      "name": "Synthwave"
+    },
+    {
+      "id": 192,
+      "name": "Techno"
+    },
+    {
+      "id": 193,
+      "name": "Thrash"
+    },
+    {
+      "id": 194,
+      "name": "Thrash Metal"
+    },
+    {
+      "id": 195,
+      "name": "Thrash-Metal"
+    },
+    {
+      "id": 196,
+      "name": "Thrash/Speed Metal"
+    },
+    {
+      "id": 197,
+      "name": "Trip Hop"
+    },
+    {
+      "id": 198,
+      "name": "Two Tone"
+    },
+    {
+      "id": 199,
+      "name": "UK NWOTHM"
+    },
+    {
+      "id": 200,
+      "name": "UKThrash"
+    },
+    {
+      "id": 201,
+      "name": "Unclassified"
+    },
+    {
+      "id": 202,
+      "name": "Viking Metal"
+    },
+    {
+      "id": 203,
+      "name": "Vocal"
+    }
+  ]
+}

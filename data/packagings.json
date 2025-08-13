@@ -1,0 +1,112 @@
+{
+  "packagings": [
+    {
+      "id": 1,
+      "name": "2CD Jewel Case"
+    },
+    {
+      "id": 2,
+      "name": "5013929018884"
+    },
+    {
+      "id": 3,
+      "name": "Card Wallet"
+    },
+    {
+      "id": 4,
+      "name": "Card Wallet - Boxset"
+    },
+    {
+      "id": 5,
+      "name": "Card Wallet - Clear Plastic Case"
+    },
+    {
+      "id": 6,
+      "name": "Card Wallet - Gatefold"
+    },
+    {
+      "id": 7,
+      "name": "Custom Box"
+    },
+    {
+      "id": 8,
+      "name": "Custom Sleeve"
+    },
+    {
+      "id": 9,
+      "name": "Deluxe Digipak"
+    },
+    {
+      "id": 10,
+      "name": "Digibook"
+    },
+    {
+      "id": 11,
+      "name": "Digibook (A4)"
+    },
+    {
+      "id": 12,
+      "name": "Digibook with Slipcase"
+    },
+    {
+      "id": 13,
+      "name": "Digipac"
+    },
+    {
+      "id": 14,
+      "name": "Earbook"
+    },
+    {
+      "id": 15,
+      "name": "Eco Pak FLP\u2122 Jewel Box"
+    },
+    {
+      "id": 16,
+      "name": "Fat Jewel Case"
+    },
+    {
+      "id": 17,
+      "name": "Gatefold Sleeve"
+    },
+    {
+      "id": 18,
+      "name": "Generic"
+    },
+    {
+      "id": 19,
+      "name": "Jewel Case"
+    },
+    {
+      "id": 20,
+      "name": "Long box"
+    },
+    {
+      "id": 21,
+      "name": "Original Sleeve"
+    },
+    {
+      "id": 22,
+      "name": "Paper Sleeve"
+    },
+    {
+      "id": 23,
+      "name": "Picture Disc Sleeve"
+    },
+    {
+      "id": 24,
+      "name": "Replacement Sleeve"
+    },
+    {
+      "id": 25,
+      "name": "Single Sleeve"
+    },
+    {
+      "id": 26,
+      "name": "Super Jewel Case"
+    },
+    {
+      "id": 27,
+      "name": "Triple Gatefold"
+    }
+  ]
+}

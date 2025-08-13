@@ -1,0 +1,5896 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "1/2 Japanese"
+    },
+    {
+      "id": 2,
+      "name": "10$ Head"
+    },
+    {
+      "id": 3,
+      "name": "10cc"
+    },
+    {
+      "id": 4,
+      "name": "1994:"
+    },
+    {
+      "id": 5,
+      "name": "2000"
+    },
+    {
+      "id": 6,
+      "name": "3 Inches Of Blood"
+    },
+    {
+      "id": 7,
+      "name": "3000AD"
+    },
+    {
+      "id": 8,
+      "name": "60ft Dolls"
+    },
+    {
+      "id": 9,
+      "name": "707"
+    },
+    {
+      "id": 10,
+      "name": "A II Z"
+    },
+    {
+      "id": 11,
+      "name": "A.C. Acoustics"
+    },
+    {
+      "id": 12,
+      "name": "Aaronsrod"
+    },
+    {
+      "id": 13,
+      "name": "Abigail"
+    },
+    {
+      "id": 14,
+      "name": "Abigail; Vuil"
+    },
+    {
+      "id": 15,
+      "name": "Absolute Power"
+    },
+    {
+      "id": 16,
+      "name": "AC/DC"
+    },
+    {
+      "id": 17,
+      "name": "Accept"
+    },
+    {
+      "id": 18,
+      "name": "Accuser"
+    },
+    {
+      "id": 19,
+      "name": "Ace Lane"
+    },
+    {
+      "id": 20,
+      "name": "Acerus"
+    },
+    {
+      "id": 21,
+      "name": "Acid"
+    },
+    {
+      "id": 22,
+      "name": "Acid Age"
+    },
+    {
+      "id": 23,
+      "name": "Acid Love Bites"
+    },
+    {
+      "id": 24,
+      "name": "Acid Reign"
+    },
+    {
+      "id": 25,
+      "name": "Acrassicauda"
+    },
+    {
+      "id": 26,
+      "name": "Acrophet"
+    },
+    {
+      "id": 27,
+      "name": "Adam \u0026 the Ants"
+    },
+    {
+      "id": 28,
+      "name": "Adam And The Ants"
+    },
+    {
+      "id": 29,
+      "name": "Adrenicide"
+    },
+    {
+      "id": 30,
+      "name": "Adversity"
+    },
+    {
+      "id": 31,
+      "name": "Aerosmith"
+    },
+    {
+      "id": 32,
+      "name": "After Hours"
+    },
+    {
+      "id": 33,
+      "name": "Agent Steel"
+    },
+    {
+      "id": 34,
+      "name": "Aggressive Perfector"
+    },
+    {
+      "id": 35,
+      "name": "Agony"
+    },
+    {
+      "id": 36,
+      "name": "Aimee Mann"
+    },
+    {
+      "id": 37,
+      "name": "Air"
+    },
+    {
+      "id": 38,
+      "name": "Air Raid"
+    },
+    {
+      "id": 39,
+      "name": "Airforce"
+    },
+    {
+      "id": 40,
+      "name": "Airplane And Dead"
+    },
+    {
+      "id": 41,
+      "name": "Aktor"
+    },
+    {
+      "id": 42,
+      "name": "Al Green"
+    },
+    {
+      "id": 43,
+      "name": "Alabama 3; Sonia"
+    },
+    {
+      "id": 44,
+      "name": "Alanis Morissette"
+    },
+    {
+      "id": 45,
+      "name": "Alaska"
+    },
+    {
+      "id": 46,
+      "name": "Alcatrazz"
+    },
+    {
+      "id": 47,
+      "name": "Alice Cooper"
+    },
+    {
+      "id": 48,
+      "name": "Alisha\u0027s Attic"
+    },
+    {
+      "id": 49,
+      "name": "Alpha Tiger"
+    },
+    {
+      "id": 50,
+      "name": "Altar Of Oblivion"
+    },
+    {
+      "id": 51,
+      "name": "Alternative Attack"
+    },
+    {
+      "id": 52,
+      "name": "Alternative TV"
+    },
+    {
+      "id": 53,
+      "name": "American Tears"
+    },
+    {
+      "id": 54,
+      "name": "Amnesia"
+    },
+    {
+      "id": 55,
+      "name": "Amok"
+    },
+    {
+      "id": 56,
+      "name": "Amorphia"
+    },
+    {
+      "id": 57,
+      "name": "Amulet"
+    },
+    {
+      "id": 58,
+      "name": "Anacrusis"
+    },
+    {
+      "id": 59,
+      "name": "Ancient Dome"
+    },
+    {
+      "id": 60,
+      "name": "Angel"
+    },
+    {
+      "id": 61,
+      "name": "Angel Underground"
+    },
+    {
+      "id": 62,
+      "name": "Angel Witch"
+    },
+    {
+      "id": 63,
+      "name": "Angela Davis"
+    },
+    {
+      "id": 64,
+      "name": "Anguish"
+    },
+    {
+      "id": 65,
+      "name": "Anihilated"
+    },
+    {
+      "id": 66,
+      "name": "Animal"
+    },
+    {
+      "id": 67,
+      "name": "Ann Matthews"
+    },
+    {
+      "id": 68,
+      "name": "Annihilator"
+    },
+    {
+      "id": 69,
+      "name": "Anthrax"
+    },
+    {
+      "id": 70,
+      "name": "Antique Scream"
+    },
+    {
+      "id": 71,
+      "name": "Anvil"
+    },
+    {
+      "id": 72,
+      "name": "Ape Machine"
+    },
+    {
+      "id": 73,
+      "name": "Apocalypse"
+    },
+    {
+      "id": 74,
+      "name": "Apocrypha"
+    },
+    {
+      "id": 75,
+      "name": "April Wine"
+    },
+    {
+      "id": 76,
+      "name": "April\u0027s Motel Room"
+    },
+    {
+      "id": 77,
+      "name": "Aragorn"
+    },
+    {
+      "id": 78,
+      "name": "Arbitrater"
+    },
+    {
+      "id": 79,
+      "name": "Ardkore"
+    },
+    {
+      "id": 80,
+      "name": "Arkenstone"
+    },
+    {
+      "id": 81,
+      "name": "Arkham Witch"
+    },
+    {
+      "id": 82,
+      "name": "Armored Saint"
+    },
+    {
+      "id": 83,
+      "name": "Armoured Knight"
+    },
+    {
+      "id": 84,
+      "name": "Artch"
+    },
+    {
+      "id": 85,
+      "name": "Arthur Turner\u0027s Lovechild?"
+    },
+    {
+      "id": 86,
+      "name": "Artillery"
+    },
+    {
+      "id": 87,
+      "name": "Ascalon"
+    },
+    {
+      "id": 88,
+      "name": "Ash"
+    },
+    {
+      "id": 89,
+      "name": "Asomvel"
+    },
+    {
+      "id": 90,
+      "name": "Assassin"
+    },
+    {
+      "id": 91,
+      "name": "Aswad"
+    },
+    {
+      "id": 92,
+      "name": "Atomkraft"
+    },
+    {
+      "id": 93,
+      "name": "Atrophy"
+    },
+    {
+      "id": 94,
+      "name": "Attacker"
+    },
+    {
+      "id": 95,
+      "name": "Audioslave"
+    },
+    {
+      "id": 96,
+      "name": "Audioweb"
+    },
+    {
+      "id": 97,
+      "name": "Autograph"
+    },
+    {
+      "id": 98,
+      "name": "Autopsy"
+    },
+    {
+      "id": 99,
+      "name": "Avenger"
+    },
+    {
+      "id": 100,
+      "name": "Axe"
+    },
+    {
+      "id": 101,
+      "name": "Axel Rudi Pell"
+    },
+    {
+      "id": 102,
+      "name": "Baby Bird"
+    },
+    {
+      "id": 103,
+      "name": "Baby Jane"
+    },
+    {
+      "id": 104,
+      "name": "Baby Tuckoo"
+    },
+    {
+      "id": 105,
+      "name": "Babybird"
+    },
+    {
+      "id": 106,
+      "name": "Babymetal"
+    },
+    {
+      "id": 107,
+      "name": "Bachman-Turner Overdrive"
+    },
+    {
+      "id": 108,
+      "name": "Bad Brains"
+    },
+    {
+      "id": 109,
+      "name": "Bad Company"
+    },
+    {
+      "id": 110,
+      "name": "Bad News"
+    },
+    {
+      "id": 111,
+      "name": "Bad Religion"
+    },
+    {
+      "id": 112,
+      "name": "Balance"
+    },
+    {
+      "id": 113,
+      "name": "Bangover"
+    },
+    {
+      "id": 114,
+      "name": "Banshee"
+    },
+    {
+      "id": 115,
+      "name": "Barenaked Ladies"
+    },
+    {
+      "id": 116,
+      "name": "Bar\u00F3n Rojo"
+    },
+    {
+      "id": 117,
+      "name": "Baroness"
+    },
+    {
+      "id": 118,
+      "name": "Barren Cross"
+    },
+    {
+      "id": 119,
+      "name": "Bartok and I"
+    },
+    {
+      "id": 120,
+      "name": "Bat"
+    },
+    {
+      "id": 121,
+      "name": "Battleaxe"
+    },
+    {
+      "id": 122,
+      "name": "Beaker"
+    },
+    {
+      "id": 123,
+      "name": "Beatcream"
+    },
+    {
+      "id": 124,
+      "name": "Bedlam"
+    },
+    {
+      "id": 125,
+      "name": "Bellator"
+    },
+    {
+      "id": 126,
+      "name": "Belly"
+    },
+    {
+      "id": 127,
+      "name": "Ben Folds Five"
+    },
+    {
+      "id": 128,
+      "name": "Bentley Rhythm Ace"
+    },
+    {
+      "id": 129,
+      "name": "Besieged"
+    },
+    {
+      "id": 130,
+      "name": "Bewitcher"
+    },
+    {
+      "id": 131,
+      "name": "Bionic"
+    },
+    {
+      "id": 132,
+      "name": "Bitches Sin"
+    },
+    {
+      "id": 133,
+      "name": "Bjork"
+    },
+    {
+      "id": 134,
+      "name": "Bj\u00F6rk"
+    },
+    {
+      "id": 135,
+      "name": "Black Axe"
+    },
+    {
+      "id": 136,
+      "name": "Black Cobra"
+    },
+    {
+      "id": 137,
+      "name": "Black Death"
+    },
+    {
+      "id": 138,
+      "name": "Black Grape"
+    },
+    {
+      "id": 139,
+      "name": "Black Kali Ma"
+    },
+    {
+      "id": 140,
+      "name": "Black Moor"
+    },
+    {
+      "id": 141,
+      "name": "Black Out"
+    },
+    {
+      "id": 142,
+      "name": "Black Rebel Motorcycle Club"
+    },
+    {
+      "id": 143,
+      "name": "Black Royal"
+    },
+    {
+      "id": 144,
+      "name": "Black Sabbath"
+    },
+    {
+      "id": 145,
+      "name": "Black Star Riders"
+    },
+    {
+      "id": 146,
+      "name": "Black Talon"
+    },
+    {
+      "id": 147,
+      "name": "Black Trip"
+    },
+    {
+      "id": 148,
+      "name": "Black Vulpine"
+    },
+    {
+      "id": 149,
+      "name": "Black Witch"
+    },
+    {
+      "id": 150,
+      "name": "Black Wizard"
+    },
+    {
+      "id": 151,
+      "name": "Blackfoot"
+    },
+    {
+      "id": 152,
+      "name": "Blacklace"
+    },
+    {
+      "id": 153,
+      "name": "Blackw\u00FClf"
+    },
+    {
+      "id": 154,
+      "name": "Blaggers ITA"
+    },
+    {
+      "id": 155,
+      "name": "Blameless"
+    },
+    {
+      "id": 156,
+      "name": "Blind Guardian"
+    },
+    {
+      "id": 157,
+      "name": "Blind Illusion"
+    },
+    {
+      "id": 158,
+      "name": "Blitzkrieg"
+    },
+    {
+      "id": 159,
+      "name": "Blondie"
+    },
+    {
+      "id": 160,
+      "name": "Blood Money"
+    },
+    {
+      "id": 161,
+      "name": "Bloody Six"
+    },
+    {
+      "id": 162,
+      "name": "Blue Kite"
+    },
+    {
+      "id": 163,
+      "name": "Blue \u00D6yster Cult"
+    },
+    {
+      "id": 164,
+      "name": "Blue Swede"
+    },
+    {
+      "id": 165,
+      "name": "Blur"
+    },
+    {
+      "id": 166,
+      "name": "Bog-Shed"
+    },
+    {
+      "id": 167,
+      "name": "Bon Jovi"
+    },
+    {
+      "id": 168,
+      "name": "Boston"
+    },
+    {
+      "id": 169,
+      "name": "Bow Wow"
+    },
+    {
+      "id": 170,
+      "name": "Brian Eno"
+    },
+    {
+      "id": 171,
+      "name": "Bring Me The Horizon"
+    },
+    {
+      "id": 172,
+      "name": "British Lion"
+    },
+    {
+      "id": 173,
+      "name": "Bronz"
+    },
+    {
+      "id": 174,
+      "name": "Brownsville Station"
+    },
+    {
+      "id": 175,
+      "name": "Bruce Dickinson"
+    },
+    {
+      "id": 176,
+      "name": "Budgie"
+    },
+    {
+      "id": 177,
+      "name": "Bull-Riff Stampede"
+    },
+    {
+      "id": 178,
+      "name": "Bullet"
+    },
+    {
+      "id": 179,
+      "name": "Bush"
+    },
+    {
+      "id": 180,
+      "name": "Bush Tetras"
+    },
+    {
+      "id": 181,
+      "name": "Butthole Surfers"
+    },
+    {
+      "id": 182,
+      "name": "C.J. Ramone"
+    },
+    {
+      "id": 183,
+      "name": "Cable"
+    },
+    {
+      "id": 184,
+      "name": "Cacophony"
+    },
+    {
+      "id": 185,
+      "name": "CAKE"
+    },
+    {
+      "id": 186,
+      "name": "Callus"
+    },
+    {
+      "id": 187,
+      "name": "Candlemass"
+    },
+    {
+      "id": 188,
+      "name": "Cans"
+    },
+    {
+      "id": 189,
+      "name": "Carcass"
+    },
+    {
+      "id": 190,
+      "name": "Cast"
+    },
+    {
+      "id": 191,
+      "name": "Catatonia"
+    },
+    {
+      "id": 192,
+      "name": "Celfi Cam"
+    },
+    {
+      "id": 193,
+      "name": "Celtic Frost"
+    },
+    {
+      "id": 194,
+      "name": "Cerebral Scar"
+    },
+    {
+      "id": 195,
+      "name": "Chariot"
+    },
+    {
+      "id": 196,
+      "name": "Charlatans"
+    },
+    {
+      "id": 197,
+      "name": "Chastain"
+    },
+    {
+      "id": 198,
+      "name": "Chateaux"
+    },
+    {
+      "id": 199,
+      "name": "Chemical Brothers With Tim Burgess"
+    },
+    {
+      "id": 200,
+      "name": "Cherokee"
+    },
+    {
+      "id": 201,
+      "name": "Chevy"
+    },
+    {
+      "id": 202,
+      "name": "Children Of Bodom"
+    },
+    {
+      "id": 203,
+      "name": "Chrome Molly"
+    },
+    {
+      "id": 204,
+      "name": "Chubby Thunderous Bad Kush Masters"
+    },
+    {
+      "id": 205,
+      "name": "Chuck Berry"
+    },
+    {
+      "id": 206,
+      "name": "Cinderella"
+    },
+    {
+      "id": 207,
+      "name": "Cinerama"
+    },
+    {
+      "id": 208,
+      "name": "Cirith Ungol"
+    },
+    {
+      "id": 209,
+      "name": "CJSS"
+    },
+    {
+      "id": 210,
+      "name": "Cloven Hoof"
+    },
+    {
+      "id": 211,
+      "name": "Clutch"
+    },
+    {
+      "id": 212,
+      "name": "Cobra"
+    },
+    {
+      "id": 213,
+      "name": "Coldplay"
+    },
+    {
+      "id": 214,
+      "name": "Collapsed Lung"
+    },
+    {
+      "id": 215,
+      "name": "Coltre"
+    },
+    {
+      "id": 216,
+      "name": "Compulsion"
+    },
+    {
+      "id": 217,
+      "name": "Conception"
+    },
+    {
+      "id": 218,
+      "name": "Concrete Force"
+    },
+    {
+      "id": 219,
+      "name": "Consecration"
+    },
+    {
+      "id": 220,
+      "name": "Coronary"
+    },
+    {
+      "id": 221,
+      "name": "Coroner"
+    },
+    {
+      "id": 222,
+      "name": "Counting Crows"
+    },
+    {
+      "id": 223,
+      "name": "Crash Alley"
+    },
+    {
+      "id": 224,
+      "name": "Crash Test Dummies"
+    },
+    {
+      "id": 225,
+      "name": "Crimson Glory"
+    },
+    {
+      "id": 226,
+      "name": "Crossfire"
+    },
+    {
+      "id": 227,
+      "name": "Crucifixion"
+    },
+    {
+      "id": 228,
+      "name": "Cruel Force"
+    },
+    {
+      "id": 229,
+      "name": "Cry Wolf"
+    },
+    {
+      "id": 230,
+      "name": "Cursed Slaughter"
+    },
+    {
+      "id": 231,
+      "name": "Cutty Sark"
+    },
+    {
+      "id": 232,
+      "name": "Cypress Hill"
+    },
+    {
+      "id": 233,
+      "name": "Czar"
+    },
+    {
+      "id": 234,
+      "name": "D.A.M."
+    },
+    {
+      "id": 235,
+      "name": "D.C. Lacroix"
+    },
+    {
+      "id": 236,
+      "name": "D.O.A."
+    },
+    {
+      "id": 237,
+      "name": "Daniel Wax Off"
+    },
+    {
+      "id": 238,
+      "name": "Dark Angel"
+    },
+    {
+      "id": 239,
+      "name": "Dark Forest"
+    },
+    {
+      "id": 240,
+      "name": "Dark Star"
+    },
+    {
+      "id": 241,
+      "name": "Darkness"
+    },
+    {
+      "id": 242,
+      "name": "Datblygu"
+    },
+    {
+      "id": 243,
+      "name": "David Bowie"
+    },
+    {
+      "id": 244,
+      "name": "David Gray"
+    },
+    {
+      "id": 245,
+      "name": "David Lee Roth"
+    },
+    {
+      "id": 246,
+      "name": "Deacon Blue"
+    },
+    {
+      "id": 247,
+      "name": "Dead Lord"
+    },
+    {
+      "id": 248,
+      "name": "Dead Silence"
+    },
+    {
+      "id": 249,
+      "name": "Deadspot"
+    },
+    {
+      "id": 250,
+      "name": "Deadstar"
+    },
+    {
+      "id": 251,
+      "name": "Death"
+    },
+    {
+      "id": 252,
+      "name": "Death Angel"
+    },
+    {
+      "id": 253,
+      "name": "Death In Vegas"
+    },
+    {
+      "id": 254,
+      "name": "Death SS"
+    },
+    {
+      "id": 255,
+      "name": "Death Trash"
+    },
+    {
+      "id": 256,
+      "name": "Death Warmed Up"
+    },
+    {
+      "id": 257,
+      "name": "Deathrow"
+    },
+    {
+      "id": 258,
+      "name": "Deathstorm"
+    },
+    {
+      "id": 259,
+      "name": "Deathwish"
+    },
+    {
+      "id": 260,
+      "name": "Debbie Harry \u0026 Iggy Pop"
+    },
+    {
+      "id": 261,
+      "name": "Deborah Harry"
+    },
+    {
+      "id": 262,
+      "name": "Deceptor"
+    },
+    {
+      "id": 263,
+      "name": "Decimator"
+    },
+    {
+      "id": 264,
+      "name": "Ded Engine"
+    },
+    {
+      "id": 265,
+      "name": "Dedringer"
+    },
+    {
+      "id": 266,
+      "name": "Dee Dee Ramone"
+    },
+    {
+      "id": 267,
+      "name": "Dee Dee Ramone I.C.L.C."
+    },
+    {
+      "id": 268,
+      "name": "Def Leppard"
+    },
+    {
+      "id": 269,
+      "name": "Defiance"
+    },
+    {
+      "id": 270,
+      "name": "Delays"
+    },
+    {
+      "id": 271,
+      "name": "Deliverance"
+    },
+    {
+      "id": 272,
+      "name": "Demon"
+    },
+    {
+      "id": 273,
+      "name": "Denner/Shermann"
+    },
+    {
+      "id": 274,
+      "name": "Depeche Mode"
+    },
+    {
+      "id": 275,
+      "name": "Desmond Child And Rouge"
+    },
+    {
+      "id": 276,
+      "name": "Desolation Angels"
+    },
+    {
+      "id": 277,
+      "name": "Desolator"
+    },
+    {
+      "id": 278,
+      "name": "Despair"
+    },
+    {
+      "id": 279,
+      "name": "Destroy All Monsters"
+    },
+    {
+      "id": 280,
+      "name": "Destruction"
+    },
+    {
+      "id": 281,
+      "name": "dEUS"
+    },
+    {
+      "id": 282,
+      "name": "Deviant"
+    },
+    {
+      "id": 283,
+      "name": "Device"
+    },
+    {
+      "id": 284,
+      "name": "Devil To Pay"
+    },
+    {
+      "id": 285,
+      "name": "Devilskin"
+    },
+    {
+      "id": 286,
+      "name": "Devo"
+    },
+    {
+      "id": 287,
+      "name": "Diamond Head"
+    },
+    {
+      "id": 288,
+      "name": "Dianno"
+    },
+    {
+      "id": 289,
+      "name": "Dick Dale \u0026 His Del-Tones"
+    },
+    {
+      "id": 290,
+      "name": "Diemonds"
+    },
+    {
+      "id": 291,
+      "name": "Diesel King"
+    },
+    {
+      "id": 292,
+      "name": "Dig"
+    },
+    {
+      "id": 293,
+      "name": "Dinosaur Jr."
+    },
+    {
+      "id": 294,
+      "name": "Dio"
+    },
+    {
+      "id": 295,
+      "name": "Dirty Looks"
+    },
+    {
+      "id": 296,
+      "name": "Dirty Rotten Imbeciles"
+    },
+    {
+      "id": 297,
+      "name": "DJ Icey"
+    },
+    {
+      "id": 298,
+      "name": "DJ Lazlow"
+    },
+    {
+      "id": 299,
+      "name": "DJ Shadow"
+    },
+    {
+      "id": 300,
+      "name": "Dodgy"
+    },
+    {
+      "id": 301,
+      "name": "Dokken"
+    },
+    {
+      "id": 302,
+      "name": "Dominance"
+    },
+    {
+      "id": 303,
+      "name": "Don Cappa"
+    },
+    {
+      "id": 304,
+      "name": "Dopefight"
+    },
+    {
+      "id": 305,
+      "name": "Doro"
+    },
+    {
+      "id": 306,
+      "name": "Doro \u0026 Warlock"
+    },
+    {
+      "id": 307,
+      "name": "Dr. Mastermind"
+    },
+    {
+      "id": 308,
+      "name": "Dragdoll"
+    },
+    {
+      "id": 309,
+      "name": "Dreadzone"
+    },
+    {
+      "id": 310,
+      "name": "Driven To Distraction"
+    },
+    {
+      "id": 311,
+      "name": "Drugstore"
+    },
+    {
+      "id": 312,
+      "name": "Drunken State"
+    },
+    {
+      "id": 313,
+      "name": "Dungeon"
+    },
+    {
+      "id": 314,
+      "name": "Dustball"
+    },
+    {
+      "id": 315,
+      "name": "Dusty Springfield"
+    },
+    {
+      "id": 316,
+      "name": "E-X-E"
+    },
+    {
+      "id": 317,
+      "name": "E.F. Band"
+    },
+    {
+      "id": 318,
+      "name": "Earthshaker"
+    },
+    {
+      "id": 319,
+      "name": "Easy Action"
+    },
+    {
+      "id": 320,
+      "name": "Eazy Money"
+    },
+    {
+      "id": 321,
+      "name": "Echobelly"
+    },
+    {
+      "id": 322,
+      "name": "Ectogram"
+    },
+    {
+      "id": 323,
+      "name": "Eddie And The Hot Rods"
+    },
+    {
+      "id": 324,
+      "name": "Edguy"
+    },
+    {
+      "id": 325,
+      "name": "Eels"
+    },
+    {
+      "id": 326,
+      "name": "Eerie"
+    },
+    {
+      "id": 327,
+      "name": "Eggman"
+    },
+    {
+      "id": 328,
+      "name": "Egypt"
+    },
+    {
+      "id": 329,
+      "name": "Elastica"
+    },
+    {
+      "id": 330,
+      "name": "Eld Varg"
+    },
+    {
+      "id": 331,
+      "name": "Elder"
+    },
+    {
+      "id": 332,
+      "name": "Elimination"
+    },
+    {
+      "id": 333,
+      "name": "Eliminator"
+    },
+    {
+      "id": 334,
+      "name": "Elixir"
+    },
+    {
+      "id": 335,
+      "name": "Elm Street"
+    },
+    {
+      "id": 336,
+      "name": "Elvis Costello"
+    },
+    {
+      "id": 337,
+      "name": "Elvis Presley"
+    },
+    {
+      "id": 338,
+      "name": "Embrace"
+    },
+    {
+      "id": 339,
+      "name": "Emerald"
+    },
+    {
+      "id": 340,
+      "name": "Emotional Suicide"
+    },
+    {
+      "id": 341,
+      "name": "Enchantment"
+    },
+    {
+      "id": 342,
+      "name": "Enforcer"
+    },
+    {
+      "id": 343,
+      "name": "Englandneworder"
+    },
+    {
+      "id": 344,
+      "name": "English Dogs"
+    },
+    {
+      "id": 345,
+      "name": "Ennio Morricone"
+    },
+    {
+      "id": 346,
+      "name": "Enos"
+    },
+    {
+      "id": 347,
+      "name": "Entombed"
+    },
+    {
+      "id": 348,
+      "name": "Eradikator"
+    },
+    {
+      "id": 349,
+      "name": "Eric Martin"
+    },
+    {
+      "id": 350,
+      "name": "Eternal Champion"
+    },
+    {
+      "id": 351,
+      "name": "Ethel The Frog"
+    },
+    {
+      "id": 352,
+      "name": "Europe"
+    },
+    {
+      "id": 353,
+      "name": "Evan Johns \u0026 The H-Bombs"
+    },
+    {
+      "id": 354,
+      "name": "Eviction"
+    },
+    {
+      "id": 355,
+      "name": "Evil Priest"
+    },
+    {
+      "id": 356,
+      "name": "Evile"
+    },
+    {
+      "id": 357,
+      "name": "Exciter"
+    },
+    {
+      "id": 358,
+      "name": "Exhorder"
+    },
+    {
+      "id": 359,
+      "name": "Exodus"
+    },
+    {
+      "id": 360,
+      "name": "Experimental Pop Band"
+    },
+    {
+      "id": 361,
+      "name": "Exumer"
+    },
+    {
+      "id": 362,
+      "name": "F.O.D."
+    },
+    {
+      "id": 363,
+      "name": "Fact"
+    },
+    {
+      "id": 364,
+      "name": "Faith No More"
+    },
+    {
+      "id": 365,
+      "name": "Faith Or Fear"
+    },
+    {
+      "id": 366,
+      "name": "Faithful Breath"
+    },
+    {
+      "id": 367,
+      "name": "Fallen Angel"
+    },
+    {
+      "id": 368,
+      "name": "Farseer"
+    },
+    {
+      "id": 369,
+      "name": "Fastway"
+    },
+    {
+      "id": 370,
+      "name": "Fatboy Slim"
+    },
+    {
+      "id": 371,
+      "name": "Fate"
+    },
+    {
+      "id": 372,
+      "name": "Fatima Mansions, The"
+    },
+    {
+      "id": 373,
+      "name": "Fear My Thoughts"
+    },
+    {
+      "id": 374,
+      "name": "feat. Nina Persson"
+    },
+    {
+      "id": 375,
+      "name": "Ferdinand, Franz"
+    },
+    {
+      "id": 376,
+      "name": "Fflaps"
+    },
+    {
+      "id": 377,
+      "name": "Final Sign"
+    },
+    {
+      "id": 378,
+      "name": "First Blood"
+    },
+    {
+      "id": 379,
+      "name": "Fist"
+    },
+    {
+      "id": 380,
+      "name": "Five Finger Death Punch"
+    },
+    {
+      "id": 381,
+      "name": "Fleshies"
+    },
+    {
+      "id": 382,
+      "name": "Flight"
+    },
+    {
+      "id": 383,
+      "name": "Flotsam And Jetsam"
+    },
+    {
+      "id": 384,
+      "name": "Fluke"
+    },
+    {
+      "id": 385,
+      "name": "Fn Guns"
+    },
+    {
+      "id": 386,
+      "name": "Foehn"
+    },
+    {
+      "id": 387,
+      "name": "Forbidden"
+    },
+    {
+      "id": 388,
+      "name": "Force Of Evil"
+    },
+    {
+      "id": 389,
+      "name": "Forlorn Hope"
+    },
+    {
+      "id": 390,
+      "name": "Forsaken Age"
+    },
+    {
+      "id": 391,
+      "name": "Frank Black"
+    },
+    {
+      "id": 392,
+      "name": "Frank Marino"
+    },
+    {
+      "id": 393,
+      "name": "Frank Marino; Mahogany Rush"
+    },
+    {
+      "id": 394,
+      "name": "Frank Soda \u0026 The Imps"
+    },
+    {
+      "id": 395,
+      "name": "Freaks And Clowns"
+    },
+    {
+      "id": 396,
+      "name": "Freda Payne"
+    },
+    {
+      "id": 397,
+      "name": "Frente"
+    },
+    {
+      "id": 398,
+      "name": "Frenzy"
+    },
+    {
+      "id": 399,
+      "name": "Funeral Horse"
+    },
+    {
+      "id": 400,
+      "name": "Fury"
+    },
+    {
+      "id": 401,
+      "name": "G. Love \u0026 Special Sauce"
+    },
+    {
+      "id": 402,
+      "name": "Galliano"
+    },
+    {
+      "id": 403,
+      "name": "Gama Bomb"
+    },
+    {
+      "id": 404,
+      "name": "Game Over"
+    },
+    {
+      "id": 405,
+      "name": "Gamma"
+    },
+    {
+      "id": 406,
+      "name": "Gamma Ray"
+    },
+    {
+      "id": 407,
+      "name": "Gang War"
+    },
+    {
+      "id": 408,
+      "name": "Garageland"
+    },
+    {
+      "id": 409,
+      "name": "Garbage"
+    },
+    {
+      "id": 410,
+      "name": "Gary Moore"
+    },
+    {
+      "id": 411,
+      "name": "Gaskin"
+    },
+    {
+      "id": 412,
+      "name": "Gatekeeper"
+    },
+    {
+      "id": 413,
+      "name": "Gaye Bykers On Acid"
+    },
+    {
+      "id": 414,
+      "name": "Gazebo"
+    },
+    {
+      "id": 415,
+      "name": "Geddes Axe"
+    },
+    {
+      "id": 416,
+      "name": "Gene"
+    },
+    {
+      "id": 417,
+      "name": "Geneva"
+    },
+    {
+      "id": 418,
+      "name": "George Baker Selection"
+    },
+    {
+      "id": 419,
+      "name": "Ghost"
+    },
+    {
+      "id": 420,
+      "name": "Giant"
+    },
+    {
+      "id": 421,
+      "name": "Gillan"
+    },
+    {
+      "id": 422,
+      "name": "Gin Blossoms"
+    },
+    {
+      "id": 423,
+      "name": "Girlschool"
+    },
+    {
+      "id": 424,
+      "name": "Glory Bells"
+    },
+    {
+      "id": 425,
+      "name": "Goat"
+    },
+    {
+      "id": 426,
+      "name": "Goat Leaf"
+    },
+    {
+      "id": 427,
+      "name": "Gonk"
+    },
+    {
+      "id": 428,
+      "name": "Goo Goo Dolls"
+    },
+    {
+      "id": 429,
+      "name": "Gorillaz"
+    },
+    {
+      "id": 430,
+      "name": "Gorky\u0027s Zygotic Mynci"
+    },
+    {
+      "id": 431,
+      "name": "Gorky\u0027s Zygotic Mynci; Brodyr Ronco"
+    },
+    {
+      "id": 432,
+      "name": "Gothic Slam"
+    },
+    {
+      "id": 433,
+      "name": "Graham Parker And The Rumour"
+    },
+    {
+      "id": 434,
+      "name": "Grand Magus"
+    },
+    {
+      "id": 435,
+      "name": "Grand Massive"
+    },
+    {
+      "id": 436,
+      "name": "Grandaddy"
+    },
+    {
+      "id": 437,
+      "name": "Grant Lee Buffalo"
+    },
+    {
+      "id": 438,
+      "name": "Grave Digger"
+    },
+    {
+      "id": 439,
+      "name": "Gravestone"
+    },
+    {
+      "id": 440,
+      "name": "Great Kat, The"
+    },
+    {
+      "id": 441,
+      "name": "Green Day"
+    },
+    {
+      "id": 442,
+      "name": "Green Sabre"
+    },
+    {
+      "id": 443,
+      "name": "Greg Howe"
+    },
+    {
+      "id": 444,
+      "name": "Greyhawk"
+    },
+    {
+      "id": 445,
+      "name": "Griffin"
+    },
+    {
+      "id": 446,
+      "name": "Grifter"
+    },
+    {
+      "id": 447,
+      "name": "Grim Reaper"
+    },
+    {
+      "id": 448,
+      "name": "Guardian"
+    },
+    {
+      "id": 449,
+      "name": "Gumball"
+    },
+    {
+      "id": 450,
+      "name": "Gun"
+    },
+    {
+      "id": 451,
+      "name": "Guns N\u0027 Roses"
+    },
+    {
+      "id": 452,
+      "name": "Gurt"
+    },
+    {
+      "id": 453,
+      "name": "Gusgus"
+    },
+    {
+      "id": 454,
+      "name": "Hacker"
+    },
+    {
+      "id": 455,
+      "name": "Hades"
+    },
+    {
+      "id": 456,
+      "name": "Halford"
+    },
+    {
+      "id": 457,
+      "name": "Hallows Eve"
+    },
+    {
+      "id": 458,
+      "name": "HammerFall"
+    },
+    {
+      "id": 459,
+      "name": "Hanoi Rocks"
+    },
+    {
+      "id": 460,
+      "name": "Hansen \u0026 Friends"
+    },
+    {
+      "id": 461,
+      "name": "Hanson"
+    },
+    {
+      "id": 462,
+      "name": "Happy Mondays"
+    },
+    {
+      "id": 463,
+      "name": "Hard Action"
+    },
+    {
+      "id": 464,
+      "name": "Harry Nilsson"
+    },
+    {
+      "id": 465,
+      "name": "Harter Attack"
+    },
+    {
+      "id": 466,
+      "name": "Hatrik"
+    },
+    {
+      "id": 467,
+      "name": "Haunt"
+    },
+    {
+      "id": 468,
+      "name": "Havoc"
+    },
+    {
+      "id": 469,
+      "name": "Havok"
+    },
+    {
+      "id": 470,
+      "name": "Hawkwind"
+    },
+    {
+      "id": 471,
+      "name": "Hazardous Waste"
+    },
+    {
+      "id": 472,
+      "name": "Hazel O\u0027Connor"
+    },
+    {
+      "id": 473,
+      "name": "Hazzard"
+    },
+    {
+      "id": 474,
+      "name": "Headpins"
+    },
+    {
+      "id": 475,
+      "name": "Heathen"
+    },
+    {
+      "id": 476,
+      "name": "Heaven \u0026 Hell"
+    },
+    {
+      "id": 477,
+      "name": "Heavenly"
+    },
+    {
+      "id": 478,
+      "name": "Heavy Glow"
+    },
+    {
+      "id": 479,
+      "name": "Heavy Pettin"
+    },
+    {
+      "id": 480,
+      "name": "Heavy Sentence"
+    },
+    {
+      "id": 481,
+      "name": "Helix"
+    },
+    {
+      "id": 482,
+      "name": "Hell"
+    },
+    {
+      "id": 483,
+      "name": "Hellanbach"
+    },
+    {
+      "id": 484,
+      "name": "Hellbastard"
+    },
+    {
+      "id": 485,
+      "name": "Hellion"
+    },
+    {
+      "id": 486,
+      "name": "Helloween"
+    },
+    {
+      "id": 487,
+      "name": "Hellripper"
+    },
+    {
+      "id": 488,
+      "name": "Hells Belles"
+    },
+    {
+      "id": 489,
+      "name": "Helmet"
+    },
+    {
+      "id": 490,
+      "name": "Helstar"
+    },
+    {
+      "id": 491,
+      "name": "Henry Rollins"
+    },
+    {
+      "id": 492,
+      "name": "Heretic"
+    },
+    {
+      "id": 493,
+      "name": "Hero"
+    },
+    {
+      "id": 494,
+      "name": "Heros"
+    },
+    {
+      "id": 495,
+      "name": "Hessian"
+    },
+    {
+      "id": 496,
+      "name": "High Spirits"
+    },
+    {
+      "id": 497,
+      "name": "High Tension"
+    },
+    {
+      "id": 498,
+      "name": "Highways"
+    },
+    {
+      "id": 499,
+      "name": "Hirax"
+    },
+    {
+      "id": 500,
+      "name": "Hitten"
+    },
+    {
+      "id": 501,
+      "name": "Hjialti"
+    },
+    {
+      "id": 502,
+      "name": "Hobbs Angel Of Death"
+    },
+    {
+      "id": 503,
+      "name": "Hole"
+    },
+    {
+      "id": 504,
+      "name": "Hollow Leg"
+    },
+    {
+      "id": 505,
+      "name": "Holocaust"
+    },
+    {
+      "id": 506,
+      "name": "Holosade"
+    },
+    {
+      "id": 507,
+      "name": "Holy Terror"
+    },
+    {
+      "id": 508,
+      "name": "Holywood Heartbreak"
+    },
+    {
+      "id": 509,
+      "name": "Horrifier"
+    },
+    {
+      "id": 510,
+      "name": "Horsepower"
+    },
+    {
+      "id": 511,
+      "name": "Hospital Of Death"
+    },
+    {
+      "id": 512,
+      "name": "Howard Zinn"
+    },
+    {
+      "id": 513,
+      "name": "Hurricane #1"
+    },
+    {
+      "id": 514,
+      "name": "Hurricane#1"
+    },
+    {
+      "id": 515,
+      "name": "Hydra Vein"
+    },
+    {
+      "id": 516,
+      "name": "I Wasn\u0027t Meant To Feel This"
+    },
+    {
+      "id": 517,
+      "name": "Ian Brown"
+    },
+    {
+      "id": 518,
+      "name": "Ian Dury And The Blockheads"
+    },
+    {
+      "id": 519,
+      "name": "Ian Gillan"
+    },
+    {
+      "id": 520,
+      "name": "Icarus Witch"
+    },
+    {
+      "id": 521,
+      "name": "Ice War"
+    },
+    {
+      "id": 522,
+      "name": "Ice-T"
+    },
+    {
+      "id": 523,
+      "name": "Icon"
+    },
+    {
+      "id": 524,
+      "name": "Iggy \u0026 the Stooges"
+    },
+    {
+      "id": 525,
+      "name": "Iggy Pop"
+    },
+    {
+      "id": 526,
+      "name": "Infernal Death"
+    },
+    {
+      "id": 527,
+      "name": "Inhuman Nature"
+    },
+    {
+      "id": 528,
+      "name": "Inhuman Nature; Road Mutant"
+    },
+    {
+      "id": 529,
+      "name": "Inner Sanctum"
+    },
+    {
+      "id": 530,
+      "name": "Insurgency"
+    },
+    {
+      "id": 531,
+      "name": "Int\u00F6xicated"
+    },
+    {
+      "id": 532,
+      "name": "Intrinsic"
+    },
+    {
+      "id": 533,
+      "name": "Invisible"
+    },
+    {
+      "id": 534,
+      "name": "Iowaska"
+    },
+    {
+      "id": 535,
+      "name": "Iron Fire"
+    },
+    {
+      "id": 536,
+      "name": "Iron Kingdom"
+    },
+    {
+      "id": 537,
+      "name": "Iron Maiden"
+    },
+    {
+      "id": 538,
+      "name": "Iron Savior"
+    },
+    {
+      "id": 539,
+      "name": "Iron Spell"
+    },
+    {
+      "id": 540,
+      "name": "Iron Void"
+    },
+    {
+      "id": 541,
+      "name": "Jack Kennedy\u0027s Outlaws"
+    },
+    {
+      "id": 542,
+      "name": "Jack Starr"
+    },
+    {
+      "id": 543,
+      "name": "Jack Starr\u0027s Burning Starr"
+    },
+    {
+      "id": 544,
+      "name": "Jackie Wilson"
+    },
+    {
+      "id": 545,
+      "name": "Jag Panzer"
+    },
+    {
+      "id": 546,
+      "name": "Jaguar"
+    },
+    {
+      "id": 547,
+      "name": "Jale"
+    },
+    {
+      "id": 548,
+      "name": "James Chance \u0026 The Contortions"
+    },
+    {
+      "id": 549,
+      "name": "James Dean Bradfield"
+    },
+    {
+      "id": 550,
+      "name": "Jamiroquai"
+    },
+    {
+      "id": 551,
+      "name": "Janet and John"
+    },
+    {
+      "id": 552,
+      "name": "Jarboe"
+    },
+    {
+      "id": 553,
+      "name": "Jason Becker"
+    },
+    {
+      "id": 554,
+      "name": "Jeff Buckley"
+    },
+    {
+      "id": 555,
+      "name": "Jeff Wayne"
+    },
+    {
+      "id": 556,
+      "name": "Jefferson Airhead"
+    },
+    {
+      "id": 557,
+      "name": "Jello Biafra"
+    },
+    {
+      "id": 558,
+      "name": "Jesus \u0026 Mary Chain"
+    },
+    {
+      "id": 559,
+      "name": "Jet"
+    },
+    {
+      "id": 560,
+      "name": "Jezebelle"
+    },
+    {
+      "id": 561,
+      "name": "Jilted John"
+    },
+    {
+      "id": 562,
+      "name": "Jim Dandy"
+    },
+    {
+      "id": 563,
+      "name": "Jim Lea"
+    },
+    {
+      "id": 564,
+      "name": "Joan Jett; Paul Westerberg"
+    },
+    {
+      "id": 565,
+      "name": "Joe Jackson"
+    },
+    {
+      "id": 566,
+      "name": "Joe Tex"
+    },
+    {
+      "id": 567,
+      "name": "Joey Ramone"
+    },
+    {
+      "id": 568,
+      "name": "Joey Tafolla"
+    },
+    {
+      "id": 569,
+      "name": "John Squire"
+    },
+    {
+      "id": 570,
+      "name": "John Travolta; Samuel L. Jackson"
+    },
+    {
+      "id": 571,
+      "name": "Johnny Ramone"
+    },
+    {
+      "id": 572,
+      "name": "Johnny Ramone; Danny B. Harvey; Lemmy; Slim Jim Phantom"
+    },
+    {
+      "id": 573,
+      "name": "Johnny Ramone; Danny B. Harvey; Slim Jim Phantom"
+    },
+    {
+      "id": 574,
+      "name": "Johnny Thunders \u0026 the Heartbreakers"
+    },
+    {
+      "id": 575,
+      "name": "Johnny Touch"
+    },
+    {
+      "id": 576,
+      "name": "Johnny Touch; Stryker"
+    },
+    {
+      "id": 577,
+      "name": "Jonathan Richman \u0026 The Modern Lovers"
+    },
+    {
+      "id": 578,
+      "name": "Journey"
+    },
+    {
+      "id": 579,
+      "name": "Joyrider"
+    },
+    {
+      "id": 580,
+      "name": "Judas Priest"
+    },
+    {
+      "id": 581,
+      "name": "Junior Bruce"
+    },
+    {
+      "id": 582,
+      "name": "Junior Murvin"
+    },
+    {
+      "id": 583,
+      "name": "Junkhouse"
+    },
+    {
+      "id": 584,
+      "name": "Kamelot"
+    },
+    {
+      "id": 585,
+      "name": "Kane Roberts"
+    },
+    {
+      "id": 586,
+      "name": "Karrion"
+    },
+    {
+      "id": 587,
+      "name": "Kasabian"
+    },
+    {
+      "id": 588,
+      "name": "Keane"
+    },
+    {
+      "id": 589,
+      "name": "Keel"
+    },
+    {
+      "id": 590,
+      "name": "Kemakil"
+    },
+    {
+      "id": 591,
+      "name": "Kenickie"
+    },
+    {
+      "id": 592,
+      "name": "Kenn Nardi"
+    },
+    {
+      "id": 593,
+      "name": "Kerrigan"
+    },
+    {
+      "id": 594,
+      "name": "Killer"
+    },
+    {
+      "id": 595,
+      "name": "Killer Dwarfs"
+    },
+    {
+      "id": 596,
+      "name": "Killit"
+    },
+    {
+      "id": 597,
+      "name": "King Buffalo"
+    },
+    {
+      "id": 598,
+      "name": "King Diamond"
+    },
+    {
+      "id": 599,
+      "name": "King Kobra"
+    },
+    {
+      "id": 600,
+      "name": "King Of Leon"
+    },
+    {
+      "id": 601,
+      "name": "King\u0027s X"
+    },
+    {
+      "id": 602,
+      "name": "Kingdom Come"
+    },
+    {
+      "id": 603,
+      "name": "Kings Of Leon"
+    },
+    {
+      "id": 604,
+      "name": "Kiss"
+    },
+    {
+      "id": 605,
+      "name": "Kitchens Of Distinction"
+    },
+    {
+      "id": 606,
+      "name": "Kix"
+    },
+    {
+      "id": 607,
+      "name": "KK\u0027s Priest"
+    },
+    {
+      "id": 608,
+      "name": "Klark Kent"
+    },
+    {
+      "id": 609,
+      "name": "Kooga"
+    },
+    {
+      "id": 610,
+      "name": "Kool \u0026 The Gang"
+    },
+    {
+      "id": 611,
+      "name": "Kramp"
+    },
+    {
+      "id": 612,
+      "name": "Kreator"
+    },
+    {
+      "id": 613,
+      "name": "Kremated"
+    },
+    {
+      "id": 614,
+      "name": "Kroh"
+    },
+    {
+      "id": 615,
+      "name": "Krokus"
+    },
+    {
+      "id": 616,
+      "name": "Kula Shaker"
+    },
+    {
+      "id": 617,
+      "name": "Kursk"
+    },
+    {
+      "id": 618,
+      "name": "L.A. Guns"
+    },
+    {
+      "id": 619,
+      "name": "L7"
+    },
+    {
+      "id": 620,
+      "name": "Laaz Rockit"
+    },
+    {
+      "id": 621,
+      "name": "Lamb"
+    },
+    {
+      "id": 622,
+      "name": "Lamb Of God"
+    },
+    {
+      "id": 623,
+      "name": "Lars Eric Mattson"
+    },
+    {
+      "id": 624,
+      "name": "Last Crack"
+    },
+    {
+      "id": 625,
+      "name": "Last Flight"
+    },
+    {
+      "id": 626,
+      "name": "Last Of The Teenage Idols"
+    },
+    {
+      "id": 627,
+      "name": "Lawnmower Deth"
+    },
+    {
+      "id": 628,
+      "name": "Lawnmower Deth; Metal Duck"
+    },
+    {
+      "id": 629,
+      "name": "Lazy Aces"
+    },
+    {
+      "id": 630,
+      "name": "Leather"
+    },
+    {
+      "id": 631,
+      "name": "Leeds Point"
+    },
+    {
+      "id": 632,
+      "name": "Lefay"
+    },
+    {
+      "id": 633,
+      "name": "Legs Diamond"
+    },
+    {
+      "id": 634,
+      "name": "Lethal Shock"
+    },
+    {
+      "id": 635,
+      "name": "Lightning Seeds"
+    },
+    {
+      "id": 636,
+      "name": "Linton Kwesi Johnson"
+    },
+    {
+      "id": 637,
+      "name": "Liquid Steel"
+    },
+    {
+      "id": 638,
+      "name": "Lisa Dominique"
+    },
+    {
+      "id": 639,
+      "name": "Living Colour"
+    },
+    {
+      "id": 640,
+      "name": "Lixx"
+    },
+    {
+      "id": 641,
+      "name": "Lizzy Borden"
+    },
+    {
+      "id": 642,
+      "name": "Llamedos Riil"
+    },
+    {
+      "id": 643,
+      "name": "Lloyd Cole"
+    },
+    {
+      "id": 644,
+      "name": "Lloyd Cole \u0026 The Commotions"
+    },
+    {
+      "id": 645,
+      "name": "Longpigs"
+    },
+    {
+      "id": 646,
+      "name": "Lord Volture"
+    },
+    {
+      "id": 647,
+      "name": "Lost Horizon"
+    },
+    {
+      "id": 648,
+      "name": "Loudness"
+    },
+    {
+      "id": 649,
+      "name": "Love/Hate"
+    },
+    {
+      "id": 650,
+      "name": "Loverboy"
+    },
+    {
+      "id": 651,
+      "name": "Lowest Creature"
+    },
+    {
+      "id": 652,
+      "name": "Lucifer\u0027s Hammer"
+    },
+    {
+      "id": 653,
+      "name": "Lush"
+    },
+    {
+      "id": 654,
+      "name": "Lynyrd Skynyrd"
+    },
+    {
+      "id": 655,
+      "name": "M-80"
+    },
+    {
+      "id": 656,
+      "name": "M.I.A."
+    },
+    {
+      "id": 657,
+      "name": "M.O.D."
+    },
+    {
+      "id": 658,
+      "name": "MacAlpine-Aldridge-Rock-Sarzo"
+    },
+    {
+      "id": 659,
+      "name": "Machine Head"
+    },
+    {
+      "id": 660,
+      "name": "Mad Avenue"
+    },
+    {
+      "id": 661,
+      "name": "Madam X"
+    },
+    {
+      "id": 662,
+      "name": "M\u00E1d\u00E4me Guillotine"
+    },
+    {
+      "id": 663,
+      "name": "Made Of Iron"
+    },
+    {
+      "id": 664,
+      "name": "Madhouse"
+    },
+    {
+      "id": 665,
+      "name": "Madness"
+    },
+    {
+      "id": 666,
+      "name": "Magneta Lane"
+    },
+    {
+      "id": 667,
+      "name": "Magnum"
+    },
+    {
+      "id": 668,
+      "name": "Mahna Mahna; The Two Snowths"
+    },
+    {
+      "id": 669,
+      "name": "Maineeaxe"
+    },
+    {
+      "id": 670,
+      "name": "Malice"
+    },
+    {
+      "id": 671,
+      "name": "Mallet-Head"
+    },
+    {
+      "id": 672,
+      "name": "Maltese Falcon"
+    },
+    {
+      "id": 673,
+      "name": "Mama\u0027s Boys"
+    },
+    {
+      "id": 674,
+      "name": "Mania"
+    },
+    {
+      "id": 675,
+      "name": "Manic Street Preachers"
+    },
+    {
+      "id": 676,
+      "name": "Manic Street Preachers feat. Cate Le Bon"
+    },
+    {
+      "id": 677,
+      "name": "Manic Street Preachers feat. Lucy Rose"
+    },
+    {
+      "id": 678,
+      "name": "Manic Street Preachers feat. Richard Hawley"
+    },
+    {
+      "id": 679,
+      "name": "Manilla Road"
+    },
+    {
+      "id": 680,
+      "name": "Manowar"
+    },
+    {
+      "id": 681,
+      "name": "Mansun"
+    },
+    {
+      "id": 682,
+      "name": "Mantaray"
+    },
+    {
+      "id": 683,
+      "name": "Mantas"
+    },
+    {
+      "id": 684,
+      "name": "Marcus"
+    },
+    {
+      "id": 685,
+      "name": "Maria McKee"
+    },
+    {
+      "id": 686,
+      "name": "Marilyn Manson"
+    },
+    {
+      "id": 687,
+      "name": "Marion"
+    },
+    {
+      "id": 688,
+      "name": "Marky Ramone"
+    },
+    {
+      "id": 689,
+      "name": "Marky Ramone And The Intruders"
+    },
+    {
+      "id": 690,
+      "name": "Marseille"
+    },
+    {
+      "id": 691,
+      "name": "Marty Friedman"
+    },
+    {
+      "id": 692,
+      "name": "Massacre"
+    },
+    {
+      "id": 693,
+      "name": "Massive"
+    },
+    {
+      "id": 694,
+      "name": "Massive Attack"
+    },
+    {
+      "id": 695,
+      "name": "Massive Attack Featuring Tracey Thorn"
+    },
+    {
+      "id": 696,
+      "name": "Mastedon"
+    },
+    {
+      "id": 697,
+      "name": "Master Boot Record"
+    },
+    {
+      "id": 698,
+      "name": "Max Romeo"
+    },
+    {
+      "id": 699,
+      "name": "Max Webster"
+    },
+    {
+      "id": 700,
+      "name": "Mayday"
+    },
+    {
+      "id": 701,
+      "name": "MC5"
+    },
+    {
+      "id": 702,
+      "name": "McAlmont"
+    },
+    {
+      "id": 703,
+      "name": "McAlmont / Butler"
+    },
+    {
+      "id": 704,
+      "name": "McAlmont \u0026 Butler"
+    },
+    {
+      "id": 705,
+      "name": "McAuley Schenker Group"
+    },
+    {
+      "id": 706,
+      "name": "Meanstreak"
+    },
+    {
+      "id": 707,
+      "name": "Meat Loaf"
+    },
+    {
+      "id": 708,
+      "name": "Mega City Four"
+    },
+    {
+      "id": 709,
+      "name": "Megadeth"
+    },
+    {
+      "id": 710,
+      "name": "Megaton Sword"
+    },
+    {
+      "id": 711,
+      "name": "Meliah Rage"
+    },
+    {
+      "id": 712,
+      "name": "Menace"
+    },
+    {
+      "id": 713,
+      "name": "Menswear"
+    },
+    {
+      "id": 714,
+      "name": "Mercyful Fate"
+    },
+    {
+      "id": 715,
+      "name": "Messiah"
+    },
+    {
+      "id": 716,
+      "name": "Metal Allegiance"
+    },
+    {
+      "id": 717,
+      "name": "Metal Church"
+    },
+    {
+      "id": 718,
+      "name": "Metal Duck"
+    },
+    {
+      "id": 719,
+      "name": "Metal Inquisitor"
+    },
+    {
+      "id": 720,
+      "name": "Metal Messiah"
+    },
+    {
+      "id": 721,
+      "name": "Metallica"
+    },
+    {
+      "id": 722,
+      "name": "Michael Furlong"
+    },
+    {
+      "id": 723,
+      "name": "Michael Gira"
+    },
+    {
+      "id": 724,
+      "name": "Michael Schenker"
+    },
+    {
+      "id": 725,
+      "name": "Michael Schenker Fest"
+    },
+    {
+      "id": 726,
+      "name": "Michael Schenker\u0027s Temple Of Rock"
+    },
+    {
+      "id": 727,
+      "name": "Midas Touch"
+    },
+    {
+      "id": 728,
+      "name": "Midnight"
+    },
+    {
+      "id": 729,
+      "name": "Midnight Blue"
+    },
+    {
+      "id": 730,
+      "name": "Midnight Dice"
+    },
+    {
+      "id": 731,
+      "name": "Midnight Force"
+    },
+    {
+      "id": 732,
+      "name": "Midnight Prey"
+    },
+    {
+      "id": 733,
+      "name": "Millennium"
+    },
+    {
+      "id": 734,
+      "name": "Mindless Drug Hoover"
+    },
+    {
+      "id": 735,
+      "name": "Mindwars"
+    },
+    {
+      "id": 736,
+      "name": "Mink DeVille"
+    },
+    {
+      "id": 737,
+      "name": "Miraj"
+    },
+    {
+      "id": 738,
+      "name": "Mirror"
+    },
+    {
+      "id": 739,
+      "name": "Misery Loves Co."
+    },
+    {
+      "id": 740,
+      "name": "Moby"
+    },
+    {
+      "id": 741,
+      "name": "Molly Half Head"
+    },
+    {
+      "id": 742,
+      "name": "Molly Hatchet"
+    },
+    {
+      "id": 743,
+      "name": "Mondo Generator"
+    },
+    {
+      "id": 744,
+      "name": "Money"
+    },
+    {
+      "id": 745,
+      "name": "Monster Magnet"
+    },
+    {
+      "id": 746,
+      "name": "Monument"
+    },
+    {
+      "id": 747,
+      "name": "Moral Crusade"
+    },
+    {
+      "id": 748,
+      "name": "Morbid Angel"
+    },
+    {
+      "id": 749,
+      "name": "Mordred"
+    },
+    {
+      "id": 750,
+      "name": "More"
+    },
+    {
+      "id": 751,
+      "name": "Morrissey"
+    },
+    {
+      "id": 752,
+      "name": "Morrissey \u0026 Siouxsie"
+    },
+    {
+      "id": 753,
+      "name": "M\u00F6rti Viventi"
+    },
+    {
+      "id": 754,
+      "name": "Mother Tongue"
+    },
+    {
+      "id": 755,
+      "name": "Mothership"
+    },
+    {
+      "id": 756,
+      "name": "Motley Crue"
+    },
+    {
+      "id": 757,
+      "name": "M\u00F6tley Cr\u00FCe"
+    },
+    {
+      "id": 758,
+      "name": "Mot\u00F6rhead"
+    },
+    {
+      "id": 759,
+      "name": "Mot\u00F6rhead; Denise Dufort"
+    },
+    {
+      "id": 760,
+      "name": "Mot\u00F6rhead; Girlschool"
+    },
+    {
+      "id": 761,
+      "name": "Moxy"
+    },
+    {
+      "id": 762,
+      "name": "Mr. Bungle"
+    },
+    {
+      "id": 763,
+      "name": "Mucky Pup"
+    },
+    {
+      "id": 764,
+      "name": "Mufflon 5"
+    },
+    {
+      "id": 765,
+      "name": "Mumia Abu Jamal"
+    },
+    {
+      "id": 766,
+      "name": "Muppet Show Cast"
+    },
+    {
+      "id": 767,
+      "name": "Muse"
+    },
+    {
+      "id": 768,
+      "name": "Musical Youth"
+    },
+    {
+      "id": 769,
+      "name": "My Life Story"
+    },
+    {
+      "id": 770,
+      "name": "Myrkur"
+    },
+    {
+      "id": 771,
+      "name": "Mystic Prophecy"
+    },
+    {
+      "id": 772,
+      "name": "Mythra"
+    },
+    {
+      "id": 773,
+      "name": "N.S.A"
+    },
+    {
+      "id": 774,
+      "name": "Nasty Savage"
+    },
+    {
+      "id": 775,
+      "name": "Natur"
+    },
+    {
+      "id": 776,
+      "name": "Negligence"
+    },
+    {
+      "id": 777,
+      "name": "Neon Cross"
+    },
+    {
+      "id": 778,
+      "name": "Neon Tigers"
+    },
+    {
+      "id": 779,
+      "name": "Neuronspoiler"
+    },
+    {
+      "id": 780,
+      "name": "Nevermore"
+    },
+    {
+      "id": 781,
+      "name": "New England"
+    },
+    {
+      "id": 782,
+      "name": "New Order"
+    },
+    {
+      "id": 783,
+      "name": "New York Dolls"
+    },
+    {
+      "id": 784,
+      "name": "Newsted"
+    },
+    {
+      "id": 785,
+      "name": "Nick Lowe"
+    },
+    {
+      "id": 786,
+      "name": "Night"
+    },
+    {
+      "id": 787,
+      "name": "Night Demon"
+    },
+    {
+      "id": 788,
+      "name": "Night Screamer"
+    },
+    {
+      "id": 789,
+      "name": "Nightstryke"
+    },
+    {
+      "id": 790,
+      "name": "Nightwish"
+    },
+    {
+      "id": 791,
+      "name": "Nirvana"
+    },
+    {
+      "id": 792,
+      "name": "No Artist"
+    },
+    {
+      "id": 793,
+      "name": "Noam Chomsky"
+    },
+    {
+      "id": 794,
+      "name": "Nocturne Wulf"
+    },
+    {
+      "id": 795,
+      "name": "Northern Uproar"
+    },
+    {
+      "id": 796,
+      "name": "Northlane"
+    },
+    {
+      "id": 797,
+      "name": "Northtale"
+    },
+    {
+      "id": 798,
+      "name": "Nuclear Assault"
+    },
+    {
+      "id": 799,
+      "name": "Number One Cup"
+    },
+    {
+      "id": 800,
+      "name": "Nutz"
+    },
+    {
+      "id": 801,
+      "name": "Oasis"
+    },
+    {
+      "id": 802,
+      "name": "Oath Sc"
+    },
+    {
+      "id": 803,
+      "name": "Obliteration"
+    },
+    {
+      "id": 804,
+      "name": "Obsession"
+    },
+    {
+      "id": 805,
+      "name": "Ocean Colour Scene"
+    },
+    {
+      "id": 806,
+      "name": "October 31"
+    },
+    {
+      "id": 807,
+      "name": "\u00D6f\u00D6 Am"
+    },
+    {
+      "id": 808,
+      "name": "Omen"
+    },
+    {
+      "id": 809,
+      "name": "Omun"
+    },
+    {
+      "id": 810,
+      "name": "Onslaught"
+    },
+    {
+      "id": 811,
+      "name": "OUFC Squad with ATL? and Sam out of Beaker"
+    },
+    {
+      "id": 812,
+      "name": "Outlaw"
+    },
+    {
+      "id": 813,
+      "name": "Overkill"
+    },
+    {
+      "id": 814,
+      "name": "Oz"
+    },
+    {
+      "id": 815,
+      "name": "Ozzy Osbourne"
+    },
+    {
+      "id": 816,
+      "name": "P. G. Band"
+    },
+    {
+      "id": 817,
+      "name": "P.G. Band"
+    },
+    {
+      "id": 818,
+      "name": "P.J. Soles"
+    },
+    {
+      "id": 819,
+      "name": "Painside"
+    },
+    {
+      "id": 820,
+      "name": "Pan Ram"
+    },
+    {
+      "id": 821,
+      "name": "Pandemonium"
+    },
+    {
+      "id": 822,
+      "name": "Panzer"
+    },
+    {
+      "id": 823,
+      "name": "Paradise Motel"
+    },
+    {
+      "id": 824,
+      "name": "Paradox"
+    },
+    {
+      "id": 825,
+      "name": "Parasite"
+    },
+    {
+      "id": 826,
+      "name": "Parkway Drive"
+    },
+    {
+      "id": 827,
+      "name": "Parricide"
+    },
+    {
+      "id": 828,
+      "name": "Paul Di\u0027anno\u0027s Battlezone"
+    },
+    {
+      "id": 829,
+      "name": "Paul Samson\u0027s Empire"
+    },
+    {
+      "id": 830,
+      "name": "Paul Weller"
+    },
+    {
+      "id": 831,
+      "name": "Peacemaker"
+    },
+    {
+      "id": 832,
+      "name": "Pearl Jam"
+    },
+    {
+      "id": 833,
+      "name": "Pectora"
+    },
+    {
+      "id": 834,
+      "name": "Pendemia"
+    },
+    {
+      "id": 835,
+      "name": "Pere Ubu"
+    },
+    {
+      "id": 836,
+      "name": "Persian Risk"
+    },
+    {
+      "id": 837,
+      "name": "Persuader"
+    },
+    {
+      "id": 838,
+      "name": "Pestilence"
+    },
+    {
+      "id": 839,
+      "name": "Phantom Spell"
+    },
+    {
+      "id": 840,
+      "name": "Phil Campbell \u0026 The Bastard Sons"
+    },
+    {
+      "id": 841,
+      "name": "Picture"
+    },
+    {
+      "id": 842,
+      "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs"
+    },
+    {
+      "id": 843,
+      "name": "Pink Cigs"
+    },
+    {
+      "id": 844,
+      "name": "Pitiful Reign"
+    },
+    {
+      "id": 845,
+      "name": "Pixies"
+    },
+    {
+      "id": 846,
+      "name": "Placebo"
+    },
+    {
+      "id": 847,
+      "name": "Point Blank"
+    },
+    {
+      "id": 848,
+      "name": "Poison"
+    },
+    {
+      "id": 849,
+      "name": "Pollyanna"
+    },
+    {
+      "id": 850,
+      "name": "Portishead"
+    },
+    {
+      "id": 851,
+      "name": "Portrait"
+    },
+    {
+      "id": 852,
+      "name": "Possessed"
+    },
+    {
+      "id": 853,
+      "name": "Pounder"
+    },
+    {
+      "id": 854,
+      "name": "Praying Mantis"
+    },
+    {
+      "id": 855,
+      "name": "Predator"
+    },
+    {
+      "id": 856,
+      "name": "Pregnant"
+    },
+    {
+      "id": 857,
+      "name": "Pretty Boy Floyd"
+    },
+    {
+      "id": 858,
+      "name": "Pretty Maids"
+    },
+    {
+      "id": 859,
+      "name": "Priestess"
+    },
+    {
+      "id": 860,
+      "name": "Primal"
+    },
+    {
+      "id": 861,
+      "name": "Primal Fear"
+    },
+    {
+      "id": 862,
+      "name": "Primal Rock Rebellion"
+    },
+    {
+      "id": 863,
+      "name": "Primal Scream"
+    },
+    {
+      "id": 864,
+      "name": "Primitai"
+    },
+    {
+      "id": 865,
+      "name": "Probot"
+    },
+    {
+      "id": 866,
+      "name": "Probot with Cronos"
+    },
+    {
+      "id": 867,
+      "name": "Probot with Eric Wagner"
+    },
+    {
+      "id": 868,
+      "name": "Probot with King Diamond"
+    },
+    {
+      "id": 869,
+      "name": "Probot with Kurt Brecht"
+    },
+    {
+      "id": 870,
+      "name": "Probot with Lee Dorrian"
+    },
+    {
+      "id": 871,
+      "name": "Probot with Lemmy"
+    },
+    {
+      "id": 872,
+      "name": "Probot with Max Cavalera"
+    },
+    {
+      "id": 873,
+      "name": "Probot with Mike Dean"
+    },
+    {
+      "id": 874,
+      "name": "Probot with Snake"
+    },
+    {
+      "id": 875,
+      "name": "Probot with Tom G  Warrior"
+    },
+    {
+      "id": 876,
+      "name": "Probot with Wino"
+    },
+    {
+      "id": 877,
+      "name": "Professor Black"
+    },
+    {
+      "id": 878,
+      "name": "Psychic Wounds"
+    },
+    {
+      "id": 879,
+      "name": "Psychlona"
+    },
+    {
+      "id": 880,
+      "name": "Psychomania"
+    },
+    {
+      "id": 881,
+      "name": "Pulp"
+    },
+    {
+      "id": 882,
+      "name": "Pulver"
+    },
+    {
+      "id": 883,
+      "name": "Puresonic Outcasts"
+    },
+    {
+      "id": 884,
+      "name": "Purgatory"
+    },
+    {
+      "id": 885,
+      "name": "Purification"
+    },
+    {
+      "id": 886,
+      "name": "Q5"
+    },
+    {
+      "id": 887,
+      "name": "Quartz"
+    },
+    {
+      "id": 888,
+      "name": "Queen"
+    },
+    {
+      "id": 889,
+      "name": "Queen; David Bowie"
+    },
+    {
+      "id": 890,
+      "name": "Queens of the Stone Age"
+    },
+    {
+      "id": 891,
+      "name": "Queensr\u00FFche"
+    },
+    {
+      "id": 892,
+      "name": "Quiet Riot"
+    },
+    {
+      "id": 893,
+      "name": "R.E.M."
+    },
+    {
+      "id": 894,
+      "name": "Rabid Bitch Of The North"
+    },
+    {
+      "id": 895,
+      "name": "Race Against Time"
+    },
+    {
+      "id": 896,
+      "name": "Racer X"
+    },
+    {
+      "id": 897,
+      "name": "Radiohead"
+    },
+    {
+      "id": 898,
+      "name": "Rage"
+    },
+    {
+      "id": 899,
+      "name": "Rager"
+    },
+    {
+      "id": 900,
+      "name": "Railway"
+    },
+    {
+      "id": 901,
+      "name": "Rainbow"
+    },
+    {
+      "id": 902,
+      "name": "Rainforce"
+    },
+    {
+      "id": 903,
+      "name": "RAM"
+    },
+    {
+      "id": 904,
+      "name": "Ram Jam"
+    },
+    {
+      "id": 905,
+      "name": "Ramones"
+    },
+    {
+      "id": 906,
+      "name": "Ranger"
+    },
+    {
+      "id": 907,
+      "name": "Rapid Tears"
+    },
+    {
+      "id": 908,
+      "name": "Ratboiler"
+    },
+    {
+      "id": 909,
+      "name": "Ratos De Por\u00E3o"
+    },
+    {
+      "id": 910,
+      "name": "Ratt"
+    },
+    {
+      "id": 911,
+      "name": "Raven"
+    },
+    {
+      "id": 912,
+      "name": "Ravensire"
+    },
+    {
+      "id": 913,
+      "name": "Razor"
+    },
+    {
+      "id": 914,
+      "name": "Razorlight"
+    },
+    {
+      "id": 915,
+      "name": "Re-Animator"
+    },
+    {
+      "id": 916,
+      "name": "Real Steel"
+    },
+    {
+      "id": 917,
+      "name": "Receiver"
+    },
+    {
+      "id": 918,
+      "name": "Reckless"
+    },
+    {
+      "id": 919,
+      "name": "Red Alert"
+    },
+    {
+      "id": 920,
+      "name": "Red Dawn"
+    },
+    {
+      "id": 921,
+      "name": "Red Fang"
+    },
+    {
+      "id": 922,
+      "name": "Red Hot Chili Peppers"
+    },
+    {
+      "id": 923,
+      "name": "Red Hot Chilli Peppers"
+    },
+    {
+      "id": 924,
+      "name": "Reign Of Fury"
+    },
+    {
+      "id": 925,
+      "name": "Renegade Twelve"
+    },
+    {
+      "id": 926,
+      "name": "Reo Speedwagon"
+    },
+    {
+      "id": 927,
+      "name": "Republica"
+    },
+    {
+      "id": 928,
+      "name": "Resentment"
+    },
+    {
+      "id": 929,
+      "name": "Resless"
+    },
+    {
+      "id": 930,
+      "name": "Restless"
+    },
+    {
+      "id": 931,
+      "name": "Rex"
+    },
+    {
+      "id": 932,
+      "name": "Rezet"
+    },
+    {
+      "id": 933,
+      "name": "Rheinallt H. Rowlands"
+    },
+    {
+      "id": 934,
+      "name": "Rhino Bucket"
+    },
+    {
+      "id": 935,
+      "name": "Richard Hell"
+    },
+    {
+      "id": 936,
+      "name": "Richard Hell \u0026 The Voidoids"
+    },
+    {
+      "id": 937,
+      "name": "Richard III"
+    },
+    {
+      "id": 938,
+      "name": "Richie Ramone"
+    },
+    {
+      "id": 939,
+      "name": "Rick Astley"
+    },
+    {
+      "id": 940,
+      "name": "Rick Derringer"
+    },
+    {
+      "id": 941,
+      "name": "Ricky Nelson"
+    },
+    {
+      "id": 942,
+      "name": "Rio"
+    },
+    {
+      "id": 943,
+      "name": "Riot"
+    },
+    {
+      "id": 944,
+      "name": "Riot V"
+    },
+    {
+      "id": 945,
+      "name": "Ripping Corpse"
+    },
+    {
+      "id": 946,
+      "name": "Risk"
+    },
+    {
+      "id": 947,
+      "name": "Ritchie Blackmore\u0027s Rainbow"
+    },
+    {
+      "id": 948,
+      "name": "Rival Sons"
+    },
+    {
+      "id": 949,
+      "name": "Road Mutant"
+    },
+    {
+      "id": 950,
+      "name": "Road Warrior"
+    },
+    {
+      "id": 951,
+      "name": "Roadwolf"
+    },
+    {
+      "id": 952,
+      "name": "Rob Zombie"
+    },
+    {
+      "id": 953,
+      "name": "Robin Trower"
+    },
+    {
+      "id": 954,
+      "name": "Rock Goddess"
+    },
+    {
+      "id": 955,
+      "name": "Rocket From The Crypt"
+    },
+    {
+      "id": 956,
+      "name": "Rockstar\u0027s Love Fist"
+    },
+    {
+      "id": 957,
+      "name": "Rogue Male"
+    },
+    {
+      "id": 958,
+      "name": "Rose Tattoo"
+    },
+    {
+      "id": 959,
+      "name": "Rox"
+    },
+    {
+      "id": 960,
+      "name": "Royal Blood"
+    },
+    {
+      "id": 961,
+      "name": "Rudi"
+    },
+    {
+      "id": 962,
+      "name": "RUNEMASTER"
+    },
+    {
+      "id": 963,
+      "name": "Running Wild"
+    },
+    {
+      "id": 964,
+      "name": "Rush"
+    },
+    {
+      "id": 965,
+      "name": "S.O.D"
+    },
+    {
+      "id": 966,
+      "name": "Sabbat"
+    },
+    {
+      "id": 967,
+      "name": "Sabu"
+    },
+    {
+      "id": 968,
+      "name": "Sacred Reich"
+    },
+    {
+      "id": 969,
+      "name": "Sacred Warrior"
+    },
+    {
+      "id": 970,
+      "name": "Sacrifice"
+    },
+    {
+      "id": 971,
+      "name": "Sacrilege"
+    },
+    {
+      "id": 972,
+      "name": "Sacrilege B.C."
+    },
+    {
+      "id": 973,
+      "name": "Saint"
+    },
+    {
+      "id": 974,
+      "name": "Salad"
+    },
+    {
+      "id": 975,
+      "name": "Salem"
+    },
+    {
+      "id": 976,
+      "name": "Salem Justice"
+    },
+    {
+      "id": 977,
+      "name": "Salt"
+    },
+    {
+      "id": 978,
+      "name": "Samhain"
+    },
+    {
+      "id": 979,
+      "name": "Sammy Hagar"
+    },
+    {
+      "id": 980,
+      "name": "Samson"
+    },
+    {
+      "id": 981,
+      "name": "Samuel L. Jackson"
+    },
+    {
+      "id": 982,
+      "name": "Samuel L. Jackson; John Travolta"
+    },
+    {
+      "id": 983,
+      "name": "Sanctuary"
+    },
+    {
+      "id": 984,
+      "name": "Sandy Rogers"
+    },
+    {
+      "id": 985,
+      "name": "Sanhedrin"
+    },
+    {
+      "id": 986,
+      "name": "Santa Cruz"
+    },
+    {
+      "id": 987,
+      "name": "Saracen"
+    },
+    {
+      "id": 988,
+      "name": "Satan\u0027s Fall"
+    },
+    {
+      "id": 989,
+      "name": "Satan\u0027s Hallow"
+    },
+    {
+      "id": 990,
+      "name": "Satchel"
+    },
+    {
+      "id": 991,
+      "name": "Saturndust"
+    },
+    {
+      "id": 992,
+      "name": "Savage"
+    },
+    {
+      "id": 993,
+      "name": "Savage Grace"
+    },
+    {
+      "id": 994,
+      "name": "Savage Master"
+    },
+    {
+      "id": 995,
+      "name": "Savage Messiah"
+    },
+    {
+      "id": 996,
+      "name": "Savagery"
+    },
+    {
+      "id": 997,
+      "name": "Savatage"
+    },
+    {
+      "id": 998,
+      "name": "Saxon"
+    },
+    {
+      "id": 999,
+      "name": "Scanner"
+    },
+    {
+      "id": 1000,
+      "name": "Scimitar"
+    },
+    {
+      "id": 1001,
+      "name": "Scissor Sisters"
+    },
+    {
+      "id": 1002,
+      "name": "Scorpion Child"
+    },
+    {
+      "id": 1003,
+      "name": "Scorpions"
+    },
+    {
+      "id": 1004,
+      "name": "Scrawl"
+    },
+    {
+      "id": 1005,
+      "name": "Sea Hags"
+    },
+    {
+      "id": 1006,
+      "name": "Sedulus"
+    },
+    {
+      "id": 1007,
+      "name": "Senser"
+    },
+    {
+      "id": 1008,
+      "name": "Sepultura"
+    },
+    {
+      "id": 1009,
+      "name": "Seregon"
+    },
+    {
+      "id": 1010,
+      "name": "Sergeant Thunderhoof"
+    },
+    {
+      "id": 1011,
+      "name": "Seven Sisters"
+    },
+    {
+      "id": 1012,
+      "name": "Seven Sisters Of Sleep"
+    },
+    {
+      "id": 1013,
+      "name": "Seventh Angel"
+    },
+    {
+      "id": 1014,
+      "name": "Sex Pistols"
+    },
+    {
+      "id": 1015,
+      "name": "Shakespear\u0027s Sister"
+    },
+    {
+      "id": 1016,
+      "name": "Sham 69"
+    },
+    {
+      "id": 1017,
+      "name": "Sheavy"
+    },
+    {
+      "id": 1018,
+      "name": "Shed 7"
+    },
+    {
+      "id": 1019,
+      "name": "Shed Seven"
+    },
+    {
+      "id": 1020,
+      "name": "Shok Paris"
+    },
+    {
+      "id": 1021,
+      "name": "Shoot Speed"
+    },
+    {
+      "id": 1022,
+      "name": "Shrapnel"
+    },
+    {
+      "id": 1023,
+      "name": "Silver Stars"
+    },
+    {
+      "id": 1024,
+      "name": "Silver Sun"
+    },
+    {
+      "id": 1025,
+      "name": "Silverchair"
+    },
+    {
+      "id": 1026,
+      "name": "SINBREED"
+    },
+    {
+      "id": 1027,
+      "name": "Sinner"
+    },
+    {
+      "id": 1028,
+      "name": "Siouxsie \u0026 The Banshees"
+    },
+    {
+      "id": 1029,
+      "name": "Sixx:A.M."
+    },
+    {
+      "id": 1030,
+      "name": "Skelator"
+    },
+    {
+      "id": 1031,
+      "name": "Skid Row"
+    },
+    {
+      "id": 1032,
+      "name": "Skull Pit"
+    },
+    {
+      "id": 1033,
+      "name": "Skunk Anansie"
+    },
+    {
+      "id": 1034,
+      "name": "Skyclad"
+    },
+    {
+      "id": 1035,
+      "name": "Skydrive"
+    },
+    {
+      "id": 1036,
+      "name": "Skyryder"
+    },
+    {
+      "id": 1037,
+      "name": "Slabdragger"
+    },
+    {
+      "id": 1038,
+      "name": "Slade"
+    },
+    {
+      "id": 1039,
+      "name": "Slammer"
+    },
+    {
+      "id": 1040,
+      "name": "Slaughter"
+    },
+    {
+      "id": 1041,
+      "name": "Slaughter And The Dogs"
+    },
+    {
+      "id": 1042,
+      "name": "Slayer"
+    },
+    {
+      "id": 1043,
+      "name": "Sledgehammer"
+    },
+    {
+      "id": 1044,
+      "name": "Sleep"
+    },
+    {
+      "id": 1045,
+      "name": "Sleeper"
+    },
+    {
+      "id": 1046,
+      "name": "Sleeze Beez"
+    },
+    {
+      "id": 1047,
+      "name": "Slim Cessna\u0027s Auto Club"
+    },
+    {
+      "id": 1048,
+      "name": "Small Faces"
+    },
+    {
+      "id": 1049,
+      "name": "Smashed Gladys"
+    },
+    {
+      "id": 1050,
+      "name": "Smith / Kotzen"
+    },
+    {
+      "id": 1051,
+      "name": "Sneaker Pimps"
+    },
+    {
+      "id": 1052,
+      "name": "Snow Patrol"
+    },
+    {
+      "id": 1053,
+      "name": "Snyper"
+    },
+    {
+      "id": 1054,
+      "name": "Sodom"
+    },
+    {
+      "id": 1055,
+      "name": "Soho Roses"
+    },
+    {
+      "id": 1056,
+      "name": "Solaire"
+    },
+    {
+      "id": 1057,
+      "name": "Solar Sons"
+    },
+    {
+      "id": 1058,
+      "name": "Soldato"
+    },
+    {
+      "id": 1059,
+      "name": "Solitary"
+    },
+    {
+      "id": 1060,
+      "name": "Sonic Altar"
+    },
+    {
+      "id": 1061,
+      "name": "Sonick Plague"
+    },
+    {
+      "id": 1062,
+      "name": "Sons Of Alpha Centauri"
+    },
+    {
+      "id": 1063,
+      "name": "Sons Of Angels"
+    },
+    {
+      "id": 1064,
+      "name": "Soundgarden"
+    },
+    {
+      "id": 1065,
+      "name": "Space"
+    },
+    {
+      "id": 1066,
+      "name": "Sparta"
+    },
+    {
+      "id": 1067,
+      "name": "Spectrus"
+    },
+    {
+      "id": 1068,
+      "name": "Speeder"
+    },
+    {
+      "id": 1069,
+      "name": "Speedrush"
+    },
+    {
+      "id": 1070,
+      "name": "Speedvark"
+    },
+    {
+      "id": 1071,
+      "name": "Spell"
+    },
+    {
+      "id": 1072,
+      "name": "Spellbound"
+    },
+    {
+      "id": 1073,
+      "name": "Spider"
+    },
+    {
+      "id": 1074,
+      "name": "Spiker"
+    },
+    {
+      "id": 1075,
+      "name": "Spinal Tap"
+    },
+    {
+      "id": 1076,
+      "name": "Spiritual Beggars"
+    },
+    {
+      "id": 1077,
+      "name": "Spiritualized\u00AE"
+    },
+    {
+      "id": 1078,
+      "name": "Spizzenergi"
+    },
+    {
+      "id": 1079,
+      "name": "Spleen"
+    },
+    {
+      "id": 1080,
+      "name": "Splodgenessabounds"
+    },
+    {
+      "id": 1081,
+      "name": "Sponge"
+    },
+    {
+      "id": 1082,
+      "name": "Spyder Baby"
+    },
+    {
+      "id": 1083,
+      "name": "Squeeze"
+    },
+    {
+      "id": 1084,
+      "name": "SSS"
+    },
+    {
+      "id": 1085,
+      "name": "Stabbing Westward"
+    },
+    {
+      "id": 1086,
+      "name": "Stallion"
+    },
+    {
+      "id": 1087,
+      "name": "Star Spangles"
+    },
+    {
+      "id": 1088,
+      "name": "Starborn"
+    },
+    {
+      "id": 1089,
+      "name": "Starcastle"
+    },
+    {
+      "id": 1090,
+      "name": "Starsailor"
+    },
+    {
+      "id": 1091,
+      "name": "Starz"
+    },
+    {
+      "id": 1092,
+      "name": "State Of Confusion"
+    },
+    {
+      "id": 1093,
+      "name": "Status Quo"
+    },
+    {
+      "id": 1094,
+      "name": "Steak"
+    },
+    {
+      "id": 1095,
+      "name": "Stealers Wheel"
+    },
+    {
+      "id": 1096,
+      "name": "Steel Inferno"
+    },
+    {
+      "id": 1097,
+      "name": "Steel Pulse"
+    },
+    {
+      "id": 1098,
+      "name": "Steppenwolf"
+    },
+    {
+      "id": 1099,
+      "name": "Stereo Nasty"
+    },
+    {
+      "id": 1100,
+      "name": "Stereophonics"
+    },
+    {
+      "id": 1101,
+      "name": "Steve Blower"
+    },
+    {
+      "id": 1102,
+      "name": "Steve Harris"
+    },
+    {
+      "id": 1103,
+      "name": "Steve Vai"
+    },
+    {
+      "id": 1104,
+      "name": "Stomp"
+    },
+    {
+      "id": 1105,
+      "name": "Storm"
+    },
+    {
+      "id": 1106,
+      "name": "Stormbringer"
+    },
+    {
+      "id": 1107,
+      "name": "Stormrider"
+    },
+    {
+      "id": 1108,
+      "name": "Stormwitch"
+    },
+    {
+      "id": 1109,
+      "name": "Storrsson"
+    },
+    {
+      "id": 1110,
+      "name": "Stranger"
+    },
+    {
+      "id": 1111,
+      "name": "Strangeways"
+    },
+    {
+      "id": 1112,
+      "name": "Strikelight"
+    },
+    {
+      "id": 1113,
+      "name": "Striker"
+    },
+    {
+      "id": 1114,
+      "name": "Strobe Talbot"
+    },
+    {
+      "id": 1115,
+      "name": "Stryker"
+    },
+    {
+      "id": 1116,
+      "name": "Stryper"
+    },
+    {
+      "id": 1117,
+      "name": "Stubb"
+    },
+    {
+      "id": 1118,
+      "name": "Stupids"
+    },
+    {
+      "id": 1119,
+      "name": "Substratum"
+    },
+    {
+      "id": 1120,
+      "name": "Subway Sect"
+    },
+    {
+      "id": 1121,
+      "name": "Sudden Death"
+    },
+    {
+      "id": 1122,
+      "name": "Suede"
+    },
+    {
+      "id": 1123,
+      "name": "Sugar"
+    },
+    {
+      "id": 1124,
+      "name": "Sugarcreek"
+    },
+    {
+      "id": 1125,
+      "name": "Suicidal Tendencies"
+    },
+    {
+      "id": 1126,
+      "name": "Suicide"
+    },
+    {
+      "id": 1127,
+      "name": "Suicide Watch"
+    },
+    {
+      "id": 1128,
+      "name": "Super Furry Animals"
+    },
+    {
+      "id": 1129,
+      "name": "Supergrass"
+    },
+    {
+      "id": 1130,
+      "name": "Superhero"
+    },
+    {
+      "id": 1131,
+      "name": "Surgin\u0027"
+    },
+    {
+      "id": 1132,
+      "name": "Sweet Savage"
+    },
+    {
+      "id": 1133,
+      "name": "Sword"
+    },
+    {
+      "id": 1134,
+      "name": "Symphorce"
+    },
+    {
+      "id": 1135,
+      "name": "Symposium"
+    },
+    {
+      "id": 1136,
+      "name": "Syth"
+    },
+    {
+      "id": 1137,
+      "name": "Talas"
+    },
+    {
+      "id": 1138,
+      "name": "Taliesin"
+    },
+    {
+      "id": 1139,
+      "name": "Tank"
+    },
+    {
+      "id": 1140,
+      "name": "Tankard"
+    },
+    {
+      "id": 1141,
+      "name": "Tankwart"
+    },
+    {
+      "id": 1142,
+      "name": "Tantrum"
+    },
+    {
+      "id": 1143,
+      "name": "Taramis"
+    },
+    {
+      "id": 1144,
+      "name": "Taranis"
+    },
+    {
+      "id": 1145,
+      "name": "Tattooed Love Boys"
+    },
+    {
+      "id": 1146,
+      "name": "Taurus"
+    },
+    {
+      "id": 1147,
+      "name": "Teaze"
+    },
+    {
+      "id": 1148,
+      "name": "Ted Nugent"
+    },
+    {
+      "id": 1149,
+      "name": "Teenage Fanclub"
+    },
+    {
+      "id": 1150,
+      "name": "Teenage Head; Marky Ramone"
+    },
+    {
+      "id": 1151,
+      "name": "Teenagers In Trouble"
+    },
+    {
+      "id": 1152,
+      "name": "Television"
+    },
+    {
+      "id": 1153,
+      "name": "Tequila Mockingbyrd"
+    },
+    {
+      "id": 1154,
+      "name": "Teri Desario"
+    },
+    {
+      "id": 1155,
+      "name": "Terminus"
+    },
+    {
+      "id": 1156,
+      "name": "Terror"
+    },
+    {
+      "id": 1157,
+      "name": "Terrorvision"
+    },
+    {
+      "id": 1158,
+      "name": "Tesla"
+    },
+    {
+      "id": 1159,
+      "name": "Tesseract"
+    },
+    {
+      "id": 1160,
+      "name": "Testament"
+    },
+    {
+      "id": 1161,
+      "name": "The Alliance"
+    },
+    {
+      "id": 1162,
+      "name": "The B-52\u0027s"
+    },
+    {
+      "id": 1163,
+      "name": "The Bad Channels"
+    },
+    {
+      "id": 1164,
+      "name": "The Beast"
+    },
+    {
+      "id": 1165,
+      "name": "The Bigger The God"
+    },
+    {
+      "id": 1166,
+      "name": "The Bluetones"
+    },
+    {
+      "id": 1167,
+      "name": "The Boo Radleys"
+    },
+    {
+      "id": 1168,
+      "name": "The Boomtown Rats"
+    },
+    {
+      "id": 1169,
+      "name": "The Boyzz"
+    },
+    {
+      "id": 1170,
+      "name": "The Brand New Heavies"
+    },
+    {
+      "id": 1171,
+      "name": "The Buzzcocks"
+    },
+    {
+      "id": 1172,
+      "name": "The Candyskins"
+    },
+    {
+      "id": 1173,
+      "name": "The Cardigans"
+    },
+    {
+      "id": 1174,
+      "name": "The Causey Way"
+    },
+    {
+      "id": 1175,
+      "name": "The Centurions"
+    },
+    {
+      "id": 1176,
+      "name": "The Charlatans"
+    },
+    {
+      "id": 1177,
+      "name": "The Clash"
+    },
+    {
+      "id": 1178,
+      "name": "The Cooper Temple Clause"
+    },
+    {
+      "id": 1179,
+      "name": "The Coral"
+    },
+    {
+      "id": 1180,
+      "name": "The Coup De Grace"
+    },
+    {
+      "id": 1181,
+      "name": "The Cranberries"
+    },
+    {
+      "id": 1182,
+      "name": "The Creek"
+    },
+    {
+      "id": 1183,
+      "name": "The Cult"
+    },
+    {
+      "id": 1184,
+      "name": "The Cure"
+    },
+    {
+      "id": 1185,
+      "name": "The Dagger"
+    },
+    {
+      "id": 1186,
+      "name": "The Daisies"
+    },
+    {
+      "id": 1187,
+      "name": "The Damned"
+    },
+    {
+      "id": 1188,
+      "name": "The Damned Things"
+    },
+    {
+      "id": 1189,
+      "name": "The Dandy Warhols"
+    },
+    {
+      "id": 1190,
+      "name": "The Darkness"
+    },
+    {
+      "id": 1191,
+      "name": "The Dead Boys"
+    },
+    {
+      "id": 1192,
+      "name": "The Dicemen"
+    },
+    {
+      "id": 1193,
+      "name": "The Dickies"
+    },
+    {
+      "id": 1194,
+      "name": "The Dictators"
+    },
+    {
+      "id": 1195,
+      "name": "The Divine Comedy"
+    },
+    {
+      "id": 1196,
+      "name": "The Dogs D\u0027Amour"
+    },
+    {
+      "id": 1197,
+      "name": "The Egg"
+    },
+    {
+      "id": 1198,
+      "name": "The Eighties Matchbox B-Line Disaster"
+    },
+    {
+      "id": 1199,
+      "name": "The Farm"
+    },
+    {
+      "id": 1200,
+      "name": "The Fartz"
+    },
+    {
+      "id": 1201,
+      "name": "The Flamin\u0027 Groovies"
+    },
+    {
+      "id": 1202,
+      "name": "The Flaming Stars"
+    },
+    {
+      "id": 1203,
+      "name": "The Folk Implosion"
+    },
+    {
+      "id": 1204,
+      "name": "The Future Sound Of London"
+    },
+    {
+      "id": 1205,
+      "name": "The Futureheads"
+    },
+    {
+      "id": 1206,
+      "name": "The Godz"
+    },
+    {
+      "id": 1207,
+      "name": "The Great Kat"
+    },
+    {
+      "id": 1208,
+      "name": "The Heartbreakers"
+    },
+    {
+      "id": 1209,
+      "name": "The Hives"
+    },
+    {
+      "id": 1210,
+      "name": "The Housemartins"
+    },
+    {
+      "id": 1211,
+      "name": "The Hybirds"
+    },
+    {
+      "id": 1212,
+      "name": "The Jam"
+    },
+    {
+      "id": 1213,
+      "name": "The Joe Perry Project"
+    },
+    {
+      "id": 1214,
+      "name": "The Killers"
+    },
+    {
+      "id": 1215,
+      "name": "The La\u0027s"
+    },
+    {
+      "id": 1216,
+      "name": "The Last Shadow Puppets"
+    },
+    {
+      "id": 1217,
+      "name": "The Lemonheads"
+    },
+    {
+      "id": 1218,
+      "name": "The Levellers"
+    },
+    {
+      "id": 1219,
+      "name": "The Libertines"
+    },
+    {
+      "id": 1220,
+      "name": "The Lighters"
+    },
+    {
+      "id": 1221,
+      "name": "The Lively Ones"
+    },
+    {
+      "id": 1222,
+      "name": "The Magnificent Bastards"
+    },
+    {
+      "id": 1223,
+      "name": "The Mars Volta"
+    },
+    {
+      "id": 1224,
+      "name": "The Meices"
+    },
+    {
+      "id": 1225,
+      "name": "The Michael Schenker Group"
+    },
+    {
+      "id": 1226,
+      "name": "The Murderdolls"
+    },
+    {
+      "id": 1227,
+      "name": "The Mystics"
+    },
+    {
+      "id": 1228,
+      "name": "The New York Dolls"
+    },
+    {
+      "id": 1229,
+      "name": "The Nips"
+    },
+    {
+      "id": 1230,
+      "name": "The Only Ones"
+    },
+    {
+      "id": 1231,
+      "name": "The Ordinary Boys"
+    },
+    {
+      "id": 1232,
+      "name": "The Paley Brothers"
+    },
+    {
+      "id": 1233,
+      "name": "The Phantom Limbs"
+    },
+    {
+      "id": 1234,
+      "name": "The Presidents of the United States of America"
+    },
+    {
+      "id": 1235,
+      "name": "The Presidents of the USA"
+    },
+    {
+      "id": 1236,
+      "name": "The Primitives"
+    },
+    {
+      "id": 1237,
+      "name": "The Quireboys"
+    },
+    {
+      "id": 1238,
+      "name": "The Raid"
+    },
+    {
+      "id": 1239,
+      "name": "The Ramainz"
+    },
+    {
+      "id": 1240,
+      "name": "The Rare Breed"
+    },
+    {
+      "id": 1241,
+      "name": "The Real Kids"
+    },
+    {
+      "id": 1242,
+      "name": "The Reggie Knighton Band"
+    },
+    {
+      "id": 1243,
+      "name": "The Revels"
+    },
+    {
+      "id": 1244,
+      "name": "The Rods"
+    },
+    {
+      "id": 1245,
+      "name": "The Roots"
+    },
+    {
+      "id": 1246,
+      "name": "The Royal Court Of China"
+    },
+    {
+      "id": 1247,
+      "name": "The Seahorses"
+    },
+    {
+      "id": 1248,
+      "name": "The Shamen"
+    },
+    {
+      "id": 1249,
+      "name": "The Slits"
+    },
+    {
+      "id": 1250,
+      "name": "The Smiths"
+    },
+    {
+      "id": 1251,
+      "name": "The Sound Source Ensemble"
+    },
+    {
+      "id": 1252,
+      "name": "The Specials"
+    },
+    {
+      "id": 1253,
+      "name": "The Statler Brothers"
+    },
+    {
+      "id": 1254,
+      "name": "The Sterling Cooke Force"
+    },
+    {
+      "id": 1255,
+      "name": "The Stimulators"
+    },
+    {
+      "id": 1256,
+      "name": "The Stone Roses"
+    },
+    {
+      "id": 1257,
+      "name": "The Stooges"
+    },
+    {
+      "id": 1258,
+      "name": "The Stranglers"
+    },
+    {
+      "id": 1259,
+      "name": "The Strokes"
+    },
+    {
+      "id": 1260,
+      "name": "The Supernaturals"
+    },
+    {
+      "id": 1261,
+      "name": "The Tansads"
+    },
+    {
+      "id": 1262,
+      "name": "The Temperance Movement"
+    },
+    {
+      "id": 1263,
+      "name": "The Tornadoes"
+    },
+    {
+      "id": 1264,
+      "name": "The Undertones"
+    },
+    {
+      "id": 1265,
+      "name": "The Velvet Underground"
+    },
+    {
+      "id": 1266,
+      "name": "The Vibrators"
+    },
+    {
+      "id": 1267,
+      "name": "The Virgin Lovers"
+    },
+    {
+      "id": 1268,
+      "name": "The Walkmen"
+    },
+    {
+      "id": 1269,
+      "name": "The Wannadies"
+    },
+    {
+      "id": 1270,
+      "name": "The Wedding Present"
+    },
+    {
+      "id": 1271,
+      "name": "The White Stripes"
+    },
+    {
+      "id": 1272,
+      "name": "The Wizard Trio"
+    },
+    {
+      "id": 1273,
+      "name": "The Zutons"
+    },
+    {
+      "id": 1274,
+      "name": "Therion"
+    },
+    {
+      "id": 1275,
+      "name": "They Might Be Giants"
+    },
+    {
+      "id": 1276,
+      "name": "Thok"
+    },
+    {
+      "id": 1277,
+      "name": "Thor"
+    },
+    {
+      "id": 1278,
+      "name": "Thrasher"
+    },
+    {
+      "id": 1279,
+      "name": "Thrashist Regime"
+    },
+    {
+      "id": 1280,
+      "name": "Throne"
+    },
+    {
+      "id": 1281,
+      "name": "Thunderhead"
+    },
+    {
+      "id": 1282,
+      "name": "Thundermother"
+    },
+    {
+      "id": 1283,
+      "name": "Thunderpussy"
+    },
+    {
+      "id": 1284,
+      "name": "Thurman"
+    },
+    {
+      "id": 1285,
+      "name": "Tiffany"
+    },
+    {
+      "id": 1286,
+      "name": "Tigertailz"
+    },
+    {
+      "id": 1287,
+      "name": "Tim Booth; Angelo Badalamenti"
+    },
+    {
+      "id": 1288,
+      "name": "Tinlip"
+    },
+    {
+      "id": 1289,
+      "name": "Titans Eve"
+    },
+    {
+      "id": 1290,
+      "name": "TKO"
+    },
+    {
+      "id": 1291,
+      "name": "Toad The Wet Sprocket"
+    },
+    {
+      "id": 1292,
+      "name": "Toaster"
+    },
+    {
+      "id": 1293,
+      "name": "Tobruk"
+    },
+    {
+      "id": 1294,
+      "name": "Todd Rundgren"
+    },
+    {
+      "id": 1295,
+      "name": "Tokyo Blade"
+    },
+    {
+      "id": 1296,
+      "name": "Toledo Steel"
+    },
+    {
+      "id": 1297,
+      "name": "Tom Jones"
+    },
+    {
+      "id": 1298,
+      "name": "Tom Jones with Barenaked Ladies"
+    },
+    {
+      "id": 1299,
+      "name": "Tom Jones with Cerys Matthews"
+    },
+    {
+      "id": 1300,
+      "name": "Tom Jones with Heather Small"
+    },
+    {
+      "id": 1301,
+      "name": "Tom Jones with James Dean Bradfield"
+    },
+    {
+      "id": 1302,
+      "name": "Tom Jones with Mousse T."
+    },
+    {
+      "id": 1303,
+      "name": "Tom Jones with Natalie Imbruglia"
+    },
+    {
+      "id": 1304,
+      "name": "Tom Jones with Portishead"
+    },
+    {
+      "id": 1305,
+      "name": "Tom Jones with Robbie Williams"
+    },
+    {
+      "id": 1306,
+      "name": "Tom Jones with Simply Red"
+    },
+    {
+      "id": 1307,
+      "name": "Tom Jones with Space"
+    },
+    {
+      "id": 1308,
+      "name": "Tom Jones with Stereophonics"
+    },
+    {
+      "id": 1309,
+      "name": "Tom Jones with The Cardigans"
+    },
+    {
+      "id": 1310,
+      "name": "Tom Jones with The Divine Comedy"
+    },
+    {
+      "id": 1311,
+      "name": "Tom Jones with The James Taylor Quartet"
+    },
+    {
+      "id": 1312,
+      "name": "Tom Jones with The Pretenders"
+    },
+    {
+      "id": 1313,
+      "name": "Tom Jones with Van Morrison"
+    },
+    {
+      "id": 1314,
+      "name": "Tom Jones with Zucchero"
+    },
+    {
+      "id": 1315,
+      "name": "Tony MacAlpine"
+    },
+    {
+      "id": 1316,
+      "name": "Tora Tora"
+    },
+    {
+      "id": 1317,
+      "name": "Toranaga"
+    },
+    {
+      "id": 1318,
+      "name": "Torch"
+    },
+    {
+      "id": 1319,
+      "name": "Torino"
+    },
+    {
+      "id": 1320,
+      "name": "Tortoise Corpse"
+    },
+    {
+      "id": 1321,
+      "name": "Touch"
+    },
+    {
+      "id": 1322,
+      "name": "Tox"
+    },
+    {
+      "id": 1323,
+      "name": "Toxik"
+    },
+    {
+      "id": 1324,
+      "name": "Travis"
+    },
+    {
+      "id": 1325,
+      "name": "Treason"
+    },
+    {
+      "id": 1326,
+      "name": "Trespass"
+    },
+    {
+      "id": 1327,
+      "name": "Trigger"
+    },
+    {
+      "id": 1328,
+      "name": "Trillion"
+    },
+    {
+      "id": 1329,
+      "name": "Trippy Wicked \u0026 The Cosmic Children Of The Knight"
+    },
+    {
+      "id": 1330,
+      "name": "Trixx Federation"
+    },
+    {
+      "id": 1331,
+      "name": "Tr\u00F6jan"
+    },
+    {
+      "id": 1332,
+      "name": "Trouble"
+    },
+    {
+      "id": 1333,
+      "name": "Trust"
+    },
+    {
+      "id": 1334,
+      "name": "Tsunami"
+    },
+    {
+      "id": 1335,
+      "name": "TUFF"
+    },
+    {
+      "id": 1336,
+      "name": "Turin Brakes"
+    },
+    {
+      "id": 1337,
+      "name": "Twelfth Night"
+    },
+    {
+      "id": 1338,
+      "name": "Twisted Sister"
+    },
+    {
+      "id": 1339,
+      "name": "Tygers Of Pan Tang"
+    },
+    {
+      "id": 1340,
+      "name": "Tyran Pace"
+    },
+    {
+      "id": 1341,
+      "name": "Tyrant"
+    },
+    {
+      "id": 1342,
+      "name": "Tyrant\u0027s Reign"
+    },
+    {
+      "id": 1343,
+      "name": "Tysondog"
+    },
+    {
+      "id": 1344,
+      "name": "U.D.O."
+    },
+    {
+      "id": 1345,
+      "name": "U2"
+    },
+    {
+      "id": 1346,
+      "name": "UFO"
+    },
+    {
+      "id": 1347,
+      "name": "Ultimatum"
+    },
+    {
+      "id": 1348,
+      "name": "Ultravox"
+    },
+    {
+      "id": 1349,
+      "name": "Uncle Sirius"
+    },
+    {
+      "id": 1350,
+      "name": "Under Neath What"
+    },
+    {
+      "id": 1351,
+      "name": "Unearthly Trance"
+    },
+    {
+      "id": 1352,
+      "name": "Unholy Sacrifice"
+    },
+    {
+      "id": 1353,
+      "name": "Unisonic"
+    },
+    {
+      "id": 1354,
+      "name": "Unleashed"
+    },
+    {
+      "id": 1355,
+      "name": "Urge Overkill"
+    },
+    {
+      "id": 1356,
+      "name": "Urghpolice"
+    },
+    {
+      "id": 1357,
+      "name": "Uriah Heep"
+    },
+    {
+      "id": 1358,
+      "name": "Valkyrie"
+    },
+    {
+      "id": 1359,
+      "name": "V\u00E1lvera"
+    },
+    {
+      "id": 1360,
+      "name": "Vampire Death"
+    },
+    {
+      "id": 1361,
+      "name": "Van Halen"
+    },
+    {
+      "id": 1362,
+      "name": "Vandenberg"
+    },
+    {
+      "id": 1363,
+      "name": "Vardis"
+    },
+    {
+      "id": 1364,
+      "name": "Various"
+    },
+    {
+      "id": 1365,
+      "name": "Various Artists"
+    },
+    {
+      "id": 1366,
+      "name": "Vektor"
+    },
+    {
+      "id": 1367,
+      "name": "Velma"
+    },
+    {
+      "id": 1368,
+      "name": "Velvetbomb"
+    },
+    {
+      "id": 1369,
+      "name": "Vendetta"
+    },
+    {
+      "id": 1370,
+      "name": "Venom"
+    },
+    {
+      "id": 1371,
+      "name": "Venomwolf"
+    },
+    {
+      "id": 1372,
+      "name": "Veruca Salt"
+    },
+    {
+      "id": 1373,
+      "name": "Verve"
+    },
+    {
+      "id": 1374,
+      "name": "Veto"
+    },
+    {
+      "id": 1375,
+      "name": "Vic Reeves \u0026 The Wonderstuff"
+    },
+    {
+      "id": 1376,
+      "name": "Vic Vergat"
+    },
+    {
+      "id": 1377,
+      "name": "Vicious Rumors"
+    },
+    {
+      "id": 1378,
+      "name": "Victims Family"
+    },
+    {
+      "id": 1379,
+      "name": "Vindicator"
+    },
+    {
+      "id": 1380,
+      "name": "Vinnie Vincent Invasion"
+    },
+    {
+      "id": 1381,
+      "name": "Vio-Lence"
+    },
+    {
+      "id": 1382,
+      "name": "Virgin Steele"
+    },
+    {
+      "id": 1383,
+      "name": "Virus"
+    },
+    {
+      "id": 1384,
+      "name": "Visigoth"
+    },
+    {
+      "id": 1385,
+      "name": "Visit\u00F6r"
+    },
+    {
+      "id": 1386,
+      "name": "Vixen"
+    },
+    {
+      "id": 1387,
+      "name": "Voices Of Kwahn"
+    },
+    {
+      "id": 1388,
+      "name": "Vo\u00EFvod"
+    },
+    {
+      "id": 1389,
+      "name": "Vow Wow"
+    },
+    {
+      "id": 1390,
+      "name": "Voyager UK"
+    },
+    {
+      "id": 1391,
+      "name": "Vuil"
+    },
+    {
+      "id": 1392,
+      "name": "W.A.S.P."
+    },
+    {
+      "id": 1393,
+      "name": "Wannadies"
+    },
+    {
+      "id": 1394,
+      "name": "War Dance"
+    },
+    {
+      "id": 1395,
+      "name": "Warfare"
+    },
+    {
+      "id": 1396,
+      "name": "Warfare; Venom"
+    },
+    {
+      "id": 1397,
+      "name": "Warlock"
+    },
+    {
+      "id": 1398,
+      "name": "Warlord"
+    },
+    {
+      "id": 1399,
+      "name": "Warp Drive"
+    },
+    {
+      "id": 1400,
+      "name": "Warpspeed"
+    },
+    {
+      "id": 1401,
+      "name": "Warrant"
+    },
+    {
+      "id": 1402,
+      "name": "Warrior"
+    },
+    {
+      "id": 1403,
+      "name": "Warship"
+    },
+    {
+      "id": 1404,
+      "name": "Wasted Theory"
+    },
+    {
+      "id": 1405,
+      "name": "Watchtower"
+    },
+    {
+      "id": 1406,
+      "name": "Wayne County And The Back Street Boys"
+    },
+    {
+      "id": 1407,
+      "name": "Wayne County And The Electric Chairs"
+    },
+    {
+      "id": 1408,
+      "name": "Waysted"
+    },
+    {
+      "id": 1409,
+      "name": "Weapons"
+    },
+    {
+      "id": 1410,
+      "name": "Weezer"
+    },
+    {
+      "id": 1411,
+      "name": "Wendy O. Williams"
+    },
+    {
+      "id": 1412,
+      "name": "Wesley Willis"
+    },
+    {
+      "id": 1413,
+      "name": "Whipping Boy"
+    },
+    {
+      "id": 1414,
+      "name": "White Spirit"
+    },
+    {
+      "id": 1415,
+      "name": "White Wizzard"
+    },
+    {
+      "id": 1416,
+      "name": "White Zombie"
+    },
+    {
+      "id": 1417,
+      "name": "Whitesnake"
+    },
+    {
+      "id": 1418,
+      "name": "Widow"
+    },
+    {
+      "id": 1419,
+      "name": "Widows"
+    },
+    {
+      "id": 1420,
+      "name": "Wild Dogs"
+    },
+    {
+      "id": 1421,
+      "name": "Wild Savages"
+    },
+    {
+      "id": 1422,
+      "name": "Wildfire"
+    },
+    {
+      "id": 1423,
+      "name": "Wildhearts"
+    },
+    {
+      "id": 1424,
+      "name": "Winger"
+    },
+    {
+      "id": 1425,
+      "name": "Winter Of Torment"
+    },
+    {
+      "id": 1426,
+      "name": "Wishbone Ash"
+    },
+    {
+      "id": 1427,
+      "name": "Witch Cross"
+    },
+    {
+      "id": 1428,
+      "name": "Witchburner"
+    },
+    {
+      "id": 1429,
+      "name": "Witchcraft"
+    },
+    {
+      "id": 1430,
+      "name": "Witchfinder General"
+    },
+    {
+      "id": 1431,
+      "name": "Witchfynde"
+    },
+    {
+      "id": 1432,
+      "name": "Witchskull"
+    },
+    {
+      "id": 1433,
+      "name": "Witchtrap"
+    },
+    {
+      "id": 1434,
+      "name": "Wolf"
+    },
+    {
+      "id": 1435,
+      "name": "Wolfmother"
+    },
+    {
+      "id": 1436,
+      "name": "Wolfs moon"
+    },
+    {
+      "id": 1437,
+      "name": "Wolfsbane"
+    },
+    {
+      "id": 1438,
+      "name": "Wolftooth"
+    },
+    {
+      "id": 1439,
+      "name": "Wolves Of Winter"
+    },
+    {
+      "id": 1440,
+      "name": "Wonder Stuff"
+    },
+    {
+      "id": 1441,
+      "name": "Wonderland"
+    },
+    {
+      "id": 1442,
+      "name": "World War III"
+    },
+    {
+      "id": 1443,
+      "name": "Worshipper"
+    },
+    {
+      "id": 1444,
+      "name": "Wrabit"
+    },
+    {
+      "id": 1445,
+      "name": "Wrath"
+    },
+    {
+      "id": 1446,
+      "name": "Wrathchild"
+    },
+    {
+      "id": 1447,
+      "name": "Wrathchild America"
+    },
+    {
+      "id": 1448,
+      "name": "Wreckage"
+    },
+    {
+      "id": 1449,
+      "name": "Wreckless Eric"
+    },
+    {
+      "id": 1450,
+      "name": "Wretch"
+    },
+    {
+      "id": 1451,
+      "name": "Wretched Soul"
+    },
+    {
+      "id": 1452,
+      "name": "W\u00FClfhook"
+    },
+    {
+      "id": 1453,
+      "name": "Wytch Hazel"
+    },
+    {
+      "id": 1454,
+      "name": "X-Ray Spex"
+    },
+    {
+      "id": 1455,
+      "name": "XC-NN"
+    },
+    {
+      "id": 1456,
+      "name": "Xentrix"
+    },
+    {
+      "id": 1457,
+      "name": "Xero"
+    },
+    {
+      "id": 1458,
+      "name": "XII Boar"
+    },
+    {
+      "id": 1459,
+      "name": "Xyster"
+    },
+    {
+      "id": 1460,
+      "name": "Y \u0026 T"
+    },
+    {
+      "id": 1461,
+      "name": "Yellow Gang"
+    },
+    {
+      "id": 1462,
+      "name": "Yngwie J. Malmsteen"
+    },
+    {
+      "id": 1463,
+      "name": "Yngwie J. Malmsteen\u0027s Rising Force"
+    },
+    {
+      "id": 1464,
+      "name": "Zed"
+    },
+    {
+      "id": 1465,
+      "name": "Zed Yago"
+    },
+    {
+      "id": 1466,
+      "name": "Zeitgeist"
+    },
+    {
+      "id": 1467,
+      "name": "Zemial"
+    },
+    {
+      "id": 1468,
+      "name": "Zen Guerrilla"
+    },
+    {
+      "id": 1469,
+      "name": "Znowhite"
+    },
+    {
+      "id": 1470,
+      "name": "Zodiac Mindwarp And The Love Reaction"
+    },
+    {
+      "id": 1471,
+      "name": "Zoetrope"
+    },
+    {
+      "id": 1472,
+      "name": "Zon"
+    },
+    {
+      "id": 1473,
+      "name": "\u0427\u0451\u0440\u043D\u044B\u0439 \u041A\u043E\u0444\u0435"
+    }
+  ]
+}

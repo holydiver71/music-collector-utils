@@ -1,0 +1,2588 @@
+{
+  "labels": [
+    {
+      "id": 1,
+      "name": "[PIAS] Recordings"
+    },
+    {
+      "id": 2,
+      "name": "10 Records"
+    },
+    {
+      "id": 3,
+      "name": "4AD"
+    },
+    {
+      "id": 4,
+      "name": "4Worlds Media"
+    },
+    {
+      "id": 5,
+      "name": "679"
+    },
+    {
+      "id": 6,
+      "name": "A \u0026 M Records"
+    },
+    {
+      "id": 7,
+      "name": "A\u0026M"
+    },
+    {
+      "id": 8,
+      "name": "A\u0026M Records"
+    },
+    {
+      "id": 9,
+      "name": "Acetate Records (2)"
+    },
+    {
+      "id": 10,
+      "name": "Acid Jazz"
+    },
+    {
+      "id": 11,
+      "name": "Acm\u00E9 Recording Co."
+    },
+    {
+      "id": 12,
+      "name": "Acrobat Records"
+    },
+    {
+      "id": 13,
+      "name": "Adapt Metal Records"
+    },
+    {
+      "id": 14,
+      "name": "Adapt Records"
+    },
+    {
+      "id": 15,
+      "name": "AFM"
+    },
+    {
+      "id": 16,
+      "name": "AFM Records"
+    },
+    {
+      "id": 17,
+      "name": "AFM Records / Soulfood Music Distribution GmbH"
+    },
+    {
+      "id": 18,
+      "name": "Alone Records"
+    },
+    {
+      "id": 19,
+      "name": "Alternative Tentacles"
+    },
+    {
+      "id": 20,
+      "name": "American Icons Ltd."
+    },
+    {
+      "id": 21,
+      "name": "American Recordings"
+    },
+    {
+      "id": 22,
+      "name": "Ankst"
+    },
+    {
+      "id": 23,
+      "name": "Anthrax Records"
+    },
+    {
+      "id": 24,
+      "name": "Anvil Rock Enterprises"
+    },
+    {
+      "id": 25,
+      "name": "Aquarius Records"
+    },
+    {
+      "id": 26,
+      "name": "Argonauta Records"
+    },
+    {
+      "id": 27,
+      "name": "Ariola"
+    },
+    {
+      "id": 28,
+      "name": "Ariola Records America"
+    },
+    {
+      "id": 29,
+      "name": "Arista"
+    },
+    {
+      "id": 30,
+      "name": "Armoury Records"
+    },
+    {
+      "id": 31,
+      "name": "Artificial Head Records And Tapes"
+    },
+    {
+      "id": 32,
+      "name": "Artillery Music Group"
+    },
+    {
+      "id": 33,
+      "name": "At a Loss Recordings"
+    },
+    {
+      "id": 34,
+      "name": "At War With False Noise"
+    },
+    {
+      "id": 35,
+      "name": "ATCO Records"
+    },
+    {
+      "id": 36,
+      "name": "Atlantic"
+    },
+    {
+      "id": 37,
+      "name": "Atlantic / Wea"
+    },
+    {
+      "id": 38,
+      "name": "Atlantic BMG"
+    },
+    {
+      "id": 39,
+      "name": "Atom H"
+    },
+    {
+      "id": 40,
+      "name": "Atomic Fire"
+    },
+    {
+      "id": 41,
+      "name": "Attic"
+    },
+    {
+      "id": 42,
+      "name": "Avatar Record \u0026 Screenworks Ltd"
+    },
+    {
+      "id": 43,
+      "name": "AVM Records"
+    },
+    {
+      "id": 44,
+      "name": "Awakening Records (5)"
+    },
+    {
+      "id": 45,
+      "name": "Axe Killer Records"
+    },
+    {
+      "id": 46,
+      "name": "Axis Records"
+    },
+    {
+      "id": 47,
+      "name": "B-Unique"
+    },
+    {
+      "id": 48,
+      "name": "Back on Black"
+    },
+    {
+      "id": 49,
+      "name": "Back To Black"
+    },
+    {
+      "id": 50,
+      "name": "Backdoor"
+    },
+    {
+      "id": 51,
+      "name": "Bad Omen Records"
+    },
+    {
+      "id": 52,
+      "name": "Bandit Records Limited"
+    },
+    {
+      "id": 53,
+      "name": "Banzai Records"
+    },
+    {
+      "id": 54,
+      "name": "Barbarian Wrath"
+    },
+    {
+      "id": 55,
+      "name": "BBC Records"
+    },
+    {
+      "id": 56,
+      "name": "Beer and Jesus Records"
+    },
+    {
+      "id": 57,
+      "name": "Beggars Banquet"
+    },
+    {
+      "id": 58,
+      "name": "Bellaphon"
+    },
+    {
+      "id": 59,
+      "name": "Big \u0026 Complex World"
+    },
+    {
+      "id": 60,
+      "name": "Big Cat"
+    },
+    {
+      "id": 61,
+      "name": "Black Mammoth Records"
+    },
+    {
+      "id": 62,
+      "name": "Blackened Recordings"
+    },
+    {
+      "id": 63,
+      "name": "Blackout! Records"
+    },
+    {
+      "id": 64,
+      "name": "Blanco Y Negro"
+    },
+    {
+      "id": 65,
+      "name": "Blast First"
+    },
+    {
+      "id": 66,
+      "name": "Blast Furnace"
+    },
+    {
+      "id": 67,
+      "name": "Blind Prophecy Records"
+    },
+    {
+      "id": 68,
+      "name": "Blower Records"
+    },
+    {
+      "id": 69,
+      "name": "Bmg"
+    },
+    {
+      "id": 70,
+      "name": "BMG (2)"
+    },
+    {
+      "id": 71,
+      "name": "BMG Kidz"
+    },
+    {
+      "id": 72,
+      "name": "Brain"
+    },
+    {
+      "id": 73,
+      "name": "Bronze"
+    },
+    {
+      "id": 74,
+      "name": "Bronze Records"
+    },
+    {
+      "id": 75,
+      "name": "Brutal Planet Records"
+    },
+    {
+      "id": 76,
+      "name": "Brutal Records"
+    },
+    {
+      "id": 77,
+      "name": "Burn Records"
+    },
+    {
+      "id": 78,
+      "name": "Burning Heart Records"
+    },
+    {
+      "id": 79,
+      "name": "C.M.F.T. Productions"
+    },
+    {
+      "id": 80,
+      "name": "Camden"
+    },
+    {
+      "id": 81,
+      "name": "Candlelight Records"
+    },
+    {
+      "id": 82,
+      "name": "Canyon International (2)"
+    },
+    {
+      "id": 83,
+      "name": "Capitol"
+    },
+    {
+      "id": 84,
+      "name": "Capitol Records"
+    },
+    {
+      "id": 85,
+      "name": "Caroline Records"
+    },
+    {
+      "id": 86,
+      "name": "Carrere"
+    },
+    {
+      "id": 87,
+      "name": "Casket Music"
+    },
+    {
+      "id": 88,
+      "name": "Castle Communications"
+    },
+    {
+      "id": 89,
+      "name": "Castle Select"
+    },
+    {
+      "id": 90,
+      "name": "CBS"
+    },
+    {
+      "id": 91,
+      "name": "Century Media"
+    },
+    {
+      "id": 92,
+      "name": "Century Media Records"
+    },
+    {
+      "id": 93,
+      "name": "Charly Records"
+    },
+    {
+      "id": 94,
+      "name": "Cherry Red Records"
+    },
+    {
+      "id": 95,
+      "name": "China Records"
+    },
+    {
+      "id": 96,
+      "name": "Chiswick Records"
+    },
+    {
+      "id": 97,
+      "name": "Chrome Dreams"
+    },
+    {
+      "id": 98,
+      "name": "Chrysalis"
+    },
+    {
+      "id": 99,
+      "name": "Chuffing Hell Records"
+    },
+    {
+      "id": 100,
+      "name": "Church Recordings"
+    },
+    {
+      "id": 101,
+      "name": "Clay Records"
+    },
+    {
+      "id": 102,
+      "name": "Cleopatra"
+    },
+    {
+      "id": 103,
+      "name": "Clue Records"
+    },
+    {
+      "id": 104,
+      "name": "CMC International Records"
+    },
+    {
+      "id": 105,
+      "name": "Coda Publishing"
+    },
+    {
+      "id": 106,
+      "name": "Collectables"
+    },
+    {
+      "id": 107,
+      "name": "Columbia"
+    },
+    {
+      "id": 108,
+      "name": "Columbia / Legacy"
+    },
+    {
+      "id": 109,
+      "name": "Columbia Legacy"
+    },
+    {
+      "id": 110,
+      "name": "Columbia Records"
+    },
+    {
+      "id": 111,
+      "name": "Combat"
+    },
+    {
+      "id": 112,
+      "name": "Conoisseur Collection"
+    },
+    {
+      "id": 113,
+      "name": "Control"
+    },
+    {
+      "id": 114,
+      "name": "Cooking Vinyl"
+    },
+    {
+      "id": 115,
+      "name": "Copro Records"
+    },
+    {
+      "id": 116,
+      "name": "Creation"
+    },
+    {
+      "id": 117,
+      "name": "Creation Records"
+    },
+    {
+      "id": 118,
+      "name": "Cruz Del Sur Music"
+    },
+    {
+      "id": 119,
+      "name": "Crypt Of The Wizard"
+    },
+    {
+      "id": 120,
+      "name": "Cult Legends"
+    },
+    {
+      "id": 121,
+      "name": "Dallas Tarr Records"
+    },
+    {
+      "id": 122,
+      "name": "Damaged Goods"
+    },
+    {
+      "id": 123,
+      "name": "Daredevil Records"
+    },
+    {
+      "id": 124,
+      "name": "DC-Jam Records"
+    },
+    {
+      "id": 125,
+      "name": "Deadbangers Productions"
+    },
+    {
+      "id": 126,
+      "name": "Death Rider Records"
+    },
+    {
+      "id": 127,
+      "name": "Deceptive"
+    },
+    {
+      "id": 128,
+      "name": "Def American Recordings"
+    },
+    {
+      "id": 129,
+      "name": "Def Jam Recordings"
+    },
+    {
+      "id": 130,
+      "name": "Deltasonic Records"
+    },
+    {
+      "id": 131,
+      "name": "Demon Music Group Ltd."
+    },
+    {
+      "id": 132,
+      "name": "Demon Records"
+    },
+    {
+      "id": 133,
+      "name": "Despotz Records"
+    },
+    {
+      "id": 134,
+      "name": "DGC"
+    },
+    {
+      "id": 135,
+      "name": "DHM Records"
+    },
+    {
+      "id": 136,
+      "name": "Diabolic Might Records"
+    },
+    {
+      "id": 137,
+      "name": "Diamond Head"
+    },
+    {
+      "id": 138,
+      "name": "Diamond Records"
+    },
+    {
+      "id": 139,
+      "name": "Diminished Fifth Records"
+    },
+    {
+      "id": 140,
+      "name": "Disaster"
+    },
+    {
+      "id": 141,
+      "name": "Dissonance Productions"
+    },
+    {
+      "id": 142,
+      "name": "Divebomb Records"
+    },
+    {
+      "id": 143,
+      "name": "Dockyard 1"
+    },
+    {
+      "id": 144,
+      "name": "Dojo"
+    },
+    {
+      "id": 145,
+      "name": "DOL"
+    },
+    {
+      "id": 146,
+      "name": "Domino Recording Co Ltd."
+    },
+    {
+      "id": 147,
+      "name": "Doomentia Records"
+    },
+    {
+      "id": 148,
+      "name": "Dragnet Records"
+    },
+    {
+      "id": 149,
+      "name": "Dream Works"
+    },
+    {
+      "id": 150,
+      "name": "Dreamworks"
+    },
+    {
+      "id": 151,
+      "name": "Dry Heave Records"
+    },
+    {
+      "id": 152,
+      "name": "Dying Victims Productions"
+    },
+    {
+      "id": 153,
+      "name": "E One"
+    },
+    {
+      "id": 154,
+      "name": "E-A-R Music (Edel)"
+    },
+    {
+      "id": 155,
+      "name": "Eagle Records"
+    },
+    {
+      "id": 156,
+      "name": "Ear Music"
+    },
+    {
+      "id": 157,
+      "name": "Ear Music Classics"
+    },
+    {
+      "id": 158,
+      "name": "Earache"
+    },
+    {
+      "id": 159,
+      "name": "Earache Records"
+    },
+    {
+      "id": 160,
+      "name": "East Rock Records"
+    },
+    {
+      "id": 161,
+      "name": "Eat Metal Records"
+    },
+    {
+      "id": 162,
+      "name": "Ebony Records"
+    },
+    {
+      "id": 163,
+      "name": "Echoes (3)"
+    },
+    {
+      "id": 164,
+      "name": "Egg Raid"
+    },
+    {
+      "id": 165,
+      "name": "El Segell Del Primavera"
+    },
+    {
+      "id": 166,
+      "name": "Electrola"
+    },
+    {
+      "id": 167,
+      "name": "Elektra"
+    },
+    {
+      "id": 168,
+      "name": "Elevator Music"
+    },
+    {
+      "id": 169,
+      "name": "Eleven Seven"
+    },
+    {
+      "id": 170,
+      "name": "Eleven Seven Music"
+    },
+    {
+      "id": 171,
+      "name": "EMI"
+    },
+    {
+      "id": 172,
+      "name": "EMI America"
+    },
+    {
+      "id": 173,
+      "name": "EMI Electrola"
+    },
+    {
+      "id": 174,
+      "name": "EMI Gold"
+    },
+    {
+      "id": 175,
+      "name": "EMI Music Canada"
+    },
+    {
+      "id": 176,
+      "name": "EMI Records"
+    },
+    {
+      "id": 177,
+      "name": "EMI Records Ltd."
+    },
+    {
+      "id": 178,
+      "name": "EMI Records USA"
+    },
+    {
+      "id": 179,
+      "name": "EMI United Kingdom"
+    },
+    {
+      "id": 180,
+      "name": "EMI USA"
+    },
+    {
+      "id": 181,
+      "name": "Enigma Records"
+    },
+    {
+      "id": 182,
+      "name": "eOne"
+    },
+    {
+      "id": 183,
+      "name": "Epic"
+    },
+    {
+      "id": 184,
+      "name": "Epic (2)"
+    },
+    {
+      "id": 185,
+      "name": "Epic Records / Sony Music UK"
+    },
+    {
+      "id": 186,
+      "name": "Escapi Music"
+    },
+    {
+      "id": 187,
+      "name": "Essential"
+    },
+    {
+      "id": 188,
+      "name": "Event Records (3)"
+    },
+    {
+      "id": 189,
+      "name": "Evil Spell Records"
+    },
+    {
+      "id": 190,
+      "name": "EX1 Records"
+    },
+    {
+      "id": 191,
+      "name": "Factory"
+    },
+    {
+      "id": 192,
+      "name": "Fame"
+    },
+    {
+      "id": 193,
+      "name": "Fat Hippy Records"
+    },
+    {
+      "id": 194,
+      "name": "Fat Wreck Chords"
+    },
+    {
+      "id": 195,
+      "name": "Fauve Records"
+    },
+    {
+      "id": 196,
+      "name": "Fear Me! Music"
+    },
+    {
+      "id": 197,
+      "name": "FEI Records"
+    },
+    {
+      "id": 198,
+      "name": "FlyDaddy"
+    },
+    {
+      "id": 199,
+      "name": "Flying Brain Records"
+    },
+    {
+      "id": 200,
+      "name": "FM"
+    },
+    {
+      "id": 201,
+      "name": "FM-Revolver Records Ltd."
+    },
+    {
+      "id": 202,
+      "name": "Fontana"
+    },
+    {
+      "id": 203,
+      "name": "Food"
+    },
+    {
+      "id": 204,
+      "name": "Food For Thought Records"
+    },
+    {
+      "id": 205,
+      "name": "Food/Virgin"
+    },
+    {
+      "id": 206,
+      "name": "Frontiers Music SRL"
+    },
+    {
+      "id": 207,
+      "name": "Gaphals"
+    },
+    {
+      "id": 208,
+      "name": "Garage Flower Records"
+    },
+    {
+      "id": 209,
+      "name": "Gates Of Hell Records"
+    },
+    {
+      "id": 210,
+      "name": "Geffen"
+    },
+    {
+      "id": 211,
+      "name": "Geffen Records"
+    },
+    {
+      "id": 212,
+      "name": "Geffen Records, Inc."
+    },
+    {
+      "id": 213,
+      "name": "GEM"
+    },
+    {
+      "id": 214,
+      "name": "Go! Discs"
+    },
+    {
+      "id": 215,
+      "name": "Golden Core"
+    },
+    {
+      "id": 216,
+      "name": "Golden Core Records (ZYX)"
+    },
+    {
+      "id": 217,
+      "name": "Granite Factory Records"
+    },
+    {
+      "id": 218,
+      "name": "Green China Records"
+    },
+    {
+      "id": 219,
+      "name": "Grey Mouser Records"
+    },
+    {
+      "id": 220,
+      "name": "Griffin Music"
+    },
+    {
+      "id": 221,
+      "name": "Grudge Records"
+    },
+    {
+      "id": 222,
+      "name": "Gut Records"
+    },
+    {
+      "id": 223,
+      "name": "GWR Records"
+    },
+    {
+      "id": 224,
+      "name": "Half Moon"
+    },
+    {
+      "id": 225,
+      "name": "Hammerheart Records"
+    },
+    {
+      "id": 226,
+      "name": "HandMeDowns Records"
+    },
+    {
+      "id": 227,
+      "name": "Hanover Records (2)"
+    },
+    {
+      "id": 228,
+      "name": "Happy Face Records"
+    },
+    {
+      "id": 229,
+      "name": "Happy Happy Birthday To Me Records"
+    },
+    {
+      "id": 230,
+      "name": "Hard Rock Records"
+    },
+    {
+      "id": 231,
+      "name": "Harvest"
+    },
+    {
+      "id": 232,
+      "name": "Hatch Records"
+    },
+    {
+      "id": 233,
+      "name": "Headless Horseman"
+    },
+    {
+      "id": 234,
+      "name": "Hear No Evil Recordings"
+    },
+    {
+      "id": 235,
+      "name": "Heavenly"
+    },
+    {
+      "id": 236,
+      "name": "Heavy Metal Records"
+    },
+    {
+      "id": 237,
+      "name": "Heavy Metal Worldwide"
+    },
+    {
+      "id": 238,
+      "name": "Heavy Psych Sounds"
+    },
+    {
+      "id": 239,
+      "name": "Hellion Records"
+    },
+    {
+      "id": 240,
+      "name": "Hellrocker Records"
+    },
+    {
+      "id": 241,
+      "name": "Hells Headbangers"
+    },
+    {
+      "id": 242,
+      "name": "Helmet Lady Records"
+    },
+    {
+      "id": 243,
+      "name": "Helter Skelter"
+    },
+    {
+      "id": 244,
+      "name": "High Roller Records"
+    },
+    {
+      "id": 245,
+      "name": "High Vaultage"
+    },
+    {
+      "id": 246,
+      "name": "Holier Than Thou Records"
+    },
+    {
+      "id": 247,
+      "name": "Hollywood Records"
+    },
+    {
+      "id": 248,
+      "name": "Hoove Child Records"
+    },
+    {
+      "id": 249,
+      "name": "Horror Records"
+    },
+    {
+      "id": 250,
+      "name": "Hostile Media"
+    },
+    {
+      "id": 251,
+      "name": "Hut Recordings"
+    },
+    {
+      "id": 252,
+      "name": "I.R.S. Records"
+    },
+    {
+      "id": 253,
+      "name": "Ignition"
+    },
+    {
+      "id": 254,
+      "name": "iht / East West"
+    },
+    {
+      "id": 255,
+      "name": "iht/East West"
+    },
+    {
+      "id": 256,
+      "name": "Illegal records"
+    },
+    {
+      "id": 257,
+      "name": "in-akustik"
+    },
+    {
+      "id": 258,
+      "name": "in-akustik GmbH \u0026 Co. KG"
+    },
+    {
+      "id": 259,
+      "name": "Independent Records (5)"
+    },
+    {
+      "id": 260,
+      "name": "Independent Release"
+    },
+    {
+      "id": 261,
+      "name": "Independiente Ltd."
+    },
+    {
+      "id": 262,
+      "name": "Independiente/Sony Music"
+    },
+    {
+      "id": 263,
+      "name": "Indisc"
+    },
+    {
+      "id": 264,
+      "name": "Indolent"
+    },
+    {
+      "id": 265,
+      "name": "Infectious Records"
+    },
+    {
+      "id": 266,
+      "name": "Injustice Records"
+    },
+    {
+      "id": 267,
+      "name": "Inner Wound Recordings"
+    },
+    {
+      "id": 268,
+      "name": "Interscope"
+    },
+    {
+      "id": 269,
+      "name": "Interscope Records / Polydor Ltd. ( UK ) / A Universal Music Company"
+    },
+    {
+      "id": 270,
+      "name": "Ipecac Recordings"
+    },
+    {
+      "id": 271,
+      "name": "Iron Bonehead Productions"
+    },
+    {
+      "id": 272,
+      "name": "Iron Pegasus Records"
+    },
+    {
+      "id": 273,
+      "name": "Iron Shield Records"
+    },
+    {
+      "id": 274,
+      "name": "Island"
+    },
+    {
+      "id": 275,
+      "name": "Island Masters"
+    },
+    {
+      "id": 276,
+      "name": "Island Records"
+    },
+    {
+      "id": 277,
+      "name": "Isolation Records"
+    },
+    {
+      "id": 278,
+      "name": "IX Music"
+    },
+    {
+      "id": 279,
+      "name": "Jet Records"
+    },
+    {
+      "id": 280,
+      "name": "Journey\u0027s End Records"
+    },
+    {
+      "id": 281,
+      "name": "Jungle Records"
+    },
+    {
+      "id": 282,
+      "name": "K-Tel"
+    },
+    {
+      "id": 283,
+      "name": "Kamaflage Records"
+    },
+    {
+      "id": 284,
+      "name": "King Biscuit Flower Hour Records"
+    },
+    {
+      "id": 285,
+      "name": "Kingside Records"
+    },
+    {
+      "id": 286,
+      "name": "Kneel Before The Master\u0027s Throne Records"
+    },
+    {
+      "id": 287,
+      "name": "Korova"
+    },
+    {
+      "id": 288,
+      "name": "Kozmik Artifactz"
+    },
+    {
+      "id": 289,
+      "name": "Kraze"
+    },
+    {
+      "id": 290,
+      "name": "Krescendo Records"
+    },
+    {
+      "id": 291,
+      "name": "Lake Of Fire Productions"
+    },
+    {
+      "id": 292,
+      "name": "Legacy Records"
+    },
+    {
+      "id": 293,
+      "name": "Les Editions G.B.G.B.H."
+    },
+    {
+      "id": 294,
+      "name": "Let Them Eat Vinyl"
+    },
+    {
+      "id": 295,
+      "name": "Leviathan Records"
+    },
+    {
+      "id": 296,
+      "name": "Liberty"
+    },
+    {
+      "id": 297,
+      "name": "Life After Death"
+    },
+    {
+      "id": 298,
+      "name": "Lime Records"
+    },
+    {
+      "id": 299,
+      "name": "Listenable Records"
+    },
+    {
+      "id": 300,
+      "name": "Logo"
+    },
+    {
+      "id": 301,
+      "name": "London Records"
+    },
+    {
+      "id": 302,
+      "name": "London Records 90 Ltd."
+    },
+    {
+      "id": 303,
+      "name": "M-Theory Audio"
+    },
+    {
+      "id": 304,
+      "name": "M.U.S.I.C. Records"
+    },
+    {
+      "id": 305,
+      "name": "Madfish"
+    },
+    {
+      "id": 306,
+      "name": "Mafer Records"
+    },
+    {
+      "id": 307,
+      "name": "Magdalene Records"
+    },
+    {
+      "id": 308,
+      "name": "Manic Ears Records"
+    },
+    {
+      "id": 309,
+      "name": "Massacre"
+    },
+    {
+      "id": 310,
+      "name": "Massacre Records"
+    },
+    {
+      "id": 311,
+      "name": "Master Records"
+    },
+    {
+      "id": 312,
+      "name": "MasterTone"
+    },
+    {
+      "id": 313,
+      "name": "Mausoleum Records"
+    },
+    {
+      "id": 314,
+      "name": "Maverick"
+    },
+    {
+      "id": 315,
+      "name": "Mayan Records"
+    },
+    {
+      "id": 316,
+      "name": "Maze Music"
+    },
+    {
+      "id": 317,
+      "name": "MCA"
+    },
+    {
+      "id": 318,
+      "name": "MCA Records"
+    },
+    {
+      "id": 319,
+      "name": "MCA Records (2)"
+    },
+    {
+      "id": 320,
+      "name": "MCA Records Ltd."
+    },
+    {
+      "id": 321,
+      "name": "Me Saco Un Ojo Records"
+    },
+    {
+      "id": 322,
+      "name": "Media Records (4)"
+    },
+    {
+      "id": 323,
+      "name": "Medusa Records"
+    },
+    {
+      "id": 324,
+      "name": "Megaforce Records"
+    },
+    {
+      "id": 325,
+      "name": "Megaforce Worldwide"
+    },
+    {
+      "id": 326,
+      "name": "Melody Maker"
+    },
+    {
+      "id": 327,
+      "name": "Mercury"
+    },
+    {
+      "id": 328,
+      "name": "Metal Bastard Enterprises"
+    },
+    {
+      "id": 329,
+      "name": "Metal Blade"
+    },
+    {
+      "id": 330,
+      "name": "Metal Blade Records"
+    },
+    {
+      "id": 331,
+      "name": "Metal Hammer"
+    },
+    {
+      "id": 332,
+      "name": "Metal Mind Productions"
+    },
+    {
+      "id": 333,
+      "name": "Metal On Metal Records"
+    },
+    {
+      "id": 334,
+      "name": "Metal-is Records"
+    },
+    {
+      "id": 335,
+      "name": "Metalcore"
+    },
+    {
+      "id": 336,
+      "name": "Metalizer Records"
+    },
+    {
+      "id": 337,
+      "name": "Metalville"
+    },
+    {
+      "id": 338,
+      "name": "Metro"
+    },
+    {
+      "id": 339,
+      "name": "Metro Select"
+    },
+    {
+      "id": 340,
+      "name": "Metro-America"
+    },
+    {
+      "id": 341,
+      "name": "Mighty Music"
+    },
+    {
+      "id": 342,
+      "name": "Millenium Eight Records"
+    },
+    {
+      "id": 343,
+      "name": "Minotauro"
+    },
+    {
+      "id": 344,
+      "name": "Mirage"
+    },
+    {
+      "id": 345,
+      "name": "Modular Recordings"
+    },
+    {
+      "id": 346,
+      "name": "Monkey Puzzle Music"
+    },
+    {
+      "id": 347,
+      "name": "MontyRay"
+    },
+    {
+      "id": 348,
+      "name": "Morada Records"
+    },
+    {
+      "id": 349,
+      "name": "Morning Records"
+    },
+    {
+      "id": 350,
+      "name": "Mosh Tuneage"
+    },
+    {
+      "id": 351,
+      "name": "Munhwa Records"
+    },
+    {
+      "id": 352,
+      "name": "Music For Nations"
+    },
+    {
+      "id": 353,
+      "name": "Music On Vinyl"
+    },
+    {
+      "id": 354,
+      "name": "Musidisc"
+    },
+    {
+      "id": 355,
+      "name": "Mutated Music"
+    },
+    {
+      "id": 356,
+      "name": "Mute"
+    },
+    {
+      "id": 357,
+      "name": "Napalm Records"
+    },
+    {
+      "id": 358,
+      "name": "Napalm Records Handels GmbH"
+    },
+    {
+      "id": 359,
+      "name": "Neat Records"
+    },
+    {
+      "id": 360,
+      "name": "Nems"
+    },
+    {
+      "id": 361,
+      "name": "Newtime Music Company, The"
+    },
+    {
+      "id": 362,
+      "name": "Nexus"
+    },
+    {
+      "id": 363,
+      "name": "Night Of The Vinyl Dead Records"
+    },
+    {
+      "id": 364,
+      "name": "Niji Entertainment Group"
+    },
+    {
+      "id": 365,
+      "name": "No Death Records"
+    },
+    {
+      "id": 366,
+      "name": "No Life \u0027til Metal Records"
+    },
+    {
+      "id": 367,
+      "name": "No Remorse Records"
+    },
+    {
+      "id": 368,
+      "name": "No Remorse Records (4)"
+    },
+    {
+      "id": 369,
+      "name": "No Wimp Records"
+    },
+    {
+      "id": 370,
+      "name": "Noise"
+    },
+    {
+      "id": 371,
+      "name": "Noise (3)"
+    },
+    {
+      "id": 372,
+      "name": "Noise International"
+    },
+    {
+      "id": 373,
+      "name": "Noise Records"
+    },
+    {
+      "id": 374,
+      "name": "North Country"
+    },
+    {
+      "id": 375,
+      "name": "Not On Label"
+    },
+    {
+      "id": 376,
+      "name": "Not On Label (Bangover Self-released)"
+    },
+    {
+      "id": 377,
+      "name": "Not On Label (Black Talon Self-released)"
+    },
+    {
+      "id": 378,
+      "name": "Not On Label (Eradikator Self-released)"
+    },
+    {
+      "id": 379,
+      "name": "Not On Label (Fury Self-released)"
+    },
+    {
+      "id": 380,
+      "name": "Not On Label (High Spirits (4) Self-released)"
+    },
+    {
+      "id": 381,
+      "name": "Not On Label (Iron Kingdom Self-released)"
+    },
+    {
+      "id": 382,
+      "name": "Not On Label (Iron Maiden)"
+    },
+    {
+      "id": 383,
+      "name": "Not On Label (Pink Cigs Self-released)"
+    },
+    {
+      "id": 384,
+      "name": "Not On Label (Solar Sond Self-released)"
+    },
+    {
+      "id": 385,
+      "name": "Noteworthy Productions"
+    },
+    {
+      "id": 386,
+      "name": "Nothing Records"
+    },
+    {
+      "id": 387,
+      "name": "Nuclear Blast"
+    },
+    {
+      "id": 388,
+      "name": "Nuclear Blast / IROND"
+    },
+    {
+      "id": 389,
+      "name": "Nuclear Blast America"
+    },
+    {
+      "id": 390,
+      "name": "Nuclear Blast Entertainment"
+    },
+    {
+      "id": 391,
+      "name": "Nuclear Blast Records"
+    },
+    {
+      "id": 392,
+      "name": "Nuclear Family Records (2)"
+    },
+    {
+      "id": 393,
+      "name": "Nucleus Records"
+    },
+    {
+      "id": 394,
+      "name": "Nude"
+    },
+    {
+      "id": 395,
+      "name": "Off Yer Rocka Recordings"
+    },
+    {
+      "id": 396,
+      "name": "One Little Indian"
+    },
+    {
+      "id": 397,
+      "name": "One Little Indian Records"
+    },
+    {
+      "id": 398,
+      "name": "Outsider Records (9)"
+    },
+    {
+      "id": 399,
+      "name": "Oyster"
+    },
+    {
+      "id": 400,
+      "name": "Pale Wizard"
+    },
+    {
+      "id": 401,
+      "name": "Paper Bag Records"
+    },
+    {
+      "id": 402,
+      "name": "Par Records"
+    },
+    {
+      "id": 403,
+      "name": "Parachute Recording Company"
+    },
+    {
+      "id": 404,
+      "name": "Parlophone"
+    },
+    {
+      "id": 405,
+      "name": "Parlophone (2)"
+    },
+    {
+      "id": 406,
+      "name": "Parlophone / EMI Records Ltd."
+    },
+    {
+      "id": 407,
+      "name": "Parlophone Records Ltd"
+    },
+    {
+      "id": 408,
+      "name": "Passport Records"
+    },
+    {
+      "id": 409,
+      "name": "Peaceville"
+    },
+    {
+      "id": 410,
+      "name": "Peasants Revolt"
+    },
+    {
+      "id": 411,
+      "name": "Peculio Discos"
+    },
+    {
+      "id": 412,
+      "name": "Phantom Import Distribution"
+    },
+    {
+      "id": 413,
+      "name": "Phoenix Record And Filmworks"
+    },
+    {
+      "id": 414,
+      "name": "Phonogram"
+    },
+    {
+      "id": 415,
+      "name": "Pitch Black Records"
+    },
+    {
+      "id": 416,
+      "name": "Playtime Records"
+    },
+    {
+      "id": 417,
+      "name": "Polydor"
+    },
+    {
+      "id": 418,
+      "name": "Polydor/Fiction"
+    },
+    {
+      "id": 419,
+      "name": "PolyGram"
+    },
+    {
+      "id": 420,
+      "name": "PolyGram Records"
+    },
+    {
+      "id": 421,
+      "name": "PolyGram TV"
+    },
+    {
+      "id": 422,
+      "name": "Polygram TV / Polygram Record Operations Ltd."
+    },
+    {
+      "id": 423,
+      "name": "Polygram/Island"
+    },
+    {
+      "id": 424,
+      "name": "Polystar"
+    },
+    {
+      "id": 425,
+      "name": "Portrait"
+    },
+    {
+      "id": 426,
+      "name": "Postmortem Apocalypse"
+    },
+    {
+      "id": 427,
+      "name": "Powerstation Records"
+    },
+    {
+      "id": 428,
+      "name": "Probe Plus"
+    },
+    {
+      "id": 429,
+      "name": "Prosthetic Records"
+    },
+    {
+      "id": 430,
+      "name": "Punishment 18 Records"
+    },
+    {
+      "id": 431,
+      "name": "Pure Metal"
+    },
+    {
+      "id": 432,
+      "name": "Q Magazine"
+    },
+    {
+      "id": 433,
+      "name": "Quality"
+    },
+    {
+      "id": 434,
+      "name": "Queen Productions Ltd."
+    },
+    {
+      "id": 435,
+      "name": "R.I.P. Records"
+    },
+    {
+      "id": 436,
+      "name": "R.K.T. Records"
+    },
+    {
+      "id": 437,
+      "name": "R/C Records (2)"
+    },
+    {
+      "id": 438,
+      "name": "Radiation Reissues"
+    },
+    {
+      "id": 439,
+      "name": "Radioactive"
+    },
+    {
+      "id": 440,
+      "name": "Radioactive Records J.V."
+    },
+    {
+      "id": 441,
+      "name": "Rafchild Records"
+    },
+    {
+      "id": 442,
+      "name": "Rat Pak Records"
+    },
+    {
+      "id": 443,
+      "name": "Raw"
+    },
+    {
+      "id": 444,
+      "name": "Raw Power"
+    },
+    {
+      "id": 445,
+      "name": "Razor Records"
+    },
+    {
+      "id": 446,
+      "name": "RCA"
+    },
+    {
+      "id": 447,
+      "name": "RCA / BMG"
+    },
+    {
+      "id": 448,
+      "name": "RCA Camden"
+    },
+    {
+      "id": 449,
+      "name": "RCA Records"
+    },
+    {
+      "id": 450,
+      "name": "RCA Victor"
+    },
+    {
+      "id": 451,
+      "name": "RCA Victor Europe"
+    },
+    {
+      "id": 452,
+      "name": "Reaper metal productions"
+    },
+    {
+      "id": 453,
+      "name": "Receiver Records Limited"
+    },
+    {
+      "id": 454,
+      "name": "Reception"
+    },
+    {
+      "id": 455,
+      "name": "Record Breaking Records"
+    },
+    {
+      "id": 456,
+      "name": "Red Robin Records"
+    },
+    {
+      "id": 457,
+      "name": "Regain Records"
+    },
+    {
+      "id": 458,
+      "name": "Regency Records"
+    },
+    {
+      "id": 459,
+      "name": "Relapse Records"
+    },
+    {
+      "id": 460,
+      "name": "Renaissance Records"
+    },
+    {
+      "id": 461,
+      "name": "Reprise Records"
+    },
+    {
+      "id": 462,
+      "name": "Retrospect Records"
+    },
+    {
+      "id": 463,
+      "name": "Rhino"
+    },
+    {
+      "id": 464,
+      "name": "Rhino / Wea"
+    },
+    {
+      "id": 465,
+      "name": "Rhino Records"
+    },
+    {
+      "id": 466,
+      "name": "Rhino Records (2)"
+    },
+    {
+      "id": 467,
+      "name": "Rhythmethod"
+    },
+    {
+      "id": 468,
+      "name": "RidingEasy Records"
+    },
+    {
+      "id": 469,
+      "name": "Riff Rock Records"
+    },
+    {
+      "id": 470,
+      "name": "Ripple Music"
+    },
+    {
+      "id": 471,
+      "name": "Rise Above Records"
+    },
+    {
+      "id": 472,
+      "name": "Roadracer Records"
+    },
+    {
+      "id": 473,
+      "name": "Roadrunner"
+    },
+    {
+      "id": 474,
+      "name": "Roadrunner Records"
+    },
+    {
+      "id": 475,
+      "name": "Rock Of Angels Records"
+    },
+    {
+      "id": 476,
+      "name": "Rocket Recordings"
+    },
+    {
+      "id": 477,
+      "name": "Rockwerk Records"
+    },
+    {
+      "id": 478,
+      "name": "Rondelet Music \u0026 Records"
+    },
+    {
+      "id": 479,
+      "name": "Rotator"
+    },
+    {
+      "id": 480,
+      "name": "Rough Trade"
+    },
+    {
+      "id": 481,
+      "name": "Rox Vox"
+    },
+    {
+      "id": 482,
+      "name": "Roxx Records"
+    },
+    {
+      "id": 483,
+      "name": "Sanctuary"
+    },
+    {
+      "id": 484,
+      "name": "Sanctuary Management Productions"
+    },
+    {
+      "id": 485,
+      "name": "Sanctuary Midline"
+    },
+    {
+      "id": 486,
+      "name": "Sanctuary Records"
+    },
+    {
+      "id": 487,
+      "name": "Sanctuary Records Group"
+    },
+    {
+      "id": 488,
+      "name": "Sangreal Records"
+    },
+    {
+      "id": 489,
+      "name": "Sargent House"
+    },
+    {
+      "id": 490,
+      "name": "Scarlet"
+    },
+    {
+      "id": 491,
+      "name": "Scopitones"
+    },
+    {
+      "id": 492,
+      "name": "Scream Records"
+    },
+    {
+      "id": 493,
+      "name": "Secret"
+    },
+    {
+      "id": 494,
+      "name": "Secret Records"
+    },
+    {
+      "id": 495,
+      "name": "Secret Records Limited"
+    },
+    {
+      "id": 496,
+      "name": "Select Magazine"
+    },
+    {
+      "id": 497,
+      "name": "Self Destructo Records"
+    },
+    {
+      "id": 498,
+      "name": "Shades Records"
+    },
+    {
+      "id": 499,
+      "name": "Shadow Kingdom"
+    },
+    {
+      "id": 500,
+      "name": "Shadow Kingdom Records"
+    },
+    {
+      "id": 501,
+      "name": "Shelfish Records"
+    },
+    {
+      "id": 502,
+      "name": "Silver Lining Music"
+    },
+    {
+      "id": 503,
+      "name": "Silver Lining Music Ltd."
+    },
+    {
+      "id": 504,
+      "name": "Silvertone"
+    },
+    {
+      "id": 505,
+      "name": "Silvertone Records"
+    },
+    {
+      "id": 506,
+      "name": "Sire"
+    },
+    {
+      "id": 507,
+      "name": "Sire Records Compagny"
+    },
+    {
+      "id": 508,
+      "name": "Sire Records Company / Warner Bros. Records Inc. / A Time Warner Company / Warner Music Manufacturing Europe"
+    },
+    {
+      "id": 509,
+      "name": "Sire/Warner Bros."
+    },
+    {
+      "id": 510,
+      "name": "Skint"
+    },
+    {
+      "id": 511,
+      "name": "Skol Records"
+    },
+    {
+      "id": 512,
+      "name": "Sleaszy Rider Srl."
+    },
+    {
+      "id": 513,
+      "name": "Slow Death"
+    },
+    {
+      "id": 514,
+      "name": "Smokin\u0027 (2)"
+    },
+    {
+      "id": 515,
+      "name": "Snap Records"
+    },
+    {
+      "id": 516,
+      "name": "Snapper Music"
+    },
+    {
+      "id": 517,
+      "name": "Solid Gold Records"
+    },
+    {
+      "id": 518,
+      "name": "Sonet"
+    },
+    {
+      "id": 519,
+      "name": "Sonic Age Records"
+    },
+    {
+      "id": 520,
+      "name": "Sonic Records (3)"
+    },
+    {
+      "id": 521,
+      "name": "Sonic Unyon"
+    },
+    {
+      "id": 522,
+      "name": "Sony"
+    },
+    {
+      "id": 523,
+      "name": "Sony BMG Music Entertainment"
+    },
+    {
+      "id": 524,
+      "name": "Sony Music"
+    },
+    {
+      "id": 525,
+      "name": "Sony Music Entertainment"
+    },
+    {
+      "id": 526,
+      "name": "Sony Music Entertainment Inc."
+    },
+    {
+      "id": 527,
+      "name": "Sony Music Entertainment/Columbia Records"
+    },
+    {
+      "id": 528,
+      "name": "Sony Music UK"
+    },
+    {
+      "id": 529,
+      "name": "Sony/BMG"
+    },
+    {
+      "id": 530,
+      "name": "Sony/Epic"
+    },
+    {
+      "id": 531,
+      "name": "SOS Recording"
+    },
+    {
+      "id": 532,
+      "name": "Sound King Records"
+    },
+    {
+      "id": 533,
+      "name": "Sounds (9)"
+    },
+    {
+      "id": 534,
+      "name": "Sounds (Magazine)"
+    },
+    {
+      "id": 535,
+      "name": "Soundstage"
+    },
+    {
+      "id": 536,
+      "name": "Source"
+    },
+    {
+      "id": 537,
+      "name": "Southern Lord"
+    },
+    {
+      "id": 538,
+      "name": "Spectrum Music (2)"
+    },
+    {
+      "id": 539,
+      "name": "Spew Noise Records"
+    },
+    {
+      "id": 540,
+      "name": "Spinefarm"
+    },
+    {
+      "id": 541,
+      "name": "Spinefarm Records"
+    },
+    {
+      "id": 542,
+      "name": "Spinefarm Records U.K."
+    },
+    {
+      "id": 543,
+      "name": "Spitfire"
+    },
+    {
+      "id": 544,
+      "name": "Spitfire Records"
+    },
+    {
+      "id": 545,
+      "name": "SPV"
+    },
+    {
+      "id": 546,
+      "name": "SPV Gmbh (Steamhammer)"
+    },
+    {
+      "id": 547,
+      "name": "SST Records"
+    },
+    {
+      "id": 548,
+      "name": "Stardog Records"
+    },
+    {
+      "id": 549,
+      "name": "Stargun Music"
+    },
+    {
+      "id": 550,
+      "name": "Steamhammer"
+    },
+    {
+      "id": 551,
+      "name": "Steamhammer (2)"
+    },
+    {
+      "id": 552,
+      "name": "Steamhammer/SPV"
+    },
+    {
+      "id": 553,
+      "name": "Stickman Records"
+    },
+    {
+      "id": 554,
+      "name": "Stiff Records"
+    },
+    {
+      "id": 555,
+      "name": "Stone Stallion Rex"
+    },
+    {
+      "id": 556,
+      "name": "Stormspell Records"
+    },
+    {
+      "id": 557,
+      "name": "Strange Fruit"
+    },
+    {
+      "id": 558,
+      "name": "Studio Hundert"
+    },
+    {
+      "id": 559,
+      "name": "Sudden Death Records"
+    },
+    {
+      "id": 560,
+      "name": "Suicidal Records"
+    },
+    {
+      "id": 561,
+      "name": "SuperEgo Records"
+    },
+    {
+      "id": 562,
+      "name": "Superior Quality Recordings"
+    },
+    {
+      "id": 563,
+      "name": "Suzy"
+    },
+    {
+      "id": 564,
+      "name": "Svart Records"
+    },
+    {
+      "id": 565,
+      "name": "Swarffinger Records"
+    },
+    {
+      "id": 566,
+      "name": "Swords and Chains Records"
+    },
+    {
+      "id": 567,
+      "name": "Talkies"
+    },
+    {
+      "id": 568,
+      "name": "TCR"
+    },
+    {
+      "id": 569,
+      "name": "Tee Pee Records"
+    },
+    {
+      "id": 570,
+      "name": "Tell Tales"
+    },
+    {
+      "id": 571,
+      "name": "The End Records"
+    },
+    {
+      "id": 572,
+      "name": "The Lab"
+    },
+    {
+      "id": 573,
+      "name": "The Sign Records"
+    },
+    {
+      "id": 574,
+      "name": "The Store For Music Ltd."
+    },
+    {
+      "id": 575,
+      "name": "The Vinyl Countdown"
+    },
+    {
+      "id": 576,
+      "name": "Third Man Records"
+    },
+    {
+      "id": 577,
+      "name": "Thrashing Rage Productions"
+    },
+    {
+      "id": 578,
+      "name": "Threeman Recordings"
+    },
+    {
+      "id": 579,
+      "name": "Thunderbolt"
+    },
+    {
+      "id": 580,
+      "name": "Time Warp Records"
+    },
+    {
+      "id": 581,
+      "name": "Titans Eve Music"
+    },
+    {
+      "id": 582,
+      "name": "Tombs In The Valley Productions"
+    },
+    {
+      "id": 583,
+      "name": "Tombstone Records"
+    },
+    {
+      "id": 584,
+      "name": "Tonic Records"
+    },
+    {
+      "id": 585,
+      "name": "Torrid Records"
+    },
+    {
+      "id": 586,
+      "name": "Total Metal Records"
+    },
+    {
+      "id": 587,
+      "name": "Transcending Records"
+    },
+    {
+      "id": 588,
+      "name": "Trash"
+    },
+    {
+      "id": 589,
+      "name": "Trend (5)"
+    },
+    {
+      "id": 590,
+      "name": "Trouble, Inc."
+    },
+    {
+      "id": 591,
+      "name": "Twin/Tone Records"
+    },
+    {
+      "id": 592,
+      "name": "UDR"
+    },
+    {
+      "id": 593,
+      "name": "Ulterium Records"
+    },
+    {
+      "id": 594,
+      "name": "UMe"
+    },
+    {
+      "id": 595,
+      "name": "UMG/SubPop/Geffen"
+    },
+    {
+      "id": 596,
+      "name": "Under One Flag"
+    },
+    {
+      "id": 597,
+      "name": "Under The Dark Soil"
+    },
+    {
+      "id": 598,
+      "name": "Underground Music Coalition Recordings"
+    },
+    {
+      "id": 599,
+      "name": "Underground Operations"
+    },
+    {
+      "id": 600,
+      "name": "Underground Power Records"
+    },
+    {
+      "id": 601,
+      "name": "United Artists Records"
+    },
+    {
+      "id": 602,
+      "name": "Universal"
+    },
+    {
+      "id": 603,
+      "name": "Universal MCA Music"
+    },
+    {
+      "id": 604,
+      "name": "Universal Music"
+    },
+    {
+      "id": 605,
+      "name": "Universal Music Enterprises"
+    },
+    {
+      "id": 606,
+      "name": "Universal Music TV"
+    },
+    {
+      "id": 607,
+      "name": "V2"
+    },
+    {
+      "id": 608,
+      "name": "Verne Records"
+    },
+    {
+      "id": 609,
+      "name": "Vertigo"
+    },
+    {
+      "id": 610,
+      "name": "Vibrant Records"
+    },
+    {
+      "id": 611,
+      "name": "Vice Records"
+    },
+    {
+      "id": 612,
+      "name": "Vinyl 180"
+    },
+    {
+      "id": 613,
+      "name": "Vinyl Drip Records"
+    },
+    {
+      "id": 614,
+      "name": "Vinyl Vault"
+    },
+    {
+      "id": 615,
+      "name": "Viper Records"
+    },
+    {
+      "id": 616,
+      "name": "Virgin"
+    },
+    {
+      "id": 617,
+      "name": "Virgin / Circa / EMI"
+    },
+    {
+      "id": 618,
+      "name": "Virgin / Food"
+    },
+    {
+      "id": 619,
+      "name": "Virgin America"
+    },
+    {
+      "id": 620,
+      "name": "Virgin EMI Records"
+    },
+    {
+      "id": 621,
+      "name": "Volcano Entertainment Records"
+    },
+    {
+      "id": 622,
+      "name": "Volume"
+    },
+    {
+      "id": 623,
+      "name": "Vox Magazine"
+    },
+    {
+      "id": 624,
+      "name": "Warner Bros. Records"
+    },
+    {
+      "id": 625,
+      "name": "Warner Bros. Records, Inc. (Rhino Entertainment Company)"
+    },
+    {
+      "id": 626,
+      "name": "Warner Music"
+    },
+    {
+      "id": 627,
+      "name": "Warner Music Group"
+    },
+    {
+      "id": 628,
+      "name": "Warner Music UK Ltd."
+    },
+    {
+      "id": 629,
+      "name": "Warner/Reprise"
+    },
+    {
+      "id": 630,
+      "name": "Wasted State Records"
+    },
+    {
+      "id": 631,
+      "name": "Wasted Theory"
+    },
+    {
+      "id": 632,
+      "name": "Wax Maniax"
+    },
+    {
+      "id": 633,
+      "name": "WEA"
+    },
+    {
+      "id": 634,
+      "name": "Wea International"
+    },
+    {
+      "id": 635,
+      "name": "When Planets Collide"
+    },
+    {
+      "id": 636,
+      "name": "Witches Brew"
+    },
+    {
+      "id": 637,
+      "name": "Wolves Of Winter (Self-released)"
+    },
+    {
+      "id": 638,
+      "name": "Work"
+    },
+    {
+      "id": 639,
+      "name": "World Service"
+    },
+    {
+      "id": 640,
+      "name": "WormHoleDeath"
+    },
+    {
+      "id": 641,
+      "name": "Xl"
+    },
+    {
+      "id": 642,
+      "name": "XL Recordings Ltd."
+    },
+    {
+      "id": 643,
+      "name": "Zebra Records (6)"
+    },
+    {
+      "id": 644,
+      "name": "Zial Records"
+    },
+    {
+      "id": 645,
+      "name": "Zoom Club Records"
+    },
+    {
+      "id": 646,
+      "name": "\u041C\u0435\u043B\u043E\u0434\u0438\u044F"
+    }
+  ]
+}
