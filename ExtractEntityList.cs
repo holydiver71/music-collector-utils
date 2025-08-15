@@ -2,13 +2,13 @@ using System;
 using System.IO;
 using MusicCollectorConsole.Utils;
 
-class ExtractEntity
+class ExtractEntityList
 {
     static void Main(string[] args)
     {
         if (args.Length < 1)
         {
-            Console.WriteLine("Usage: ExtractEntity <entity>");
+            Console.WriteLine("Usage: ExtractEntityList <entity>");
             return;
         }
 
