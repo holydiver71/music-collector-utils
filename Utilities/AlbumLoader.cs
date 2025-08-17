@@ -8,6 +8,33 @@ using Models;
 
 namespace Utilities
 {
+    // Service for packaging lookup
+    public class PackagingLookupService
+    {
+        private readonly Dictionary<string, int> _packagingLookup;
+        public PackagingLookupService(string jsonPath)
+        {
+            _packagingLookup = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+            if (File.Exists(jsonPath))
+            {
+                var json = File.ReadAllText(jsonPath);
+                var packagingObj = System.Text.Json.JsonDocument.Parse(json);
+                foreach (var packaging in packagingObj.RootElement.GetProperty("packagings").EnumerateArray())
+                {
+                    var name = packaging.GetProperty("name").GetString();
+                    var id = packaging.GetProperty("id").GetInt32();
+                    if (!string.IsNullOrEmpty(name))
+                        _packagingLookup[name] = id;
+                }
+            }
+        }
+        public int GetPackagingId(string? displayName)
+        {
+            if (!string.IsNullOrEmpty(displayName) && _packagingLookup.TryGetValue(displayName, out int foundId))
+                return foundId;
+            return 0;
+        }
+    }
 
     // Service for label lookup
     // Service for artist lookup
@@ -155,19 +182,21 @@ namespace Utilities
         private readonly GenreLookupService _genreService;
         private readonly LabelLookupService _labelService;
         private readonly ArtistLookupService _artistService;
+        private readonly PackagingLookupService _packagingService;
 
-        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService, ArtistLookupService artistService)
+        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService, ArtistLookupService artistService, PackagingLookupService packagingService)
         {
             _countryService = countryService;
             _formatService = formatService;
             _genreService = genreService;
             _labelService = labelService;
             _artistService = artistService;
+            _packagingService = packagingService;
         }
 
         public MusicAlbum ParseAlbum(XElement music, int albumId)
         {
-            // Artists
+           // Artists
             List<int> artistIds = new List<int>();
             var artistsElem = music.Element("artists");
             if (artistsElem != null)
@@ -180,6 +209,23 @@ namespace Utilities
                         artistIds.Add(artistId);
                 }
             }
+
+            // OrigReleaseYear
+            DateOnly origReleaseYear = default;
+            var origReleaseElem = music.Element("origreleasedate")?.Element("year")?.Element("displayname");
+            if (origReleaseElem != null && DateOnly.TryParseExact(origReleaseElem.Value, "yyyy", out var yearVal))
+            {
+                origReleaseYear = yearVal;
+            }
+
+            // ReleaseYear
+            DateOnly releaseYear = default;
+            var releaseElem = music.Element("releasedate")?.Element("year")?.Element("displayname");
+            if (releaseElem != null && DateOnly.TryParseExact(releaseElem.Value, "yyyy", out var relYearVal))
+            {
+                releaseYear = relYearVal;
+            }
+
             // Country
             int countryId = 0;
             var countryElem = music.Element("country");
@@ -207,7 +253,25 @@ namespace Utilities
                 labelId = _labelService.GetLabelId(labelDisplay);
             }
 
-            // Genres
+            // Live
+            bool isLive = false;
+            var liveElem = music.Element("live");
+            if (liveElem != null)
+            {
+                var boolAttr = liveElem.Attribute("boolvalue")?.Value;
+                isLive = boolAttr == "1";
+            }
+
+            // Packaging
+            int packagingId = 0;
+            var packagingElem = music.Element("packaging");
+            if (packagingElem != null)
+            {
+                var packagingDisplay = (string?)packagingElem.Element("displayname") ?? string.Empty;
+                packagingId = _packagingService.GetPackagingId(packagingDisplay);
+            }
+            
+             // Genres
             List<int> genreIds = new List<int>();
             var genresElem = music.Element("genres");
             if (genresElem != null)
@@ -248,9 +312,13 @@ namespace Utilities
                 LabelNumber = (string?)music.Element("labelnumber") ?? string.Empty,
                 LengthInSeconds = (string?)music.Element("lengthsecs") ?? string.Empty,
                 Links = links.Count > 0 ? links : null,
+                Live = isLive,
+                OrigReleaseYear = origReleaseYear,
+                ReleaseYear = releaseYear,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
+                PackagingId = packagingId,
                 // Parse other fields as needed...
             };
 
@@ -322,7 +390,8 @@ namespace Utilities
             var genreService = new GenreLookupService(Path.Combine("data", "genres.json"));
             var labelService = new LabelLookupService(Path.Combine("data", "labels.json"));
             var artistService = new ArtistLookupService(Path.Combine("data", "artists.json"));
-            var parser = new AlbumParser(countryService, formatService, genreService, labelService, artistService);
+            var packagingService = new PackagingLookupService(Path.Combine("data", "packagings.json"));
+            var parser = new AlbumParser(countryService, formatService, genreService, labelService, artistService, packagingService);
             var musicNodes = doc.Descendants("music");
             int albumId = 1;
             foreach (var music in musicNodes)
