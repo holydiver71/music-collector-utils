@@ -15,6 +15,7 @@ This is a .NET 8.0 console application for music collection utilities.
 - Write clean, readable code with meaningful names
 - Follow solid Principals
 - do not commit any build generated files to version control
+- adhere to Single Responsibility Principle
 
 ## Project Structure
 
