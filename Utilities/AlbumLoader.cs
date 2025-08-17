@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +8,35 @@ using Models;
 
 namespace Utilities
 {
-   // Service for label lookup
+
+    // Service for label lookup
+    // Service for artist lookup
+    public class ArtistLookupService
+    {
+        private readonly Dictionary<string, int> _artistLookup;
+        public ArtistLookupService(string jsonPath)
+        {
+            _artistLookup = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+            if (File.Exists(jsonPath))
+            {
+                var json = File.ReadAllText(jsonPath);
+                var artistObj = System.Text.Json.JsonDocument.Parse(json);
+                int id = 1;
+                foreach (var artist in artistObj.RootElement.GetProperty("artists").EnumerateArray())
+                {
+                    var name = artist.GetProperty("name").GetString();
+                    if (!string.IsNullOrEmpty(name) && !_artistLookup.ContainsKey(name))
+                        _artistLookup[name] = id++;
+                }
+            }
+        }
+        public int GetArtistId(string? displayName)
+        {
+            if (!string.IsNullOrEmpty(displayName) && _artistLookup.TryGetValue(displayName, out int foundId))
+                return foundId;
+            return 0;
+        }
+    }
     public class LabelLookupService
     {
         private readonly Dictionary<string, int> _labelLookup;
@@ -125,17 +154,32 @@ namespace Utilities
         private readonly FormatLookupService _formatService;
         private readonly GenreLookupService _genreService;
         private readonly LabelLookupService _labelService;
+        private readonly ArtistLookupService _artistService;
 
-        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService)
+        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService, ArtistLookupService artistService)
         {
             _countryService = countryService;
             _formatService = formatService;
             _genreService = genreService;
             _labelService = labelService;
+            _artistService = artistService;
         }
 
         public MusicAlbum ParseAlbum(XElement music, int albumId)
         {
+            // Artists
+            List<int> artistIds = new List<int>();
+            var artistsElem = music.Element("artists");
+            if (artistsElem != null)
+            {
+                foreach (var artistElem in artistsElem.Elements("artist"))
+                {
+                    var displayName = (string?)artistElem.Element("displayname") ?? string.Empty;
+                    int artistId = _artistService.GetArtistId(displayName);
+                    if (artistId != 0)
+                        artistIds.Add(artistId);
+                }
+            }
             // Country
             int countryId = 0;
             var countryElem = music.Element("country");
@@ -185,6 +229,7 @@ namespace Utilities
                 FormatId = formatId,
                 LabelId = labelId,
                 Genres = genreIds.Count > 0 ? genreIds : null,
+                Artists = artistIds.Count > 0 ? artistIds : null,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
@@ -258,7 +303,8 @@ namespace Utilities
             var formatService = new FormatLookupService(Path.Combine("data", "formats.json"));
             var genreService = new GenreLookupService(Path.Combine("data", "genres.json"));
             var labelService = new LabelLookupService(Path.Combine("data", "labels.json"));
-            var parser = new AlbumParser(countryService, formatService, genreService, labelService);
+            var artistService = new ArtistLookupService(Path.Combine("data", "artists.json"));
+            var parser = new AlbumParser(countryService, formatService, genreService, labelService, artistService);
             var musicNodes = doc.Descendants("music");
             int albumId = 1;
             foreach (var music in musicNodes)
