@@ -231,6 +231,7 @@ namespace Utilities
                 Genres = genreIds.Count > 0 ? genreIds : null,
                 Artists = artistIds.Count > 0 ? artistIds : null,
                 LabelNumber = (string?)music.Element("labelnumber") ?? string.Empty,
+                LengthInSeconds = (string?)music.Element("lengthsecs") ?? string.Empty,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
