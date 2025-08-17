@@ -221,6 +221,21 @@ namespace Utilities
                 }
             }
 
+            // Links
+            List<LinkData> links = new List<LinkData>();
+            var linksElem = music.Element("links");
+            if (linksElem != null)
+            {
+                foreach (var linkElem in linksElem.Elements("link"))
+                {
+                    var url = (string?)linkElem.Element("url") ?? string.Empty;
+                    var description = (string?)linkElem.Element("description") ?? string.Empty;
+                    var urltype = (string?)linkElem.Element("urltype") ?? string.Empty;
+                    if (!string.IsNullOrEmpty(url) || !string.IsNullOrEmpty(description))
+                        links.Add(new LinkData { Url = url, Description = description, UrlType = urltype });
+                }
+            }
+        
             var album = new MusicAlbum
             {
                 Id = albumId,
@@ -232,6 +247,7 @@ namespace Utilities
                 Artists = artistIds.Count > 0 ? artistIds : null,
                 LabelNumber = (string?)music.Element("labelnumber") ?? string.Empty,
                 LengthInSeconds = (string?)music.Element("lengthsecs") ?? string.Empty,
+                Links = links.Count > 0 ? links : null,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
