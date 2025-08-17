@@ -1,5 +1,3 @@
-
-
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,10 +5,36 @@ using System.Linq;
 using System.Xml.Linq;
 using Models;
 
-
-
 namespace Utilities
 {
+   // Service for label lookup
+    public class LabelLookupService
+    {
+        private readonly Dictionary<string, int> _labelLookup;
+        public LabelLookupService(string jsonPath)
+        {
+            _labelLookup = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+            if (File.Exists(jsonPath))
+            {
+                var json = File.ReadAllText(jsonPath);
+                var labelObj = System.Text.Json.JsonDocument.Parse(json);
+                int id = 1;
+                foreach (var label in labelObj.RootElement.GetProperty("labels").EnumerateArray())
+                {
+                    var name = label.GetProperty("name").GetString();
+                    if (!string.IsNullOrEmpty(name) && !_labelLookup.ContainsKey(name))
+                        _labelLookup[name] = id++;
+                }
+            }
+        }
+        public int GetLabelId(string? displayName)
+        {
+            if (!string.IsNullOrEmpty(displayName) && _labelLookup.TryGetValue(displayName, out int foundId))
+                return foundId;
+            return 0;
+        }
+    }
+
     // Service for genre lookup
     public class GenreLookupService
     {
@@ -100,11 +124,14 @@ namespace Utilities
         private readonly CountryLookupService _countryService;
         private readonly FormatLookupService _formatService;
         private readonly GenreLookupService _genreService;
-        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService)
+        private readonly LabelLookupService _labelService;
+
+        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService)
         {
             _countryService = countryService;
             _formatService = formatService;
             _genreService = genreService;
+            _labelService = labelService;
         }
 
         public MusicAlbum ParseAlbum(XElement music, int albumId)
@@ -127,6 +154,15 @@ namespace Utilities
                 formatId = _formatService.GetFormatId(formatDisplay);
             }
 
+            // Label
+            int labelId = 0;
+            var labelElem = music.Element("label");
+            if (labelElem != null)
+            {
+                var labelDisplay = (string?)labelElem.Element("displayname") ?? string.Empty;
+                labelId = _labelService.GetLabelId(labelDisplay);
+            }
+
             // Genres
             List<int> genreIds = new List<int>();
             var genresElem = music.Element("genres");
@@ -147,6 +183,7 @@ namespace Utilities
                 Title = (string?)music.Element("title") ?? string.Empty,
                 CountryId = countryId,
                 FormatId = formatId,
+                LabelId = labelId,
                 Genres = genreIds.Count > 0 ? genreIds : null,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
@@ -220,7 +257,8 @@ namespace Utilities
             var countryService = new CountryLookupService(Path.Combine("data", "countrys.json"));
             var formatService = new FormatLookupService(Path.Combine("data", "formats.json"));
             var genreService = new GenreLookupService(Path.Combine("data", "genres.json"));
-            var parser = new AlbumParser(countryService, formatService, genreService);
+            var labelService = new LabelLookupService(Path.Combine("data", "labels.json"));
+            var parser = new AlbumParser(countryService, formatService, genreService, labelService);
             var musicNodes = doc.Descendants("music");
             int albumId = 1;
             foreach (var music in musicNodes)
