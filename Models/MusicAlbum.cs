@@ -1,5 +1,12 @@
 using System.Collections.Generic;
 
+    public class AlbumImages
+    {
+        public string? CoverFront { get; set; }
+        public string? CoverBack { get; set; }
+        public string? Thumbnail { get; set; }
+    }
+
 namespace Models
 {
     public class MusicAlbum
@@ -20,9 +27,7 @@ namespace Models
         public PurchaseData? PurchaseInfo { get; set; }
         public int PackagingId { get; set; }
 
-        public string? CoverFront { get; set; }
-        public string? CoverBack { get; set; }
-        public string? Thumbnail { get; set; }
+        public AlbumImages? Images { get; set; }
         public List<LinkData>? Links { get; set; }
         public DateTime DateAdded { get; set; }
         public DateTime LastModified { get; set; }
