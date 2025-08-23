@@ -27,7 +27,7 @@ namespace Utilities
             _storeService = storeService;
         }
 
-        public MusicAlbum ParseAlbum(XElement music, int albumId)
+        public MusicRelease ParseAlbum(XElement music, int albumId)
         {
             // PurchaseInfo
             PurchaseData? purchaseInfo = null;
@@ -164,7 +164,7 @@ namespace Utilities
                 }
             }
         
-            var album = new MusicAlbum
+            var album = new MusicRelease
             {
                 Id = albumId,
                 Title = (string?)music.Element("title") ?? string.Empty,
@@ -179,7 +179,7 @@ namespace Utilities
                 Live = isLive,
                 OrigReleaseYear = origReleaseYear,
                 ReleaseYear = releaseYear,
-                Images = new AlbumImages {
+                Images = new MediaImages {
                     CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
                     CoverBack = GetFileNameFromPath((string?)music.Element("coverback")),
                     Thumbnail = GetFileNameFromPath((string?)music.Element("thumbfilepath"))

@@ -15,9 +15,9 @@ using Utilities;
     // AlbumLoader as coordinator
     public class AlbumLoader
     {
-        public static List<MusicAlbum> LoadAlbums(string xmlFilePath)
+        public static List<MusicRelease> LoadAlbums(string xmlFilePath)
         {
-            var albums = new List<MusicAlbum>();
+            var albums = new List<MusicRelease>();
             var doc = XDocument.Load(xmlFilePath);
             var countryService = new CountryLookupService(Path.Combine("data", "countrys.json"));
             var formatService = new FormatLookupService(Path.Combine("data", "formats.json"));
