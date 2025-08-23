@@ -376,6 +376,7 @@ namespace Utilities
                 OrigReleaseYear = origReleaseYear,
                 ReleaseYear = releaseYear,
                 CoverFront = GetFileNameFromPath((string?)music.Element("coverfront")),
+                Thumbnail = GetFileNameFromPath((string?)music.Element("thumbfilepath")),
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
                 PackagingId = packagingId,
@@ -487,7 +488,7 @@ namespace Utilities
                 {
                     foreach (var media in album.Media)
                     {
-                        Console.WriteLine($"  Media: {media.Title})");
+                        Console.WriteLine($"  Media: {media.Title}");
                         if (media.Tracks != null)
                         {
                             foreach (var track in media.Tracks)
