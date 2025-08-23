@@ -8,6 +8,33 @@ using Models;
 
 namespace Utilities
 {
+    // Service for store lookup
+    public class StoreLookupService
+    {
+        private readonly Dictionary<string, int> _storeLookup;
+        public StoreLookupService(string jsonPath)
+        {
+            _storeLookup = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
+            if (File.Exists(jsonPath))
+            {
+                var json = File.ReadAllText(jsonPath);
+                var storeObj = System.Text.Json.JsonDocument.Parse(json);
+                foreach (var store in storeObj.RootElement.GetProperty("stores").EnumerateArray())
+                {
+                    var name = store.GetProperty("name").GetString();
+                    var id = store.GetProperty("id").GetInt32();
+                    if (!string.IsNullOrEmpty(name))
+                        _storeLookup[name] = id;
+                }
+            }
+        }
+        public int GetStoreId(string? displayName)
+        {
+            if (!string.IsNullOrEmpty(displayName) && _storeLookup.TryGetValue(displayName, out int foundId))
+                return foundId;
+            return 0;
+        }
+    }
     // Service for packaging lookup
     public class PackagingLookupService
     {
@@ -183,8 +210,9 @@ namespace Utilities
         private readonly LabelLookupService _labelService;
         private readonly ArtistLookupService _artistService;
         private readonly PackagingLookupService _packagingService;
+        private readonly StoreLookupService _storeService;
 
-        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService, ArtistLookupService artistService, PackagingLookupService packagingService)
+        public AlbumParser(CountryLookupService countryService, FormatLookupService formatService, GenreLookupService genreService, LabelLookupService labelService, ArtistLookupService artistService, PackagingLookupService packagingService, StoreLookupService storeService)
         {
             _countryService = countryService;
             _formatService = formatService;
@@ -192,10 +220,37 @@ namespace Utilities
             _labelService = labelService;
             _artistService = artistService;
             _packagingService = packagingService;
+            _storeService = storeService;
         }
 
         public MusicAlbum ParseAlbum(XElement music, int albumId)
         {
+            // PurchaseInfo
+            PurchaseData? purchaseInfo = null;
+            var storeElem = music.Element("store");
+            var storeDisplay = (string?)storeElem?.Element("displayname") ?? string.Empty;
+            int storeId = _storeService.GetStoreId(storeDisplay);
+            var purchaseDateStr = (string?)music.Element("purchasedate")?.Element("date") ?? string.Empty;
+            DateOnly purchaseDate = default;
+            if (!string.IsNullOrWhiteSpace(purchaseDateStr))
+                DateOnly.TryParseExact(purchaseDateStr, "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out purchaseDate);
+            var priceStr = (string?)music.Element("purchaseprice") ?? string.Empty;
+            decimal price = 0;
+            if (!string.IsNullOrWhiteSpace(priceStr))
+            {
+                // Remove any non-numeric, non-dot, non-comma characters (e.g., currency symbols)
+                var cleaned = new string(priceStr.Where(c => char.IsDigit(c) || c == '.' || c == ',').ToArray());
+                decimal.TryParse(cleaned, System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out price);
+            }
+            if (storeId != 0 || purchaseDate != default || price != 0)
+            {
+                purchaseInfo = new PurchaseData
+                {
+                    StoreID = storeId,
+                    Date = purchaseDate,
+                    Price = price
+                };
+            }
            // Artists
             List<int> artistIds = new List<int>();
             var artistsElem = music.Element("artists");
@@ -319,6 +374,7 @@ namespace Utilities
                 DateAdded = ParseDate(music.Element("dateadded")?.Element("date")?.Value),
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
                 PackagingId = packagingId,
+                PurchaseInfo = purchaseInfo,
                 // Parse other fields as needed...
             };
 
@@ -391,7 +447,8 @@ namespace Utilities
             var labelService = new LabelLookupService(Path.Combine("data", "labels.json"));
             var artistService = new ArtistLookupService(Path.Combine("data", "artists.json"));
             var packagingService = new PackagingLookupService(Path.Combine("data", "packagings.json"));
-            var parser = new AlbumParser(countryService, formatService, genreService, labelService, artistService, packagingService);
+            var storeService = new StoreLookupService(Path.Combine("data", "stores.json"));
+            var parser = new AlbumParser(countryService, formatService, genreService, labelService, artistService, packagingService, storeService);
             var musicNodes = doc.Descendants("music");
             int albumId = 1;
             foreach (var music in musicNodes)
