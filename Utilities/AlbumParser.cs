@@ -196,12 +196,14 @@ namespace Utilities
             var detailsNode = music.Element("details");
             if (detailsNode != null)
             {
+                var mediaIndex = 1;
                 foreach (var disc in detailsNode.Elements("detail").Where(d => (string?)d.Attribute("type") == "disc"))
                 {
                     var media = new MusicMedia
                     {
+                        Index = mediaIndex++,
                         Title = (string?)disc.Element("title") ?? string.Empty,
-                        // Parse other media fields as needed...
+                        FormatId = album.FormatId
                     };
 
                     // Parse tracks for this media
@@ -211,11 +213,54 @@ namespace Utilities
                     {
                         foreach (var track in trackDetails.Elements("detail").Where(t => (string?)t.Attribute("type") == "track"))
                         {
+                            // Extract artist names for the track
+                            var trackArtistNames = new List<string>();
+                            var trackArtistIds = new List<string>();
+                            var trackArtistsElem = track.Element("artists");
+                            if (trackArtistsElem != null)
+                            {
+                                foreach (var artistElem in trackArtistsElem.Elements("artist"))
+                                {
+                                    var artistName = (string?)artistElem.Element("displayname") ?? string.Empty;
+                                    if (!string.IsNullOrWhiteSpace(artistName))
+                                    {
+                                        trackArtistNames.Add(artistName);
+                                        var artistId = _artistService.GetArtistId(artistName);
+                                        if (artistId != 0)
+                                            trackArtistIds.Add(artistId.ToString());
+                                    }
+                                }
+                            }
+
+                            // Extract genres for the track
+                            var trackGenreIds = new List<string>();
+                            var trackGenresElem = track.Element("genres");
+                            if (trackGenresElem != null)
+                            {
+                                foreach (var genreElem in trackGenresElem.Elements("genre"))
+                                {
+                                    var genreName = (string?)genreElem.Element("displayname") ?? string.Empty;
+                                    if (!string.IsNullOrWhiteSpace(genreName))
+                                    {
+                                        var genreId = _genreService.GetGenreId(genreName);
+                                        if (genreId != 0)
+                                            trackGenreIds.Add(genreId.ToString());
+                                    }
+                                }
+                            }
+
                             var musicTrack = new MusicTrack
                             {
-                                Id = (int?)track.Element("id") ?? 0,
                                 Title = (string?)track.Element("title") ?? string.Empty,
                                 // Parse other track fields as needed...
+                                ReleaseYear = DateOnly.TryParseExact(track.Element("releasedate")?.Element("year")?.Element("displayname")?.Value,
+                                    "yyyy",
+                                    out var trackReleaseYear) ? trackReleaseYear : default,
+                                Index = (int?)track.Element("position") ?? 0,   // Track number on the disc
+                                LengthSecs = (int?)track.Element("lengthsecs") ?? 0,
+                                Live = ((string?)track.Element("live")?.Attribute("boolvalue") == "1"),
+                                Artists = trackArtistIds.Count > 0 ? trackArtistIds : null,
+                                Genres = trackGenreIds.Count > 0 ? trackGenreIds : null
                             };
                             tracks.Add(musicTrack);
                         }

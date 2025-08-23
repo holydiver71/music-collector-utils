@@ -55,7 +55,8 @@ using Utilities;
             Console.WriteLine($"Loaded {albums.Count} albums.");
             foreach (var album in albums)
             {
-                Console.WriteLine($"Artist: {album.Artists[0]} | Album: {album.Title} (ID: {album.Id})");
+                var artistName = (album.Artists != null && album.Artists.Count > 0) ? album.Artists[0].ToString() : "Unknown Artist";
+                Console.WriteLine($"Artist: {artistName} | Album: {album.Title} (ID: {album.Id})");
                 if (album.Media != null)
                 {
                     foreach (var media in album.Media)
@@ -65,7 +66,7 @@ using Utilities;
                         {
                             foreach (var track in media.Tracks)
                             {
-                                Console.WriteLine($"    Track: {track.Title} (ID: {track.Id})");
+                                Console.WriteLine($"    Track: {track.Title} ");
                             }
                         }
                     }
