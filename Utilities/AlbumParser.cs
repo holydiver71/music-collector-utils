@@ -188,8 +188,7 @@ namespace Utilities
                 LastModified = ParseDate(music.Element("lastmodified")?.Element("date")?.Value),
                 PackagingId = packagingId,
                 PurchaseInfo = purchaseInfo,
-                // Parse other fields as needed...
-            };
+           };
 
             // Parse media/discs
             var mediaList = new List<MusicMedia>();
