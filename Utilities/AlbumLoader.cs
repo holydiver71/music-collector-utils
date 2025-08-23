@@ -232,16 +232,20 @@ namespace Utilities
             int storeId = _storeService.GetStoreId(storeDisplay);
             var purchaseDateStr = (string?)music.Element("purchasedate")?.Element("date") ?? string.Empty;
             DateOnly purchaseDate = default;
+
             if (!string.IsNullOrWhiteSpace(purchaseDateStr))
                 DateOnly.TryParseExact(purchaseDateStr, "dd/MM/yyyy", null, System.Globalization.DateTimeStyles.None, out purchaseDate);
+
             var priceStr = (string?)music.Element("purchaseprice") ?? string.Empty;
             decimal price = 0;
+
             if (!string.IsNullOrWhiteSpace(priceStr))
             {
                 // Remove any non-numeric, non-dot, non-comma characters (e.g., currency symbols)
                 var cleaned = new string(priceStr.Where(c => char.IsDigit(c) || c == '.' || c == ',').ToArray());
                 decimal.TryParse(cleaned, System.Globalization.NumberStyles.Any, System.Globalization.CultureInfo.InvariantCulture, out price);
             }
+
             if (storeId != 0 || purchaseDate != default || price != 0)
             {
                 purchaseInfo = new PurchaseData
@@ -251,6 +255,7 @@ namespace Utilities
                     Price = price
                 };
             }
+            
            // Artists
             List<int> artistIds = new List<int>();
             var artistsElem = music.Element("artists");
