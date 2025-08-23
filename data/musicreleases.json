@@ -1,0 +1,4242 @@
+[
+  {
+    "Id": 1,
+    "Title": "Advance And Vanquish",
+    "ReleaseYear": "2004-01-01",
+    "OrigReleaseYear": "2004-01-01",
+    "Artists": [
+      6
+    ],
+    "Genres": [
+      158,
+      193,
+      84
+    ],
+    "Live": false,
+    "LabelId": 474,
+    "CountryId": 9,
+    "LabelNumber": "RR 8274-2",
+    "LengthInSeconds": "3033",
+    "FormatId": 8,
+    "PurchaseInfo": {
+      "Date": "2020-07-11",
+      "Price": 2.00,
+      "StoreID": 366
+    },
+    "PackagingId": 19,
+    "Images": {
+      "CoverFront": "3InchesOfBloodAdvanceAn47039_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "75E40219D9031FF70927442759C7FD03.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/3-Inches-Of-Blood-Advance-And-Vanquish/release/3956364",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2020-09-19T13:42:52",
+    "LastModified": "2025-08-09T22:55:34",
+    "Media": [
+      {
+        "Title": "Advance And Vanquish",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Fear On The Bridge (Upon The Boiling Sea I)",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 194,
+            "Index": 1
+          },
+          {
+            "Title": "Deadly Sinners",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 270,
+            "Index": 2
+          },
+          {
+            "Title": "Revenge Is A Vulture",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 206,
+            "Index": 3
+          },
+          {
+            "Title": "Dominion Of Deceit",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 258,
+            "Index": 4
+          },
+          {
+            "Title": "Premonition Of Pain",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 275,
+            "Index": 5
+          },
+          {
+            "Title": "Lord Of The Storm (Upon The Boiling Sea Ii)",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 305,
+            "Index": 6
+          },
+          {
+            "Title": "Wykydtron",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 232,
+            "Index": 7
+          },
+          {
+            "Title": "Swordmaster",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 264,
+            "Index": 8
+          },
+          {
+            "Title": "Axes Of Evil",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 268,
+            "Index": 9
+          },
+          {
+            "Title": "Crazy Nights",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 198,
+            "Index": 10
+          },
+          {
+            "Title": "Destroy The Orcs",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 141,
+            "Index": 11
+          },
+          {
+            "Title": "The Phantom Of The Crimson Cloak",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 191,
+            "Index": 12
+          },
+          {
+            "Title": "Isle Of Eternal Despair (Upon The Boiling Sea Iii)",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "6"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "84"
+            ],
+            "Live": false,
+            "LengthSecs": 231,
+            "Index": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Title": "High Voltage",
+    "ReleaseYear": "0001-01-01",
+    "OrigReleaseYear": "1976-01-01",
+    "Artists": [
+      16
+    ],
+    "Genres": [
+      158,
+      80
+    ],
+    "Live": false,
+    "LabelId": 36,
+    "CountryId": 9,
+    "LabelNumber": "K 450 257",
+    "LengthInSeconds": "0",
+    "FormatId": 7,
+    "PurchaseInfo": {
+      "Date": "0001-01-01",
+      "Price": 0,
+      "StoreID": 346
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "ACDCHighVoltage197640924_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "2A04EB8E93D1F43C721CD70DAA3D2823.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/ACDC-High-Voltage/release/10180497",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2019-11-11T22:47:38",
+    "LastModified": "2025-08-09T22:57:24",
+    "Media": [
+      {
+        "Title": "High Voltage",
+        "FormatId": 7,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "It\u0027s A Long Way To The Top (If You Wanna Rock \u0027n\u0027 Roll)",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Rock \u0027n\u0027 Roll Singer",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "The Jack",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Live Wire",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "T.N.T.",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Can I Sit Next To You Girl",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Little Lover",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "She\u0027s Got Balls",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "High Voltage",
+            "ReleaseYear": "0001-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158",
+              "80"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "Accuser",
+    "ReleaseYear": "2020-01-01",
+    "OrigReleaseYear": "2020-01-01",
+    "Artists": [
+      18
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 330,
+    "CountryId": 12,
+    "LabelNumber": "3984-15738-1",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2021-05-07",
+      "Price": 12.99,
+      "StoreID": 339
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "AccuserAccuser202052302_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "2454C3C2CEDE310ADBD3EA297C1681EB.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Accuser-Accuser/release/16250453",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2021-05-08T21:00:40",
+    "LastModified": "2025-08-07T23:44:19",
+    "Media": [
+      {
+        "Title": "Accuser",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Misled Obedience",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Phantom Graves",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Temple Of All",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Lux In Tenebris",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Be None The Wiser",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Rethink",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Psychocision",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Contamination",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "The Eliminator",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Seven Lives",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          },
+          {
+            "Title": "A Cycle\u0027s End",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "18"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Title": "High Voltage",
+    "ReleaseYear": "2003-01-01",
+    "OrigReleaseYear": "1976-01-01",
+    "Artists": [
+      16
+    ],
+    "Genres": [
+      158
+    ],
+    "Live": false,
+    "LabelId": 522,
+    "CountryId": 9,
+    "LabelNumber": "EPC 510759 2",
+    "LengthInSeconds": "2662",
+    "FormatId": 8,
+    "PurchaseInfo": null,
+    "PackagingId": 13,
+    "Images": {
+      "CoverFront": "ACDCHighVoltage20098172Z6HP_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "1AC48D768B594D7E9E7E6163E7225CE2.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/ACDC-High-Voltage/release/864947",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2019-05-24T14:23:54",
+    "LastModified": "2025-08-09T22:55:34",
+    "Media": [
+      {
+        "Title": "High Voltage",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "It\u0027s A Long Way To The Top (If You Wanna Rock \u0027n\u0027 Roll)",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 316,
+            "Index": 1
+          },
+          {
+            "Title": "Rock \u0027n\u0027 Roll Singer",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 304,
+            "Index": 2
+          },
+          {
+            "Title": "The Jack",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 352,
+            "Index": 3
+          },
+          {
+            "Title": "Live Wire",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 350,
+            "Index": 4
+          },
+          {
+            "Title": "T.N.T.",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 215,
+            "Index": 5
+          },
+          {
+            "Title": "Can I Sit Next To You Girl",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 252,
+            "Index": 6
+          },
+          {
+            "Title": "Little Lover",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 339,
+            "Index": 7
+          },
+          {
+            "Title": "She\u0027s Got Balls",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 291,
+            "Index": 8
+          },
+          {
+            "Title": "High Voltage",
+            "ReleaseYear": "2003-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 243,
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Title": "High Voltage",
+    "ReleaseYear": "2009-01-01",
+    "OrigReleaseYear": "1976-01-01",
+    "Artists": [
+      16
+    ],
+    "Genres": [
+      80,
+      158
+    ],
+    "Live": false,
+    "LabelId": 107,
+    "CountryId": 9,
+    "LabelNumber": "5107591",
+    "LengthInSeconds": "2659",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2016-07-29",
+      "Price": 10.21,
+      "StoreID": 134
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "ACDCHighVoltage20098172_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "63D7C442F82DBC754692FF6BEC43FB89.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/ACDC-High-Voltage/release/2588535",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2016-08-09T22:49:57",
+    "LastModified": "2025-08-07T23:42:51",
+    "Media": [
+      {
+        "Title": "High Voltage",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "It\u0027s A Long Way To The Top (If You Wanna Rock \u0027n\u0027 Roll)",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 316,
+            "Index": 1
+          },
+          {
+            "Title": "Rock \u0027n\u0027 Roll Singer",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 304,
+            "Index": 2
+          },
+          {
+            "Title": "The Jack",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 352,
+            "Index": 3
+          },
+          {
+            "Title": "Live Wire",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 350,
+            "Index": 4
+          },
+          {
+            "Title": "T.N.T.",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 214,
+            "Index": 5
+          },
+          {
+            "Title": "Can I Sit Next To You Girl",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 252,
+            "Index": 6
+          },
+          {
+            "Title": "Little Lover",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 337,
+            "Index": 7
+          },
+          {
+            "Title": "She\u0027s Got Balls",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 291,
+            "Index": 8
+          },
+          {
+            "Title": "High Voltage",
+            "ReleaseYear": "2009-01-01",
+            "Artists": [
+              "16"
+            ],
+            "Genres": [
+              "80",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 243,
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Title": "Spreading The Disease",
+    "ReleaseYear": "1994-01-01",
+    "OrigReleaseYear": "1985-01-01",
+    "Artists": [
+      69
+    ],
+    "Genres": [
+      158,
+      193,
+      179
+    ],
+    "Live": false,
+    "LabelId": 275,
+    "CountryId": 9,
+    "LabelNumber": "IMCD 136",
+    "LengthInSeconds": "2624",
+    "FormatId": 8,
+    "PurchaseInfo": {
+      "Date": "2017-06-08",
+      "Price": 3.42,
+      "StoreID": 134
+    },
+    "PackagingId": 19,
+    "Images": {
+      "CoverFront": "AnthraxSpreadingTheDiseas26118_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "3025894E58DBE221BA88414165DED2C1.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Anthrax-Spreading-The-Disease/release/7157879",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2019-05-24T17:14:00",
+    "LastModified": "2025-08-09T22:55:34",
+    "Media": [
+      {
+        "Title": "Spreading The Disease",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "A. I. R.",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 345,
+            "Index": 1
+          },
+          {
+            "Title": "Lone Justice",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 276,
+            "Index": 2
+          },
+          {
+            "Title": "Madhouse",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 260,
+            "Index": 3
+          },
+          {
+            "Title": "S. S. C. / Stand Or Fall",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 248,
+            "Index": 4
+          },
+          {
+            "Title": "The Enemy",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 324,
+            "Index": 5
+          },
+          {
+            "Title": "Aftershock",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 268,
+            "Index": 6
+          },
+          {
+            "Title": "Armed And Dangerous",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 343,
+            "Index": 7
+          },
+          {
+            "Title": "Medusa",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 284,
+            "Index": 8
+          },
+          {
+            "Title": "Gung-Ho",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 276,
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Title": "Fistful Of Metal / Armed And Dangerous",
+    "ReleaseYear": "1998-01-01",
+    "OrigReleaseYear": "1984-01-01",
+    "Artists": [
+      69
+    ],
+    "Genres": [
+      158,
+      193,
+      179
+    ],
+    "Live": false,
+    "LabelId": 550,
+    "CountryId": 9,
+    "LabelNumber": "SPV 076-18182 2CD",
+    "LengthInSeconds": "3746",
+    "FormatId": 8,
+    "PurchaseInfo": {
+      "Date": "2022-04-10",
+      "Price": 5.44,
+      "StoreID": 325
+    },
+    "PackagingId": 1,
+    "Images": {
+      "CoverFront": "AnthraxFistfulOfMetalA58510_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "4A2F5EF40AFFC4F130CE457D8BAB9C1F.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/1264160-Anthrax-Fistful-Of-Metal-Armed-And-Dangerous",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2022-05-15T20:33:49",
+    "LastModified": "2025-08-09T22:55:34",
+    "Media": [
+      {
+        "Title": "Fistful Of Metal / Armed And Dangerous - Disc 1",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Deathrider",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 190,
+            "Index": 1
+          },
+          {
+            "Title": "Metal Thrashing Mad",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 162,
+            "Index": 2
+          },
+          {
+            "Title": "I\u0027m Eighteen",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 242,
+            "Index": 3
+          },
+          {
+            "Title": "Panic",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 242,
+            "Index": 4
+          },
+          {
+            "Title": "Subjugator",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 273,
+            "Index": 5
+          },
+          {
+            "Title": "Soldiers Of Metal",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 179,
+            "Index": 6
+          },
+          {
+            "Title": "Death From Above",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 310,
+            "Index": 7
+          },
+          {
+            "Title": "Anthrax",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 208,
+            "Index": 8
+          },
+          {
+            "Title": "Across The River",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 86,
+            "Index": 9
+          },
+          {
+            "Title": "Howling Furies",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 232,
+            "Index": 10
+          }
+        ]
+      },
+      {
+        "Title": "Fistful Of Metal / Armed And Dangerous - Disc 2",
+        "FormatId": 8,
+        "Index": 2,
+        "Tracks": [
+          {
+            "Title": "Armed And Dangerous (Studio)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 367,
+            "Index": 1
+          },
+          {
+            "Title": "Raise Hell (Studio)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 243,
+            "Index": 2
+          },
+          {
+            "Title": "God Save The Queen (Studio)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 182,
+            "Index": 3
+          },
+          {
+            "Title": "Metal Thrashing Mad (Live)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 171,
+            "Index": 4
+          },
+          {
+            "Title": "Panic (Live)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 225,
+            "Index": 5
+          },
+          {
+            "Title": "Soldiers Of Metal (Collector\u0027s Rare Track)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 188,
+            "Index": 6
+          },
+          {
+            "Title": "Howling Furies (Collector\u0027s Rare Track)",
+            "ReleaseYear": "1998-01-01",
+            "Artists": [
+              "69"
+            ],
+            "Genres": [
+              "158",
+              "193",
+              "179"
+            ],
+            "Live": false,
+            "LengthSecs": 246,
+            "Index": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Title": "Punching The Sky",
+    "ReleaseYear": "2020-01-01",
+    "OrigReleaseYear": "2020-01-01",
+    "Artists": [
+      82
+    ],
+    "Genres": [
+      84,
+      158
+    ],
+    "Live": false,
+    "LabelId": 330,
+    "CountryId": 26,
+    "LabelNumber": "3984 15728 1",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2020-12-06",
+      "Price": 0,
+      "StoreID": 425
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "ArmoredSaintPunchingTheS49137OX28_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "364E839988FD1A3067477A6385B26F04.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Armored-Saint-Punching-The-Sky/release/16089168",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2020-12-05T20:53:01",
+    "LastModified": "2025-08-07T23:42:48",
+    "Media": [
+      {
+        "Title": "Punching The Sky - Disc 1",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Standing On The Shoulders Of Giants",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "End Of The Attention Span",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "My Jurisdiction",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Bubble",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Do Wrong To None",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Lone Wolf",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          }
+        ]
+      },
+      {
+        "Title": "Punching The Sky - Disc 2",
+        "FormatId": 15,
+        "Index": 2,
+        "Tracks": [
+          {
+            "Title": "Missile To Gun",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Fly In The Ointment",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Bark, No Bite",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Unfair",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Never You Fret",
+            "ReleaseYear": "2020-01-01",
+            "Artists": [
+              "82"
+            ],
+            "Genres": [
+              "84",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Title": "Meltdown",
+    "ReleaseYear": "2004-01-01",
+    "OrigReleaseYear": "2004-01-01",
+    "Artists": [
+      88
+    ],
+    "Genres": [
+      158,
+      124,
+      94
+    ],
+    "Live": false,
+    "LabelId": 265,
+    "CountryId": 25,
+    "LabelNumber": "5050467324626",
+    "LengthInSeconds": "6008",
+    "FormatId": 8,
+    "PurchaseInfo": null,
+    "PackagingId": 5,
+    "Images": {
+      "CoverFront": "AshMeltdown200438937_b.jpeg",
+      "CoverBack": null,
+      "Thumbnail": null
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Ash-Meltdown/release/728035",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2019-09-13T17:08:37",
+    "LastModified": "2025-08-09T22:56:31",
+    "Media": [
+      {
+        "Title": "Meltdown - Disc 1",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Meltdown",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 204,
+            "Index": 1
+          },
+          {
+            "Title": "Orpheus",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 256,
+            "Index": 2
+          },
+          {
+            "Title": "Evil Eye",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 206,
+            "Index": 3
+          },
+          {
+            "Title": "Clones",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 240,
+            "Index": 4
+          },
+          {
+            "Title": "Starcrossed",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 290,
+            "Index": 5
+          },
+          {
+            "Title": "Out Of The Blue",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 204,
+            "Index": 6
+          },
+          {
+            "Title": "Renegade Cavalcade",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 206,
+            "Index": 7
+          },
+          {
+            "Title": "Detonator",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 218,
+            "Index": 8
+          },
+          {
+            "Title": "On A Wave",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 267,
+            "Index": 9
+          },
+          {
+            "Title": "Won\u0027t Be Saved",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 221,
+            "Index": 10
+          },
+          {
+            "Title": "Vampire Love",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 227,
+            "Index": 11
+          }
+        ]
+      },
+      {
+        "Title": "Meltdown - Disc 2",
+        "FormatId": 8,
+        "Index": 2,
+        "Tracks": [
+          {
+            "Title": "Meltdown",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 214,
+            "Index": 1
+          },
+          {
+            "Title": "Orpheus",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 280,
+            "Index": 2
+          },
+          {
+            "Title": "A Life Less Ordinary",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 253,
+            "Index": 3
+          },
+          {
+            "Title": "Evil Eye",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 216,
+            "Index": 4
+          },
+          {
+            "Title": "Clones",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 258,
+            "Index": 5
+          },
+          {
+            "Title": "Starcrossed",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 283,
+            "Index": 6
+          },
+          {
+            "Title": "Out Of The Blue",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 227,
+            "Index": 7
+          },
+          {
+            "Title": "Renegade Cavalcade",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 231,
+            "Index": 8
+          },
+          {
+            "Title": "Detonator",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 235,
+            "Index": 9
+          },
+          {
+            "Title": "On A Wave",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 302,
+            "Index": 10
+          },
+          {
+            "Title": "Won\u0027t Be Saved",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 231,
+            "Index": 11
+          },
+          {
+            "Title": "Vampire Love",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 264,
+            "Index": 12
+          },
+          {
+            "Title": "Darkside Lightside",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 237,
+            "Index": 13
+          },
+          {
+            "Title": "Burn Baby Burn",
+            "ReleaseYear": "2004-01-01",
+            "Artists": [
+              "88"
+            ],
+            "Genres": [
+              "158",
+              "124",
+              "94"
+            ],
+            "Live": false,
+            "LengthSecs": 238,
+            "Index": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Title": "Looking Back To The Future",
+    "ReleaseYear": "2014-01-01",
+    "OrigReleaseYear": "2014-01-01",
+    "Artists": [
+      92
+    ],
+    "Genres": [
+      84,
+      158,
+      200
+    ],
+    "Live": false,
+    "LabelId": 343,
+    "CountryId": 15,
+    "LabelNumber": "M2014-12/3",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2020-02-08",
+      "Price": 17.00,
+      "StoreID": 345
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "AtomkraftLookingBackToTh43080_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "A2F584F750C89C2C32BFBE357FA39005.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Atomkraft-Looking-Back-To-The-Future/release/6042154",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2020-03-30T12:04:46",
+    "LastModified": "2025-08-07T23:42:47",
+    "Media": [
+      {
+        "Title": "Looking Back To The Future - Disc 1",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Annihilate The Bride",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Sell It Fast",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Tsunami",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Dance Of The Immortals",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Atomized",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Rich Bitch",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Teutonic Pain",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Vision Of Belshazzar",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "Foliage",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Requiem",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          },
+          {
+            "Title": "The Cage",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 11
+          },
+          {
+            "Title": "Maniac Man",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 12
+          }
+        ]
+      },
+      {
+        "Title": "Looking Back To The Future - Disc 2",
+        "FormatId": 15,
+        "Index": 2,
+        "Tracks": [
+          {
+            "Title": "Warfare",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Total Metal",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Death Valley",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Un-Named Rehearsal",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Made Of Iron (Funeral Pyre)",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Pour The Metal In",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Burn In Hell",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Carousel",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "S.M.B.",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Yo Mutha",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          },
+          {
+            "Title": "Buffalo Jump",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 11
+          },
+          {
+            "Title": "Break Beast",
+            "ReleaseYear": "2014-01-01",
+            "Artists": [
+              "92"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "200"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Title": "Zombie Attack",
+    "ReleaseYear": "2017-01-01",
+    "OrigReleaseYear": "1986-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 0,
+    "LabelNumber": "NOISELP039",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2022-02-27",
+      "Price": 0,
+      "StoreID": 3
+    },
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardZombieAttack201758118_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "4940CBB65841878D5EB186AFCD618D28.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11236718-Tankard-Zombie-Attack",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2022-04-18T00:05:11",
+    "LastModified": "2025-08-07T23:41:07",
+    "Media": [
+      {
+        "Title": "Zombie Attack",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Zombie Attack",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Acid Death",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Mercenary",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Maniac Forces",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Alcohol",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "(Empty) Tankard",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Thrash Till Death",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Chains",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "Poison",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Screamin\u0027 Victims",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Title": "The Morning After",
+    "ReleaseYear": "2017-01-01",
+    "OrigReleaseYear": "1988-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 9,
+    "LabelNumber": "NOISE2LP041",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2022-02-27",
+      "Price": 0,
+      "StoreID": 3
+    },
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardTheMorningAfter258132_f.jpg",
+      "CoverBack": "TankardTheMorningAfter258132N3RJ_b.jpg",
+      "Thumbnail": "31B11A7FEFD443E4B89649B8FE2DFBDF.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11236785-Tankard-The-Morning-After",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2022-04-18T00:22:10",
+    "LastModified": "2025-08-07T23:41:08",
+    "Media": [
+      {
+        "Title": "The Morning After",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Intro.",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Commandments",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Shit-Faced",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "T.V. Hero",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "F.U.N.",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "The Morning After",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Desesperation",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Feed The Lohocla",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "Help Yourself",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Mon Cheri",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          },
+          {
+            "Title": "Outro.",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 11
+          }
+        ]
+      },
+      {
+        "Title": "Alien (EP)",
+        "FormatId": 15,
+        "Index": 2,
+        "Tracks": [
+          {
+            "Title": "Alien",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "666 Packs",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Live To Dive",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Remedy",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "(Empty) Tankard",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Title": "Chemical Invasion",
+    "ReleaseYear": "2017-01-01",
+    "OrigReleaseYear": "1987-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 9,
+    "LabelNumber": "NOISELP040",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": {
+      "Date": "2022-02-27",
+      "Price": 0,
+      "StoreID": 3
+    },
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardChemicalInvasion2580841CDE_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "CC10D92D73F13CF9DBD7FBE0992B4AE7.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11274665-Tankard-Chemical-Invasion",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2022-04-17T23:56:50",
+    "LastModified": "2025-08-07T23:41:05",
+    "Media": [
+      {
+        "Title": "Chemical Invasion",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Total Addiction",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Tantrum",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Don\u0027t Panic",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Puke",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "For A Thousand Beers",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Chemical Invasion",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Farewell To A Slut",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Traitor",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "Alcohol",
+            "ReleaseYear": "2017-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Title": "Stone Cold Sober",
+    "ReleaseYear": "2018-01-01",
+    "OrigReleaseYear": "1992-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      84,
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 9,
+    "LabelNumber": "NOISELP043",
+    "LengthInSeconds": "0",
+    "FormatId": 15,
+    "PurchaseInfo": null,
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardStoneColdSober2062560_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "0AAB3020AE95BD8EDF668FF24FE3A261.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11494526-Tankard-Stone-Cold-Sober",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2023-02-05T20:19:02",
+    "LastModified": "2025-08-07T23:41:08",
+    "Media": [
+      {
+        "Title": "Stone Cold Sober",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Jurisdiction",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 1
+          },
+          {
+            "Title": "Broken Image",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 2
+          },
+          {
+            "Title": "Mindwild",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 3
+          },
+          {
+            "Title": "Ugly Beauty",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 4
+          },
+          {
+            "Title": "Centerfold",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 5
+          },
+          {
+            "Title": "Behind The Back",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 6
+          },
+          {
+            "Title": "Stone Cold Sober",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 7
+          },
+          {
+            "Title": "Blood, Guts \u0026 Rock \u0027n\u0027 Roll",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 8
+          },
+          {
+            "Title": "Lost And Found (Tantrum Part 2)",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 9
+          },
+          {
+            "Title": "Sleeping With The Past",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 10
+          },
+          {
+            "Title": "Freibier",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "84",
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 0,
+            "Index": 11
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Title": "Two-Faced",
+    "ReleaseYear": "2018-01-01",
+    "OrigReleaseYear": "1993-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 12,
+    "LabelNumber": "NOISELP044",
+    "LengthInSeconds": "3162",
+    "FormatId": 15,
+    "PurchaseInfo": null,
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardTwoFaced201862544_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "7B115F81FF76BF1DFE970896A4B2B4D5.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11494548-Tankard-Two-Faced",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2023-02-05T20:16:09",
+    "LastModified": "2025-08-07T23:41:08",
+    "Media": [
+      {
+        "Title": "Two-Faced",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Death Penalty",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 302,
+            "Index": 1
+          },
+          {
+            "Title": "R.T.V.",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 272,
+            "Index": 2
+          },
+          {
+            "Title": "Betrayed",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 212,
+            "Index": 3
+          },
+          {
+            "Title": "Nation Over Nation",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 251,
+            "Index": 4
+          },
+          {
+            "Title": "Days Of The Gun",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 331,
+            "Index": 5
+          },
+          {
+            "Title": "Cities In Flames",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 256,
+            "Index": 6
+          },
+          {
+            "Title": "Up From Zero",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 347,
+            "Index": 7
+          },
+          {
+            "Title": "Two-Faced",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 298,
+            "Index": 8
+          },
+          {
+            "Title": "Ich Brauch\u0027 Meinen Suff",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 173,
+            "Index": 9
+          },
+          {
+            "Title": "Cyberworld",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 290,
+            "Index": 10
+          },
+          {
+            "Title": "Mainhattan",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 263,
+            "Index": 11
+          },
+          {
+            "Title": "Jimmy B. Bad",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 167,
+            "Index": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Title": "The Meaning Of Life",
+    "ReleaseYear": "2018-01-01",
+    "OrigReleaseYear": "1990-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      179,
+      193
+    ],
+    "Live": false,
+    "LabelId": 372,
+    "CountryId": 9,
+    "LabelNumber": "NOISELP042",
+    "LengthInSeconds": "2973",
+    "FormatId": 15,
+    "PurchaseInfo": null,
+    "PackagingId": 3,
+    "Images": {
+      "CoverFront": "TankardTheMeaningOfLife62530_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "50A580D9E8DF844E28BBC09E911FF1E5.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/release/11474066-Tankard-The-Meaning-Of-Life",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2023-02-05T20:12:58",
+    "LastModified": "2025-08-07T23:41:08",
+    "Media": [
+      {
+        "Title": "The Meaning Of Life",
+        "FormatId": 15,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Open All Night",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 342,
+            "Index": 1
+          },
+          {
+            "Title": "We Are Us",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 280,
+            "Index": 2
+          },
+          {
+            "Title": "Dancing On Our Grave",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 223,
+            "Index": 3
+          },
+          {
+            "Title": "Mechanical Man",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 362,
+            "Index": 4
+          },
+          {
+            "Title": "Beermuda",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 286,
+            "Index": 5
+          },
+          {
+            "Title": "The Meaning Of Life",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 339,
+            "Index": 6
+          },
+          {
+            "Title": "Space Beer",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 272,
+            "Index": 7
+          },
+          {
+            "Title": "Always Them",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 242,
+            "Index": 8
+          },
+          {
+            "Title": "Wheel Of Rebirth",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 373,
+            "Index": 9
+          },
+          {
+            "Title": "Barfly",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "179",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 254,
+            "Index": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Title": "Two-Faced",
+    "ReleaseYear": "2018-01-01",
+    "OrigReleaseYear": "2018-01-01",
+    "Artists": [
+      1140
+    ],
+    "Genres": [
+      158,
+      193
+    ],
+    "Live": false,
+    "LabelId": 370,
+    "CountryId": 9,
+    "LabelNumber": "NOISECD044",
+    "LengthInSeconds": "4625",
+    "FormatId": 8,
+    "PurchaseInfo": {
+      "Date": "2021-02-18",
+      "Price": 3.30,
+      "StoreID": 12
+    },
+    "PackagingId": 19,
+    "Images": {
+      "CoverFront": "TankardTwoFaced201850837_f.jpg",
+      "CoverBack": null,
+      "Thumbnail": "6CBA10021C89824656375DF35B624525.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Tankard-Two-Faced/release/11593102",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2021-02-20T23:27:38",
+    "LastModified": "2025-08-09T22:55:34",
+    "Media": [
+      {
+        "Title": "Two-Faced",
+        "FormatId": 8,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Death Penalty",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 302,
+            "Index": 1
+          },
+          {
+            "Title": "R.T.V.",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 272,
+            "Index": 2
+          },
+          {
+            "Title": "Betrayed",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 212,
+            "Index": 3
+          },
+          {
+            "Title": "Nation Over Nation",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 251,
+            "Index": 4
+          },
+          {
+            "Title": "Days Of The Gun",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 331,
+            "Index": 5
+          },
+          {
+            "Title": "Cities In Flames",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 256,
+            "Index": 6
+          },
+          {
+            "Title": "Up From Zero",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 347,
+            "Index": 7
+          },
+          {
+            "Title": "Two-Faced",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 298,
+            "Index": 8
+          },
+          {
+            "Title": "Ich Brauch Meinen Suff",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 173,
+            "Index": 9
+          },
+          {
+            "Title": "Cyberworld",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 290,
+            "Index": 10
+          },
+          {
+            "Title": "Mainhatten",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 263,
+            "Index": 11
+          },
+          {
+            "Title": "Jimmy B. Bad",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 167,
+            "Index": 12
+          },
+          {
+            "Title": "Space Beer",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 297,
+            "Index": 13
+          },
+          {
+            "Title": "Zombie Attack",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 208,
+            "Index": 14
+          },
+          {
+            "Title": "Alcohol",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 129,
+            "Index": 15
+          },
+          {
+            "Title": "Chamical Invasion",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 411,
+            "Index": 16
+          },
+          {
+            "Title": "(Empty) Tankard",
+            "ReleaseYear": "2018-01-01",
+            "Artists": [
+              "1140"
+            ],
+            "Genres": [
+              "158",
+              "193"
+            ],
+            "Live": false,
+            "LengthSecs": 418,
+            "Index": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Title": "Midnight At The Oasis",
+    "ReleaseYear": "1994-01-01",
+    "OrigReleaseYear": "1994-01-01",
+    "Artists": [
+      1170
+    ],
+    "Genres": [
+      48,
+      1,
+      46
+    ],
+    "Live": false,
+    "LabelId": 10,
+    "CountryId": 25,
+    "LabelNumber": "BNHCD5",
+    "LengthInSeconds": "1025",
+    "FormatId": 10,
+    "PurchaseInfo": null,
+    "PackagingId": 19,
+    "Images": {
+      "CoverFront": "TheBrandNewHeaviesMidnig31349_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "A34DCEAB7F52653C928DB5641ABA3AA5.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/The-Brand-New-Heavies-Midnight-At-The-Oasis/release/254629",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2019-07-27T00:29:14",
+    "LastModified": "2025-08-09T22:56:31",
+    "Media": [
+      {
+        "Title": "Midnight At The Oasis",
+        "FormatId": 10,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Midnight At The Oasis (Radio Version)",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "1170"
+            ],
+            "Genres": [
+              "48",
+              "1",
+              "46"
+            ],
+            "Live": false,
+            "LengthSecs": 228,
+            "Index": 1
+          },
+          {
+            "Title": "Midnight At The Oasis (Extended Version)",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "1170"
+            ],
+            "Genres": [
+              "48",
+              "1",
+              "46"
+            ],
+            "Live": false,
+            "LengthSecs": 296,
+            "Index": 2
+          },
+          {
+            "Title": "Midnight At The Oasis (Opaz 7\u0022 Version)",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "1170"
+            ],
+            "Genres": [
+              "48",
+              "1",
+              "46"
+            ],
+            "Live": false,
+            "LengthSecs": 225,
+            "Index": 3
+          },
+          {
+            "Title": "Midnight At The Oasis (Roger\u0027s Brand New Radio Anthem)",
+            "ReleaseYear": "1994-01-01",
+            "Artists": [
+              "1170"
+            ],
+            "Genres": [
+              "48",
+              "1",
+              "46"
+            ],
+            "Live": false,
+            "LengthSecs": 276,
+            "Index": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Title": "Heaven",
+    "ReleaseYear": "1990-01-01",
+    "OrigReleaseYear": "1990-01-01",
+    "Artists": [
+      1286
+    ],
+    "Genres": [
+      73,
+      158
+    ],
+    "Live": false,
+    "LabelId": 352,
+    "CountryId": 25,
+    "LabelNumber": "12KUT 137",
+    "LengthInSeconds": "966",
+    "FormatId": 2,
+    "PurchaseInfo": {
+      "Date": "2017-06-15",
+      "Price": 0,
+      "StoreID": 426
+    },
+    "PackagingId": 21,
+    "Images": {
+      "CoverFront": "TigertailzHeaven199013000_f.jpeg",
+      "CoverBack": null,
+      "Thumbnail": "C19E205F3E3FAA2A9633FB8C04B0A8BD.png"
+    },
+    "Links": [
+      {
+        "Description": "Discogs",
+        "Url": "https://www.discogs.com/Tigertailz-Heaven/release/1314333",
+        "UrlType": "URL"
+      }
+    ],
+    "DateAdded": "2017-07-16T23:17:00",
+    "LastModified": "2023-12-17T09:32:26",
+    "Media": [
+      {
+        "Title": "Heaven",
+        "FormatId": 2,
+        "Index": 1,
+        "Tracks": [
+          {
+            "Title": "Heaven (Bezerk Extended Mix)",
+            "ReleaseYear": "1990-01-01",
+            "Artists": [
+              "1286"
+            ],
+            "Genres": [
+              "73",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 364,
+            "Index": 1
+          },
+          {
+            "Title": "Creeping Death",
+            "ReleaseYear": "1990-01-01",
+            "Artists": [
+              "1286"
+            ],
+            "Genres": [
+              "73",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 370,
+            "Index": 2
+          },
+          {
+            "Title": "Peace Sells",
+            "ReleaseYear": "1990-01-01",
+            "Artists": [
+              "1286"
+            ],
+            "Genres": [
+              "73",
+              "158"
+            ],
+            "Live": false,
+            "LengthSecs": 232,
+            "Index": 3
+          }
+        ]
+      }
+    ]
+  }
+]

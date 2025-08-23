@@ -53,25 +53,16 @@ using Utilities;
             }
             var albums = LoadAlbums(xmlFilePath);
             Console.WriteLine($"Loaded {albums.Count} albums.");
-            foreach (var album in albums)
-            {
-                var artistName = (album.Artists != null && album.Artists.Count > 0) ? album.Artists[0].ToString() : "Unknown Artist";
-                Console.WriteLine($"Artist: {artistName} | Album: {album.Title} (ID: {album.Id})");
-                if (album.Media != null)
-                {
-                    foreach (var media in album.Media)
-                    {
-                        Console.WriteLine($"  Media: {media.Title}");
-                        if (media.Tracks != null)
-                        {
-                            foreach (var track in media.Tracks)
-                            {
-                                Console.WriteLine($"    Track: {track.Title} ");
-                            }
-                        }
-                    }
-                }
-            }
+
+            // Output the albums collection to data/musicreleases.json
+            var outputDir = Path.Combine("data");
+            if (!Directory.Exists(outputDir))
+                Directory.CreateDirectory(outputDir);
+            var outputPath = Path.Combine(outputDir, "musicreleases.json");
+            var options = new System.Text.Json.JsonSerializerOptions { WriteIndented = true };
+            var json = System.Text.Json.JsonSerializer.Serialize(albums, options);
+            File.WriteAllText(outputPath, json);
+            Console.WriteLine($"Albums written to {outputPath}");
         }
     }
 }
